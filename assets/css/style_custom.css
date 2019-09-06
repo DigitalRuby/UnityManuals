@@ -1,3 +1,5 @@
 header, footer, #header, #title { display: none; }
 #logo { width: 25%; }
 section, .wrapper { max-width: 950px; }
+a, a:visited { color: #FFFFFF; }
+a:hover, a:active { color: #5555DD; }
