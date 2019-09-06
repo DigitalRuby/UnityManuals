@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style_custom.css" />
+<img src="/assets/LogoTransBig.png" id="logo" />
 
 # Manuals for Digital Ruby, LLC Unity Engine Products.
 
