@@ -3,3 +3,5 @@ header, footer, #header, #title {
 }
 
 #logo { width: 50%; }
+
+.wrapper { max-width: 950px; }
