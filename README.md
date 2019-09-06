@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style_custom.css" />
-<img src="/assets/LogoTransBig.png" id="logo" />
+<a href='https://www.digitalruby.com/unity-plugins'><img src="/assets/LogoTransBig.png" id="logo" /></a>
 
 # Manuals for Digital Ruby, LLC Unity Engine Products.
 
