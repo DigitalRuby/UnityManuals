@@ -5,4 +5,5 @@
 
 <ul>
   <li><a href='FingersGestures/index.html'>Fingers - Gestures for Unity</a></li>
+  <li><a href='FastLineRenderer/index.html'>Fast Line Renderer</a></li>
 </ul>
