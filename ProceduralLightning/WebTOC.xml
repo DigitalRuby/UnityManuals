@@ -1,0 +1,931 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="57d40971-c7bc-4771-a049-588ab1f84f2e" Title="DigitalRuby.ThunderAndLightning" Url="html/6104f179-e049-28b4-1bd3-10e10bd0faf2.htm">
+    <HelpTOCNode Title="CameraMode Enumeration" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+    <HelpTOCNode Id="74258281-2960-41a3-a8eb-6ca0e6cb55cd" Title="DemoConfigureScript Class" Url="html/dd055a45-dd85-d126-ab91-076ac5bb396f.htm">
+      <HelpTOCNode Title="DemoConfigureScript Constructor " Url="html/316899e7-3410-f878-9314-5da4f7116c62.htm" />
+      <HelpTOCNode Title="DemoConfigureScript Properties" Url="html/52c09602-dc0c-90f1-6e88-d01b06aab2f9.htm" />
+      <HelpTOCNode Id="2748310b-c0e8-42c7-a5a2-c9d31b692cbc" Title="DemoConfigureScript Methods" Url="html/9963b497-4405-40b0-91f6-cb610296361a.htm">
+        <HelpTOCNode Title="BoltCountSliderChanged Method " Url="html/eecdab99-e4d2-59ee-8fc0-54ce8bcd31ed.htm" />
+        <HelpTOCNode Title="ClearButtonClicked Method " Url="html/d5236ed7-2deb-95b5-bf95-914d18918f86.htm" />
+        <HelpTOCNode Title="CopyButtonClicked Method " Url="html/d53288ce-4ec3-6443-da9b-611ae16e3cfe.htm" />
+        <HelpTOCNode Title="CreateButtonClicked Method " Url="html/6c69c89c-79e0-e03a-acbc-e4d47ad98ddf.htm" />
+        <HelpTOCNode Title="DistanceValueChanged Method " Url="html/ac273849-5ca7-2f9d-7897-7c5eff57944c.htm" />
+        <HelpTOCNode Title="DurationSliderChanged Method " Url="html/fc8e6038-c240-19a4-35c0-b7e4c3758369.htm" />
+        <HelpTOCNode Title="EndLightningDrag Method " Url="html/4d3e53e7-6a1b-13e5-9581-7cf4be732621.htm" />
+        <HelpTOCNode Title="FadePercentValueChanged Method " Url="html/2d68fdfb-f18b-2cbf-9c2e-0b81ed3f909a.htm" />
+        <HelpTOCNode Title="GenerationsSliderChanged Method " Url="html/9506ce88-4935-7413-cc86-cdb02ffe1d46.htm" />
+        <HelpTOCNode Title="GlowSliderValueChanged Method " Url="html/b0226aca-09fc-e4c6-8ea1-b91daed79386.htm" />
+        <HelpTOCNode Title="GrowthMultiplierValueChanged Method " Url="html/3f4842f0-7968-3d16-4bf0-806c862d8eb0.htm" />
+        <HelpTOCNode Title="IntensitySliderValueChanged Method " Url="html/92b049fb-24d2-1c25-ed50-f765cc4c22ed.htm" />
+        <HelpTOCNode Title="LengthSliderValueChanged Method " Url="html/46f4ce34-deb2-fb03-83b9-8d76f8589adc.htm" />
+        <HelpTOCNode Title="OrthographicToggleClicked Method " Url="html/245075a0-3df4-c689-35fa-fa9d9d45a7e3.htm" />
+        <HelpTOCNode Title="StartLightningDrag Method " Url="html/5b74b60c-9a7c-3cbb-e2cd-5995060eb0f4.htm" />
+        <HelpTOCNode Title="TrunkSliderValueChanged Method " Url="html/b246e60b-555a-9f63-784d-435b335aa8f9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="47639d2e-eb20-4777-ab14-7a01fd8f1dd8" Title="DemoConfigureScript Fields" Url="html/d57cbf0b-a3f6-d939-84f7-15e78e9c8ccc.htm">
+        <HelpTOCNode Title="BoltCountSlider Field" Url="html/17c02a6c-bd22-3509-328b-79145c40f2c9.htm" />
+        <HelpTOCNode Title="BoltCountValueLabel Field" Url="html/ad518285-9f09-5f01-5e76-74a8ce61a46e.htm" />
+        <HelpTOCNode Title="ChaosSlider Field" Url="html/516c3e0f-1a93-cb33-062c-4a27222c8634.htm" />
+        <HelpTOCNode Title="ChaosValueLabel Field" Url="html/d46b9df7-aa8a-c5ab-1521-67a602f943c1.htm" />
+        <HelpTOCNode Title="CopySeedButton Field" Url="html/84f8b0ed-9e77-07b6-43a7-3ceb02ea0f15.htm" />
+        <HelpTOCNode Title="DistanceSlider Field" Url="html/99a57edb-32bc-97f4-50d5-5ac9056d47d4.htm" />
+        <HelpTOCNode Title="DistanceValueLabel Field" Url="html/3d8a212d-170c-9820-eb16-05b57ae78dab.htm" />
+        <HelpTOCNode Title="DurationSlider Field" Url="html/a559d095-f8f2-bba8-516d-d8c1a481e088.htm" />
+        <HelpTOCNode Title="DurationValueLabel Field" Url="html/91629edb-46fe-661a-b934-30309914fbe6.htm" />
+        <HelpTOCNode Title="EndImage Field" Url="html/d6be4042-55ba-3c35-1c15-ea64e4c4d474.htm" />
+        <HelpTOCNode Title="FadePercentSlider Field" Url="html/a9ed32f0-24be-4c42-4f0d-fe3fac35854c.htm" />
+        <HelpTOCNode Title="FadePercentValueLabel Field" Url="html/c3b89919-4c05-9ea0-77bf-85cb18e29b93.htm" />
+        <HelpTOCNode Title="ForkednessSlider Field" Url="html/7d567fc7-ecd1-81c7-12bf-7dd5c869cb41.htm" />
+        <HelpTOCNode Title="ForkednessValueLabel Field" Url="html/d07a48e1-fb2f-d795-6de1-393dc4d6597c.htm" />
+        <HelpTOCNode Title="GenerationsSlider Field" Url="html/f35da237-1441-1066-ab96-fea5370d23ed.htm" />
+        <HelpTOCNode Title="GenerationsValueLabel Field" Url="html/800de253-090e-2b77-b00b-b1ac913d805c.htm" />
+        <HelpTOCNode Title="GlowIntensitySlider Field" Url="html/c00825e4-aa17-8e3c-eb47-08592cda9e9d.htm" />
+        <HelpTOCNode Title="GlowIntensityValueLabel Field" Url="html/1a1cf0a2-b7fa-38dd-c163-608b4622bb4c.htm" />
+        <HelpTOCNode Title="GlowWidthSlider Field" Url="html/fb429bc8-9b0a-98e5-966c-84f2cfff5d88.htm" />
+        <HelpTOCNode Title="GlowWidthValueLabel Field" Url="html/8afb097f-3b58-f220-3bcd-7658d861d2b2.htm" />
+        <HelpTOCNode Title="GrowthMultiplierSlider Field" Url="html/0a65c6d7-bff0-e589-3959-6fa24c98a6a7.htm" />
+        <HelpTOCNode Title="GrowthMultiplierValueLabel Field" Url="html/ee192db7-259a-e437-5ffd-96344848bf4a.htm" />
+        <HelpTOCNode Title="IntensitySlider Field" Url="html/f327464d-65e6-7161-e3b9-c45574027bee.htm" />
+        <HelpTOCNode Title="IntensityValueLabel Field" Url="html/488f52bc-9b0c-db70-67d4-2f0853613d65.htm" />
+        <HelpTOCNode Title="LightningBoltScript Field" Url="html/9bbe2120-dc9c-2ae2-0f8a-af22eb84db62.htm" />
+        <HelpTOCNode Title="OrthographicToggle Field" Url="html/878af230-a931-eab0-94bf-a81cbd6a7b9f.htm" />
+        <HelpTOCNode Title="SeedInputField Field" Url="html/18e2bdc6-39ba-4e8a-572d-d13820dc8943.htm" />
+        <HelpTOCNode Title="SeedLabel Field" Url="html/ac72a6b1-dfc8-6f2a-6491-dae7222d1751.htm" />
+        <HelpTOCNode Title="SpaceBarLabel Field" Url="html/ce0e5f1a-4e1b-391a-b083-ca12057e4f60.htm" />
+        <HelpTOCNode Title="StartImage Field" Url="html/e84b8a66-540c-2cbe-7d2c-435659426bcf.htm" />
+        <HelpTOCNode Title="TrunkWidthSlider Field" Url="html/1829bb08-c872-9d8a-9317-cb4779f00c13.htm" />
+        <HelpTOCNode Title="TrunkWidthValueLabel Field" Url="html/1e402796-218d-9b0f-9fd6-43ff7c0ea38a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="23c6d187-caf2-4586-9150-1126c806adbf" Title="DemoMeshScript Class" Url="html/ce81727e-fe86-7fa8-e3aa-6d9848471716.htm">
+      <HelpTOCNode Title="DemoMeshScript Constructor " Url="html/41201984-dfde-9cda-ad78-30c2c0a4cac0.htm" />
+      <HelpTOCNode Title="DemoMeshScript Properties" Url="html/95e9c561-cfa2-5210-1b7c-71b2aa1dd718.htm" />
+      <HelpTOCNode Title="DemoMeshScript Methods" Url="html/926855b8-2088-1b18-0877-2bfaf8a11dc9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="584793e9-8084-46fc-b396-ef3ff895799b" Title="DemoPathScript Class" Url="html/17d7b5e0-2642-b421-8382-2528246ec8b7.htm">
+      <HelpTOCNode Title="DemoPathScript Constructor " Url="html/352c6468-10a3-2f9e-a237-906491dd230d.htm" />
+      <HelpTOCNode Title="DemoPathScript Properties" Url="html/8863ebee-9604-9469-3279-a3de19a180d1.htm" />
+      <HelpTOCNode Title="DemoPathScript Methods" Url="html/3f7372dd-88e1-76f3-79ca-4f99ace5430f.htm" />
+      <HelpTOCNode Id="05a00642-6212-4ef0-9dff-2d524d5206e5" Title="DemoPathScript Fields" Url="html/76b8856a-5da0-ca21-92ca-e85617ad7e1e.htm">
+        <HelpTOCNode Title="Crate Field" Url="html/e25c4a3e-a1c2-cbbd-c44e-04157e9117f0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="226c3992-9c3d-4e32-ac8e-1d7ad6a2664d" Title="DemoPlayerControllerScript Class" Url="html/9c5c99e4-d5ea-33bf-f311-f6b675668fde.htm">
+      <HelpTOCNode Title="DemoPlayerControllerScript Constructor " Url="html/6de4903b-428a-6212-58c4-7977aa686882.htm" />
+      <HelpTOCNode Title="DemoPlayerControllerScript Properties" Url="html/0e986c53-a419-121c-4094-b83714a730aa.htm" />
+      <HelpTOCNode Id="a71bba73-9768-4cef-97b9-228d8077c0ae" Title="DemoPlayerControllerScript Methods" Url="html/a34572e4-dcf7-9cf8-deb2-f487fa95b80a.htm">
+        <HelpTOCNode Title="NextSpell Method " Url="html/a7f70e5d-95ca-1fc9-87e9-b605de7fd125.htm" />
+        <HelpTOCNode Title="PreviousSpell Method " Url="html/c02e70fe-5b08-7945-6579-5b724deebfbe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="efccd3dd-dfc6-44de-86ea-21f78d36c1e0" Title="DemoPlayerControllerScript Fields" Url="html/9594feb9-2ade-f046-981e-02ee268d20a4.htm">
+        <HelpTOCNode Title="RotateSpeed Field" Url="html/6df22965-1b2e-670b-f914-329f4494adf6.htm" />
+        <HelpTOCNode Title="Speed Field" Url="html/c629e2a6-1dc4-9fd7-93bc-150e1be329ac.htm" />
+        <HelpTOCNode Title="SpellLabel Field" Url="html/cfbd0a2e-2628-87c2-a118-2bcaff9e24bb.htm" />
+        <HelpTOCNode Title="Spells Field" Url="html/6a0a2a55-6cdf-1856-e9ee-af96fe896325.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="818a7f49-72ec-44fe-ae24-8fc065c0564e" Title="DemoScript Class" Url="html/6faca78f-c3c7-7326-b746-cf81acbc269a.htm">
+      <HelpTOCNode Title="DemoScript Constructor " Url="html/64636590-d5c1-1743-9172-11e8b47ae2db.htm" />
+      <HelpTOCNode Title="DemoScript Properties" Url="html/1047ee82-182d-2909-b2d3-ac8c2bc8d4e8.htm" />
+      <HelpTOCNode Id="f55740be-a1be-4c1f-9c16-79f90acfb984" Title="DemoScript Methods" Url="html/6c02e5a7-faae-4bc1-e767-cfea0afbb33e.htm">
+        <HelpTOCNode Title="ClampAngle Method " Url="html/4b2bda36-eded-c105-df97-f3d670a8fa06.htm" />
+        <HelpTOCNode Title="ReloadCurrentScene Method " Url="html/5869d703-37fb-864a-a3e8-7310015b31da.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bdabf385-b8c5-42e3-94f8-35e3fc36d020" Title="DemoScript Fields" Url="html/556a3882-cef9-0b13-3ac0-1214cf1a5afb.htm">
+        <HelpTOCNode Title="CloudParticleSystem Field" Url="html/00be5adb-6273-b3a4-8a55-0f9795fbec83.htm" />
+        <HelpTOCNode Title="EnableMouseLook Field" Url="html/c6428037-2780-5963-9a25-c3924451f601.htm" />
+        <HelpTOCNode Title="LightningBoltScript Field" Url="html/8951a44d-f550-1ed6-15ad-87225da34678.htm" />
+        <HelpTOCNode Title="MoveSpeed Field" Url="html/ca94e427-83ab-5e89-b682-cced4f86674b.htm" />
+        <HelpTOCNode Title="ThunderAndLightningScript Field" Url="html/65c9257d-f921-c705-ddaf-eabe38ab1a23.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="99bcddc6-4af3-4b6c-9619-7fae72e5063d" Title="DemoScript2D Class" Url="html/f73cabdf-7b2d-94c3-f3af-783948ba2b07.htm">
+      <HelpTOCNode Title="DemoScript2D Constructor " Url="html/1d03dbf9-b7c8-409a-82d5-f4eedc74e497.htm" />
+      <HelpTOCNode Title="DemoScript2D Properties" Url="html/ed94ed44-5188-edfa-5989-ecb0bd57301d.htm" />
+      <HelpTOCNode Title="DemoScript2D Methods" Url="html/cf46c1a0-ee6e-f5f4-4583-f130cee95129.htm" />
+      <HelpTOCNode Id="075ba83e-fb9b-40db-85e8-5bbda8b27804" Title="DemoScript2D Fields" Url="html/8e09a0ce-741d-a9d3-6740-4acbbf4d73a4.htm">
+        <HelpTOCNode Title="LightningScript Field" Url="html/d4173f79-dab8-51f2-00ae-b0ab29954fc9.htm" />
+        <HelpTOCNode Title="SpriteToRotate Field" Url="html/46f7adf9-4e48-bd24-c351-e3fd3889e252.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9e9c9536-1e22-47a1-ab5a-c33b0d57cf64" Title="DemoScriptManualAutomatic Class" Url="html/8a400c05-daba-029a-83e9-7ae2bbeb93da.htm">
+      <HelpTOCNode Title="DemoScriptManualAutomatic Constructor " Url="html/b2cecf96-68df-d47b-5b59-3d0963d3c9f0.htm" />
+      <HelpTOCNode Title="DemoScriptManualAutomatic Properties" Url="html/2dfb2756-4fe0-e42e-60e3-5df5a10076d4.htm" />
+      <HelpTOCNode Id="233c5ea5-453a-471f-b791-4b6705531723" Title="DemoScriptManualAutomatic Methods" Url="html/92090a82-f83e-104e-d294-0e2c94e93921.htm">
+        <HelpTOCNode Title="AutomaticToggled Method " Url="html/790daa5c-26d6-8fa8-4562-37091c7d5f66.htm" />
+        <HelpTOCNode Title="ManualTriggerClicked Method " Url="html/932dbf88-079d-2210-699f-2a53ea8ffa20.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a1223f84-5594-4235-a1ab-4c0308eae4df" Title="DemoScriptManualAutomatic Fields" Url="html/14e988e0-2a92-ec3c-5083-a954d263882a.htm">
+        <HelpTOCNode Title="a Field" Url="html/00eefff5-9088-7294-1ff6-31995b86f65c.htm" />
+        <HelpTOCNode Title="AutomaticToggle Field" Url="html/30b2e4ac-8312-9e8a-7030-99a21d0833bc.htm" />
+        <HelpTOCNode Title="b Field" Url="html/2e61f811-bbcc-cae8-5bbf-fd718ba0aed7.htm" />
+        <HelpTOCNode Title="LightningPrefab Field" Url="html/4279c966-636c-d29b-5e43-f77ca5f61259.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b7dc704a-d66e-4262-8688-b9ec00d90ccf" Title="DemoScriptMoveRandomly Class" Url="html/2b428b20-49d9-e664-476e-a0d9bf697ed2.htm">
+      <HelpTOCNode Title="DemoScriptMoveRandomly Constructor " Url="html/bfac74ee-76ef-4499-143b-5ca7bc66f2ff.htm" />
+      <HelpTOCNode Title="DemoScriptMoveRandomly Properties" Url="html/c7a7a2e9-81a2-5b85-36fa-56267118bdd3.htm" />
+      <HelpTOCNode Title="DemoScriptMoveRandomly Methods" Url="html/c5a04046-1793-2816-12a1-9c8d4087349b.htm" />
+      <HelpTOCNode Id="f25708d6-f9e2-4f89-b838-d4ffbd636fbf" Title="DemoScriptMoveRandomly Fields" Url="html/10399ae0-a995-11ad-6e05-3f974f03f02a.htm">
+        <HelpTOCNode Title="MoveTimeSeconds Field" Url="html/c38fe419-4a29-a707-9d8a-c11ab5ac3280.htm" />
+        <HelpTOCNode Title="Transform1 Field" Url="html/2bfb38ed-0193-fb82-89b4-e9c2a3d0bf04.htm" />
+        <HelpTOCNode Title="Transform2 Field" Url="html/aa23118d-7a75-6ebe-1be7-fd941bb93c24.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d7c4163b-d905-4bee-a163-6a37188342b4" Title="DemoScriptPrefabTutorial Class" Url="html/c770ba53-2b9e-ed13-952a-731c76f88e72.htm">
+      <HelpTOCNode Title="DemoScriptPrefabTutorial Constructor " Url="html/f135797a-4e28-3974-8ebd-e543ee726e6a.htm" />
+      <HelpTOCNode Title="DemoScriptPrefabTutorial Properties" Url="html/054c4513-c530-dc2b-b309-80204ebc1559.htm" />
+      <HelpTOCNode Title="DemoScriptPrefabTutorial Methods" Url="html/953f28d5-95ae-bcad-b10e-e4d446b1d9de.htm" />
+      <HelpTOCNode Id="9d0e4a06-9c9e-4f4d-adc8-5518e4d5fef6" Title="DemoScriptPrefabTutorial Fields" Url="html/af86383c-1d74-9f2f-4e55-c25e8f4dc97d.htm">
+        <HelpTOCNode Title="LightningScript Field" Url="html/be53e6e9-3153-40a1-626e-95bdc7e731b8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f13c0879-194a-4b12-a73c-e970c2a09c4e" Title="DemoScriptReloadSceneEsc Class" Url="html/ed8b59d5-1224-8ee6-3d4b-efa2519dc50f.htm">
+      <HelpTOCNode Title="DemoScriptReloadSceneEsc Constructor " Url="html/1be92217-42fe-547d-0fb5-3646ab1190c5.htm" />
+      <HelpTOCNode Title="DemoScriptReloadSceneEsc Properties" Url="html/7fc63984-c1c6-b760-5f14-8990707a1db9.htm" />
+      <HelpTOCNode Title="DemoScriptReloadSceneEsc Methods" Url="html/db5b59dc-670a-11b2-f068-7ffcfb045e1b.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5e54d73c-ee31-4bbe-b9aa-6feeb83a0f79" Title="DemoScriptRotate Class" Url="html/ec103e67-bac2-71de-4638-c20b0dad7462.htm">
+      <HelpTOCNode Title="DemoScriptRotate Constructor " Url="html/f74c0d5f-9537-d9db-a79c-b14e3dd32ff7.htm" />
+      <HelpTOCNode Title="DemoScriptRotate Properties" Url="html/a719bda2-feb2-8b59-04a6-c346220a220f.htm" />
+      <HelpTOCNode Title="DemoScriptRotate Methods" Url="html/9e1e6584-cf91-643f-e4db-cea36b8e25d7.htm" />
+      <HelpTOCNode Id="f9e6963c-f020-402c-82c9-c6b496004200" Title="DemoScriptRotate Fields" Url="html/ad807228-fb95-4813-a3a0-f9067e7da433.htm">
+        <HelpTOCNode Title="Rotation Field" Url="html/56d380dc-9bbb-0423-abf7-6a56b99a2bf4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5391a320-8ebf-42e5-bfe9-6a96e9f926f1" Title="DemoScriptTriggerPath Class" Url="html/2523d06e-3bc6-e936-77c8-dd7c9ce1daea.htm">
+      <HelpTOCNode Title="DemoScriptTriggerPath Constructor " Url="html/bd86987f-f679-0411-5949-5547bd7f2098.htm" />
+      <HelpTOCNode Title="DemoScriptTriggerPath Properties" Url="html/3de0f15d-6276-efd7-44fd-5b045d7578fe.htm" />
+      <HelpTOCNode Title="DemoScriptTriggerPath Methods" Url="html/80749644-b93e-5c15-9755-ac1a9e6448cc.htm" />
+      <HelpTOCNode Id="21caa39f-9942-42ae-b120-782609190d0f" Title="DemoScriptTriggerPath Fields" Url="html/95bac11e-7881-5479-6718-41f64b622cf5.htm">
+        <HelpTOCNode Title="Script Field" Url="html/a4e765dc-b177-b2da-d3f9-116047a2dae7.htm" />
+        <HelpTOCNode Title="SplineToggle Field" Url="html/1c828da6-1123-f244-ab26-773a973f7233.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6c1024ab-1516-42b1-b6d1-08f01dd7f38e" Title="ICollisionHandler Interface" Url="html/f3f1dc24-853f-5128-8743-92815e3bd6ad.htm">
+      <HelpTOCNode Id="56bb5ccc-4ac8-41d0-abdc-6f42aa94cfb9" Title="ICollisionHandler Methods" Url="html/1560a8fc-70de-e737-b173-f64226557b7c.htm">
+        <HelpTOCNode Title="HandleCollision Method " Url="html/01dad4ed-d9cd-e903-2c2b-a924a754be80.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="51cebc5c-72eb-4daa-b4e7-f8aaa234166b" Title="LightningBeamSpellScript Class" Url="html/851268f0-33dd-10f5-a4a0-28c456ddd9ab.htm">
+      <HelpTOCNode Title="LightningBeamSpellScript Constructor " Url="html/464a1ff5-4cd8-b498-40db-52118aaff9f6.htm" />
+      <HelpTOCNode Title="LightningBeamSpellScript Properties" Url="html/24681d7e-c900-c145-7a2d-6c01d8a9b5ce.htm" />
+      <HelpTOCNode Id="7eda1d93-ac51-4ec9-b25a-6e4b54ecff70" Title="LightningBeamSpellScript Methods" Url="html/33db13e3-35ee-d0a0-06d7-d44274114124.htm">
+        <HelpTOCNode Title="LateUpdate Method " Url="html/5cd6f0af-7b98-7b0d-106a-1c0444fdb339.htm" />
+        <HelpTOCNode Title="OnCastSpell Method " Url="html/7bdf92e7-3e08-e160-e472-41a3e760fb22.htm" />
+        <HelpTOCNode Title="OnStopSpell Method " Url="html/97b7297b-294c-49a9-ecc3-10c025d16245.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/645ea6b6-b6e0-7a02-c0f1-145165825deb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5b9457b9-afab-462b-81d8-162443c4f029" Title="LightningBeamSpellScript Fields" Url="html/8db52255-9072-2e2d-b92d-6674631c6834.htm">
+        <HelpTOCNode Title="CollisionCallback Field" Url="html/774c3372-7036-0ce2-897e-9e97e7e07c25.htm" />
+        <HelpTOCNode Title="EndPointRandomization Field" Url="html/5c0498a1-c7b0-055d-94bd-8c89029b1de8.htm" />
+        <HelpTOCNode Title="LightningPathScript Field" Url="html/4787cd54-25f4-842c-9395-f70f3adbb6ea.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b4c4344e-94a6-40ef-b9d0-bbaf721fdfcc" Title="LightningBolt Class" Url="html/51101bfb-d47c-a27e-f001-96832ab713fc.htm">
+      <HelpTOCNode Title="LightningBolt Constructor " Url="html/34f0e8c6-ca6c-66bc-3d66-0adfee79fd9a.htm" />
+      <HelpTOCNode Id="1c3cc381-14fa-4165-a81c-2afb5b5a1ae6" Title="LightningBolt Properties" Url="html/db78ced1-6f0e-9d10-4dc6-ff0f334717a6.htm">
+        <HelpTOCNode Title="CameraMode Property " Url="html/71f3a701-cab4-4f43-cac4-6061ade5c4d1.htm" />
+        <HelpTOCNode Title="HasGlow Property " Url="html/ec42ce72-19eb-2f6d-74bd-300482acac11.htm" />
+        <HelpTOCNode Title="IsActive Property " Url="html/05b88939-262b-e013-62d7-756944341957.htm" />
+        <HelpTOCNode Title="MinimumDelay Property " Url="html/4cd8af89-9948-1e13-6623-b536983ed024.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a3c11ba-ad35-4a62-acbe-8d10e82a8946" Title="LightningBolt Methods" Url="html/7efa4b5e-35d0-411e-cac3-1c6d35882946.htm">
+        <HelpTOCNode Title="AddGroup Method " Url="html/e0df2160-7674-8b28-a4b6-774462a0a4cf.htm" />
+        <HelpTOCNode Title="Cleanup Method " Url="html/68f5d0a1-a626-53c5-d717-988cab00835d.htm" />
+        <HelpTOCNode Title="ClearCache Method " Url="html/f3e9984f-6835-42b5-9216-5e05f0218029.htm" />
+        <HelpTOCNode Title="SetupLightningBolt Method " Url="html/32d74cc1-063e-e6e1-1c92-15477941d44e.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/5dbe069d-867b-c613-d4a5-6285fd5480fc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0d1d57b5-cd77-405f-805a-76e92b9718ef" Title="LightningBolt Fields" Url="html/d3ae8780-184b-e21e-4be2-0b55dd17dc4f.htm">
+        <HelpTOCNode Title="MaximumLightCount Field" Url="html/01913b8e-6a2a-aed1-bfff-e0be86a55053.htm" />
+        <HelpTOCNode Title="MaximumLightsPerBatch Field" Url="html/29d2c403-d82b-a00b-c0f5-35fad68c66eb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bb1abcd3-e1bb-4d22-b1dd-07f7b77f9000" Title="LightningBolt.LineRendererMesh Class" Url="html/1960541b-01a4-5459-82a4-1ec3037dc6c7.htm">
+      <HelpTOCNode Title="LightningBolt.LineRendererMesh Constructor " Url="html/227a5006-05df-c7d0-0911-195d52c0c6f0.htm" />
+      <HelpTOCNode Id="5a557b4c-4bc6-4cae-9b77-b0d066181c44" Title="LineRendererMesh Properties" Url="html/0bc3655d-1a36-8fe2-975c-ab8640f1ce06.htm">
+        <HelpTOCNode Title="CustomTransform Property " Url="html/e126096b-c73a-9fc2-94e2-954a20be67c3.htm" />
+        <HelpTOCNode Title="Empty Property " Url="html/f768c1be-9217-df6d-65b0-c9e394b666e0.htm" />
+        <HelpTOCNode Title="GameObject Property " Url="html/69609852-65ce-8fcc-b014-56d59fdffeb3.htm" />
+        <HelpTOCNode Title="MaterialBolt Property " Url="html/93d874d8-0e97-a733-ae81-9e124cfd3a2f.htm" />
+        <HelpTOCNode Title="MaterialGlow Property " Url="html/763a8f68-d7d2-f8b9-1761-d119a8137c25.htm" />
+        <HelpTOCNode Title="MeshRendererBolt Property " Url="html/9522767e-60fc-605f-bffe-2b8fb6d8dc80.htm" />
+        <HelpTOCNode Title="MeshRendererGlow Property " Url="html/42c26e45-fd07-05a4-60f2-3b6e51560a50.htm" />
+        <HelpTOCNode Title="Tag Property " Url="html/67982116-c818-a779-848a-2377ba3335d9.htm" />
+        <HelpTOCNode Title="Transform Property " Url="html/d164e591-22ee-516a-cb95-567869e61304.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="766ead4e-e853-49c5-91f2-da5f5c22f092" Title="LineRendererMesh Methods" Url="html/215b3cfc-dfe5-be38-1da5-b6454c9b4ba7.htm">
+        <HelpTOCNode Title="AppendLine Method " Url="html/501f939d-06a9-807b-4dc5-9e4c14c421ed.htm" />
+        <HelpTOCNode Title="BeginLine Method " Url="html/c51a3b5f-5811-1b1a-32d1-d5e5378a3c93.htm" />
+        <HelpTOCNode Title="PopulateMesh Method " Url="html/d9e5afe6-7cc3-d260-e0fa-beb89b5f72f5.htm" />
+        <HelpTOCNode Title="PrepareForLines Method " Url="html/abadb8a4-e057-2fd7-5604-4a6c87bc213e.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/515181ee-3411-a034-9513-4e1abe927f6e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="caebef14-36e1-42af-acf6-0ca0120dc445" Title="LightningBoltDependencies Class" Url="html/9b22ab33-2c2c-4ade-af32-f6fab8b22655.htm">
+      <HelpTOCNode Title="LightningBoltDependencies Constructor " Url="html/1aabd50a-1fb9-8be9-e585-82a884027491.htm" />
+      <HelpTOCNode Title="LightningBoltDependencies Methods" Url="html/882e0a83-c060-533a-fa13-bb413f802bad.htm" />
+      <HelpTOCNode Id="194cf078-9e95-480d-8e3e-73dd9dd21a2b" Title="LightningBoltDependencies Fields" Url="html/5b4d4d4c-f993-f777-9d39-c5b41b5c620e.htm">
+        <HelpTOCNode Title="AddActiveBolt Field" Url="html/6096b49d-7e45-52a1-0332-2f6a4543f835.htm" />
+        <HelpTOCNode Title="CameraIsOrthographic Field" Url="html/ca88a839-ca83-7a20-a391-868a1d99d8ca.htm" />
+        <HelpTOCNode Title="CameraMode Field" Url="html/5e0db106-cfb0-fb5c-7b00-39bf33ef0c0d.htm" />
+        <HelpTOCNode Title="CameraPos Field" Url="html/e84cc713-8c00-bcc5-342c-053153ae3934.htm" />
+        <HelpTOCNode Title="DestParticleSystem Field" Url="html/204e5263-79b4-cf9d-fa6f-3cb305435c64.htm" />
+        <HelpTOCNode Title="LevelOfDetailDistance Field" Url="html/fefde53d-25f5-ea82-0a1e-8bec8cce5502.htm" />
+        <HelpTOCNode Title="LightAdded Field" Url="html/0287e049-d6bd-131e-3693-07d88d182f79.htm" />
+        <HelpTOCNode Title="LightningBoltEnded Field" Url="html/1c2e82b7-b259-bb65-a504-22aab5e49c0f.htm" />
+        <HelpTOCNode Title="LightningBoltStarted Field" Url="html/18423732-f389-9f5d-0faf-cc7cdcba3fc7.htm" />
+        <HelpTOCNode Title="LightningMaterialMesh Field" Url="html/6f5dd7fe-f809-edcd-8f48-d532e80f0edc.htm" />
+        <HelpTOCNode Title="LightningMaterialMeshNoGlow Field" Url="html/1bc3ebad-9b3c-5db8-c799-19db514e4f76.htm" />
+        <HelpTOCNode Title="LightRemoved Field" Url="html/98f5df7c-0d4d-f8ab-3876-ffb81d6b72f2.htm" />
+        <HelpTOCNode Title="OriginParticleSystem Field" Url="html/8546ad4d-8ff4-e44b-f5f2-29bc72f9bd4b.htm" />
+        <HelpTOCNode Title="Parameters Field" Url="html/b207fc6b-d478-2183-6892-b6617e71632a.htm" />
+        <HelpTOCNode Title="Parent Field" Url="html/f9e8b38f-ed1f-200c-64e1-3a7d7dc7dcf0.htm" />
+        <HelpTOCNode Title="ReturnToCache Field" Url="html/5e3baefb-9220-7372-3226-9fc409059f69.htm" />
+        <HelpTOCNode Title="SortLayerName Field" Url="html/40b0eb06-672d-e1ab-1805-a75d3614608a.htm" />
+        <HelpTOCNode Title="SortOrderInLayer Field" Url="html/8e6973e5-16fc-a382-21e0-643c9c5fcbe1.htm" />
+        <HelpTOCNode Title="StartCoroutine Field" Url="html/c5fe82ed-b2b9-4e9a-9203-bc0ac41cf1a2.htm" />
+        <HelpTOCNode Title="ThreadState Field" Url="html/d0fda5d1-0541-c127-9e76-24ac2e13ab43.htm" />
+        <HelpTOCNode Title="UseWorldSpace Field" Url="html/b785f0d1-ccf2-4093-b535-735d76af8a3d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8c330740-1045-450c-bbe0-bd76694984f2" Title="LightningBoltParameters Class" Url="html/cdd11365-f3bb-1e35-b8a0-bba4855cf645.htm">
+      <HelpTOCNode Title="LightningBoltParameters Constructor " Url="html/374ae5f4-07bb-1aab-cbdf-e268f1a31138.htm" />
+      <HelpTOCNode Id="2d2055da-5aa1-4c79-87df-19995047e743" Title="LightningBoltParameters Properties" Url="html/4831a5af-1902-b0c9-5ef1-000e32f1b56b.htm">
+        <HelpTOCNode Title="Generations Property " Url="html/ce94c7db-95aa-e5bb-b3f6-183bdb955f87.htm" />
+        <HelpTOCNode Title="GrowthMultiplier Property " Url="html/18fa969c-4487-08da-617d-10c35f00a36c.htm" />
+        <HelpTOCNode Title="Points Property " Url="html/24d1c6be-39bb-40e9-3866-34709400ffd3.htm" />
+        <HelpTOCNode Title="Random Property " Url="html/956604cd-a501-817c-4693-1861607dbf0d.htm" />
+        <HelpTOCNode Title="RandomOverride Property " Url="html/b91c8752-ed50-222d-29b3-7a1844d1e7be.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6d23c588-c041-4aa1-bb61-3149beadd0f8" Title="LightningBoltParameters Methods" Url="html/bf9d8e16-1853-5e17-9d43-5a2bea357c68.htm">
+        <HelpTOCNode Title="ApplyVariance Method " Url="html/5e69f09b-bb90-43cd-23f8-55dba24eb00f.htm" />
+        <HelpTOCNode Title="ForkMultiplier Method " Url="html/30cbb1ca-e45f-946a-aaaf-c85a7d7e5946.htm" />
+        <HelpTOCNode Title="GetOrCreateParameters Method " Url="html/e3c7d4cf-be24-b711-2b3e-c46cb659cd26.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/0ce3863b-85af-3b13-e5c1-0c473f0ed3f5.htm" />
+        <HelpTOCNode Title="ReturnParametersToCache Method " Url="html/ee42e17d-a0cb-fd00-b0a5-9060cc42bb85.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2f264097-be04-4051-856c-920b2da12a76" Title="LightningBoltParameters Fields" Url="html/1e7cf69d-ff41-ad19-91f5-a1052abb85d0.htm">
+        <HelpTOCNode Title="ChaosFactor Field" Url="html/7317732e-915d-838a-79d3-9d0a13ccb1db.htm" />
+        <HelpTOCNode Title="ChaosFactorForks Field" Url="html/de8d64e4-6e61-acf2-5f4b-c52f78c0458f.htm" />
+        <HelpTOCNode Title="Color Field" Url="html/97f1c465-e71d-11a6-f7e1-a2ef1279871e.htm" />
+        <HelpTOCNode Title="CustomTransform Field" Url="html/cc4bf4e7-acfd-6455-2be8-db47dba1451a.htm" />
+        <HelpTOCNode Title="Delay Field" Url="html/630666d8-9125-c001-6848-65356f9eec6d.htm" />
+        <HelpTOCNode Title="DelayRange Field" Url="html/c2994cd4-20d7-c708-50c6-7c03567919aa.htm" />
+        <HelpTOCNode Title="End Field" Url="html/79c50cd4-8511-ce45-b4e4-eb6ad536fbb8.htm" />
+        <HelpTOCNode Title="EndVariance Field" Url="html/2b4df8ec-2f17-e36a-d950-e900441ae3e6.htm" />
+        <HelpTOCNode Title="EndWidthMultiplier Field" Url="html/a6d2b98a-6b02-a675-d596-ce0b8291d394.htm" />
+        <HelpTOCNode Title="FadeFullyLitMultiplier Field" Url="html/994868ca-cc1f-ab67-b446-feb30fce4c71.htm" />
+        <HelpTOCNode Title="FadeInMultiplier Field" Url="html/aac078ca-811c-3516-f7ff-5f6dabe7dbf5.htm" />
+        <HelpTOCNode Title="FadeOutMultiplier Field" Url="html/ac04363f-d12c-c0e1-f626-39c0ec2be193.htm" />
+        <HelpTOCNode Title="FadePercent Field" Url="html/ba3a7c72-4fac-72af-1d0a-e609db6c85df.htm" />
+        <HelpTOCNode Title="Forkedness Field" Url="html/1ad1bd97-14d0-be35-9308-6829acb83095.htm" />
+        <HelpTOCNode Title="ForkEndWidthMultiplier Field" Url="html/3f866a15-c14c-8827-9058-f69f3c59412e.htm" />
+        <HelpTOCNode Title="ForkLengthMultiplier Field" Url="html/a01d93fe-c0da-9333-de72-87b07c74334e.htm" />
+        <HelpTOCNode Title="ForkLengthVariance Field" Url="html/b6ffeb13-68f3-6bac-9820-99b8cb5c910d.htm" />
+        <HelpTOCNode Title="GenerationWhereForksStopSubtractor Field" Url="html/862c32fc-f271-d24a-dbf8-8f11d0c09d1a.htm" />
+        <HelpTOCNode Title="Generator Field" Url="html/4208d3cd-8c5f-733f-7bb7-da0ceaf8c3b2.htm" />
+        <HelpTOCNode Title="GlowIntensity Field" Url="html/8844bd32-da6b-204c-c511-20de926ea733.htm" />
+        <HelpTOCNode Title="GlowWidthMultiplier Field" Url="html/776c630c-5fc5-f57b-6317-4dac2768949f.htm" />
+        <HelpTOCNode Title="Intensity Field" Url="html/77ee632c-f707-2369-d88b-779926e20000.htm" />
+        <HelpTOCNode Title="LifeTime Field" Url="html/06c4d958-0577-17f3-8db3-eb2fcdcbc1ff.htm" />
+        <HelpTOCNode Title="LightParameters Field" Url="html/dbb2d5e6-2db8-33eb-c1fb-4b1655c9a5f7.htm" />
+        <HelpTOCNode Title="QualityMaximums Field" Url="html/86757b7d-21e5-d4e1-8840-b14000d33c68.htm" />
+        <HelpTOCNode Title="Scale Field" Url="html/bac803d6-4375-31ed-8449-46b94bf37bab.htm" />
+        <HelpTOCNode Title="SmoothingFactor Field" Url="html/8a92a137-4c5c-8f88-d383-b7fb0a6e779c.htm" />
+        <HelpTOCNode Title="Start Field" Url="html/b35b8b76-4757-441d-2f99-be8956ce9f13.htm" />
+        <HelpTOCNode Title="StartVariance Field" Url="html/a97a8b65-f8c4-e734-84f3-32c57c451ef6.htm" />
+        <HelpTOCNode Title="TrunkWidth Field" Url="html/dee2c6c5-0e03-ccda-f903-cf228ba312a9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aef4cdf8-d8f4-4437-bb51-e953e0529d7a" Title="LightningBoltPathScript Class" Url="html/b6c7db85-7357-c319-43a5-4a46e5064bb6.htm">
+      <HelpTOCNode Title="LightningBoltPathScript Constructor " Url="html/f0467d84-b37d-8b0d-2807-a87b20b66d88.htm" />
+      <HelpTOCNode Title="LightningBoltPathScript Properties" Url="html/4598b67b-8d99-d4cb-e8be-fcf5ba5b50c8.htm" />
+      <HelpTOCNode Id="6a2d9348-ec0d-4a4e-915c-20baaf815763" Title="LightningBoltPathScript Methods" Url="html/6295eeca-883b-bedd-19ce-dd825fd6fbd4.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/4ffaf43b-411f-5115-47a4-d48b69b2f5a4.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/967c4473-6825-7a66-3819-14a626a8e7b0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b51d6c48-ee86-4b2c-87c6-010262fee406" Title="LightningBoltPathScript Fields" Url="html/57564b56-85f9-82a0-c7e0-2f22f1b945b0.htm">
+        <HelpTOCNode Title="Repeat Field" Url="html/471deb34-34c9-9fd1-8559-8d76c9b17ca4.htm" />
+        <HelpTOCNode Title="Speed Field" Url="html/cd17a3ff-001c-0bd8-4618-c8f746545554.htm" />
+        <HelpTOCNode Title="SpeedIntervalRange Field" Url="html/4f9e4c85-bfee-7992-ac8f-828e65e2132e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3f65f8bf-5489-4cf9-94ad-ab4c4633206e" Title="LightningBoltPathScriptBase Class" Url="html/7cfc717a-0dd5-340c-06e9-fb8cbec93373.htm">
+      <HelpTOCNode Title="LightningBoltPathScriptBase Constructor " Url="html/a3d00fa1-6729-fbeb-f9d2-5a8411145a99.htm" />
+      <HelpTOCNode Title="LightningBoltPathScriptBase Properties" Url="html/5180a7c5-eefb-1411-5d39-f5a3923b2504.htm" />
+      <HelpTOCNode Id="14c57603-8771-4828-a159-bf9c7681fea4" Title="LightningBoltPathScriptBase Methods" Url="html/a642aac5-ce11-487d-2a13-12627e55a649.htm">
+        <HelpTOCNode Title="GetCurrentPathObjects Method " Url="html/d80b94e7-baf3-9c3d-2cc2-80d7c98c2062.htm" />
+        <HelpTOCNode Title="OnCreateParameters Method " Url="html/0d12c7c5-4670-3145-b98e-f823366c8a15.htm" />
+        <HelpTOCNode Title="OnDrawGizmos Method " Url="html/e29fc0b9-adfe-dea2-c9ff-c0caf3f8edc9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="02147465-40c5-450b-a057-0bf97000d410" Title="LightningBoltPathScriptBase Fields" Url="html/bbfdb308-9ab8-94fc-a680-3b84067db33f.htm">
+        <HelpTOCNode Title="LightningPath Field" Url="html/4642b825-38bc-b5be-913f-3043e3acae77.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3bee6207-1e2d-470c-bf9b-d0a3afc819ce" Title="LightningBoltPrefabScript Class" Url="html/a4793e62-007b-8b3c-2011-8548a9df9d6c.htm">
+      <HelpTOCNode Title="LightningBoltPrefabScript Constructor " Url="html/30011772-8f4e-f710-e421-025aaf6fefd7.htm" />
+      <HelpTOCNode Title="LightningBoltPrefabScript Properties" Url="html/e2ffc1ed-6a19-7029-abe3-444415cca686.htm" />
+      <HelpTOCNode Id="78e65a4b-805b-411c-a962-a8aab5c5fb91" Title="LightningBoltPrefabScript Methods" Url="html/1560f49a-47a7-6f5a-a209-172f2d81f3a6.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/ba309f41-a016-c66a-9698-2b5de6b95b68.htm" />
+        <HelpTOCNode Title="OnDrawGizmos Method " Url="html/04af5d6d-5543-ce6d-9945-04caa05541d2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a52f6fed-dfc4-4a75-a810-bb865b41b2fe" Title="LightningBoltPrefabScript Fields" Url="html/24e5d5f9-afc4-d5f1-d0e7-182cbdc83877.htm">
+        <HelpTOCNode Title="Destination Field" Url="html/656a1e9d-4eea-d18b-cea3-085990ebca74.htm" />
+        <HelpTOCNode Title="EndVariance Field" Url="html/dafdc195-ce1e-d48d-9ad7-f200431e3d46.htm" />
+        <HelpTOCNode Title="Source Field" Url="html/eb472560-61d4-a11f-d7bb-b9537c7d1928.htm" />
+        <HelpTOCNode Title="StartVariance Field" Url="html/5524e05a-4421-668a-64aa-89e0a330dc5e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5527b9d-d01f-4a09-8f12-d2430bb9f7b6" Title="LightningBoltPrefabScriptBase Class" Url="html/dab7e95f-c53d-3be1-b722-70c876ef7680.htm">
+      <HelpTOCNode Title="LightningBoltPrefabScriptBase Constructor " Url="html/aa855678-79ea-0fab-a890-cc9aeb9cb615.htm" />
+      <HelpTOCNode Id="7d12c3ec-6d09-426f-ba6b-f94185755062" Title="LightningBoltPrefabScriptBase Properties" Url="html/bed9a514-da73-5353-a35b-a3b16cea9784.htm">
+        <HelpTOCNode Title="RandomOverride Property " Url="html/d42baa04-da85-837e-1cb6-917a68f16ee2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7804cb8c-c6e1-44b4-870c-61a6788385dd" Title="LightningBoltPrefabScriptBase Methods" Url="html/7d287294-cc91-fdd0-2a1c-435d9cb24969.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/03f8bcba-3794-f978-daba-c8a2e6f72eba.htm" />
+        <HelpTOCNode Title="CreateLightningBoltsNow Method " Url="html/0e1715bc-768c-fee0-f9b6-78308f60505d.htm" />
+        <HelpTOCNode Title="OnDrawGizmos Method " Url="html/ee4667d7-0ff3-83ce-e839-63c1ce610d81.htm" />
+        <HelpTOCNode Title="PopulateParameters Method " Url="html/f2d69a69-49ff-54e8-acb3-100de747f14a.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/2b130a72-125c-8cb3-6e7e-48e6191f2716.htm" />
+        <HelpTOCNode Id="fca0d6eb-ee91-4f61-8f87-12eda452e3f7" Title="Trigger Method " Url="html/769d91da-3ec6-876e-379e-7f28d752538d.htm">
+          <HelpTOCNode Title="Trigger Method " Url="html/cc788374-170e-ba2e-acbd-cb0aef2e28f6.htm" />
+          <HelpTOCNode Title="Trigger Method (Single)" Url="html/917dbffb-27e5-5811-f5ed-65d9339152a5.htm" />
+          <HelpTOCNode Title="Trigger Method (Nullable(Vector3), Nullable(Vector3))" Url="html/d627fc87-0590-2609-c61c-be8c6f6f890a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Update Method " Url="html/88b3730a-9a27-c0db-dfb4-d6ac1a63cab8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3f48c30c-2fb1-495c-bfd2-06afafbd70a9" Title="LightningBoltPrefabScriptBase Fields" Url="html/ac0e3478-7c5e-4a1e-0bcf-8c8c58f5851d.htm">
+        <HelpTOCNode Title="AutomaticModeSeconds Field" Url="html/6e09df20-f123-eb29-e1e2-14650263d387.htm" />
+        <HelpTOCNode Title="ChaosFactor Field" Url="html/601e4b5b-7311-d6ff-31f3-93e9792f18f4.htm" />
+        <HelpTOCNode Title="ChaosFactorForks Field" Url="html/dae07c72-ae52-3faf-c716-59f778084694.htm" />
+        <HelpTOCNode Title="CountProbabilityModifier Field" Url="html/d2673b0e-7abf-2508-4714-cd6474f758b0.htm" />
+        <HelpTOCNode Title="CountRange Field" Url="html/e4f9ae80-8e11-58a9-926a-4ca2d9dae00d.htm" />
+        <HelpTOCNode Title="CustomTransformHandler Field" Url="html/e2bfb767-7035-1e74-7e87-4038c485405a.htm" />
+        <HelpTOCNode Title="DelayRange Field" Url="html/6c0504d2-2bec-9e4e-7f1a-bee243041792.htm" />
+        <HelpTOCNode Title="DurationRange Field" Url="html/34e872f0-8465-8f43-4506-f1255ad4a442.htm" />
+        <HelpTOCNode Title="EndWidthMultiplier Field" Url="html/b608a9b7-7987-5548-9322-e629c3ec50f5.htm" />
+        <HelpTOCNode Title="FadeFullyLitMultiplier Field" Url="html/9924e8b8-1248-8c6b-454b-690235f16f48.htm" />
+        <HelpTOCNode Title="FadeInMultiplier Field" Url="html/aae8c64c-50ca-df84-2d58-e87d08a1153a.htm" />
+        <HelpTOCNode Title="FadeOutMultiplier Field" Url="html/09b80146-4d39-0e6f-1564-f3dc30dfc13f.htm" />
+        <HelpTOCNode Title="FadePercent Field" Url="html/bb8efb21-7c99-039e-4b5e-0b52a2b8b994.htm" />
+        <HelpTOCNode Title="Forkedness Field" Url="html/dc129b5f-8804-1ff3-149d-e60fd2c4049a.htm" />
+        <HelpTOCNode Title="ForkEndWidthMultiplier Field" Url="html/91291902-a74d-c3ef-0c37-c64f33277565.htm" />
+        <HelpTOCNode Title="ForkLengthMultiplier Field" Url="html/14182fe7-05ba-1b52-6789-960fdb7114a1.htm" />
+        <HelpTOCNode Title="ForkLengthVariance Field" Url="html/2a28c138-bd02-ff8a-21d8-ce7249b9ed1e.htm" />
+        <HelpTOCNode Title="Generations Field" Url="html/022e7098-67c9-bbbe-b56e-75faf58f44ed.htm" />
+        <HelpTOCNode Title="GlowIntensity Field" Url="html/49ef4d4d-1571-d355-5c86-3782fed1d53f.htm" />
+        <HelpTOCNode Title="GlowWidthMultiplier Field" Url="html/72416c2e-77d0-0e96-c769-6b8c723b54cc.htm" />
+        <HelpTOCNode Title="GrowthMultiplier Field" Url="html/a2d80540-656f-7186-4e4e-334d374dd3ca.htm" />
+        <HelpTOCNode Title="Intensity Field" Url="html/f1a53e15-d38b-d9a4-3993-fecfac6e97a9.htm" />
+        <HelpTOCNode Title="IntervalRange Field" Url="html/e0aab7ba-39a4-1271-469c-127f03d7e94f.htm" />
+        <HelpTOCNode Title="LifeTime Field" Url="html/9513d634-8e99-cbf9-982d-a4792d5b0304.htm" />
+        <HelpTOCNode Title="LightParameters Field" Url="html/e229376a-f9bd-1262-0d3c-205c1d5fcfde.htm" />
+        <HelpTOCNode Title="ManualMode Field" Url="html/6f71ae64-47b2-d6d4-15a2-96ee67dfea69.htm" />
+        <HelpTOCNode Title="MaximumLightsPerBatch Field" Url="html/56797a46-0e8d-a2e9-67c5-875af694a6b5.htm" />
+        <HelpTOCNode Title="TrunkWidthRange Field" Url="html/b320fa43-5e56-d6ec-0846-4764fdf13f87.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LightningBoltQualitySetting Enumeration" Url="html/c39ffb70-3d8f-4c4a-1643-9e3392f4565a.htm" />
+    <HelpTOCNode Id="62108a4b-e9cc-41d6-9074-89ee45d2335d" Title="LightningBoltScript Class" Url="html/55e600ea-92e9-1b29-2fb4-8d55c4b7ef4a.htm">
+      <HelpTOCNode Title="LightningBoltScript Constructor " Url="html/0b4e7dbe-5bb1-769f-ef20-3951d0b04da4.htm" />
+      <HelpTOCNode Id="576ec64f-89d5-4089-945b-e558136e3444" Title="LightningBoltScript Properties" Url="html/9675aa1f-e7d0-8e9b-ea5b-a15fa1063b7f.htm">
+        <HelpTOCNode Title="DeltaTime Property " Url="html/77e82e4c-c4e3-703f-8dce-da49c2bd1cb0.htm" />
+        <HelpTOCNode Title="HasActiveBolts Property " Url="html/ca9ae034-8e18-8c95-5afb-30cdb1915aa1.htm" />
+        <HelpTOCNode Title="LightAddedCallback Property " Url="html/1d01738e-d045-00c0-6966-ccd31d12e424.htm" />
+        <HelpTOCNode Title="LightningEndedCallback Property " Url="html/5001ae37-359d-4d81-6eb6-3f5ffd76edf6.htm" />
+        <HelpTOCNode Title="LightningStartedCallback Property " Url="html/296f6a73-b52f-4598-132c-8a57fc208654.htm" />
+        <HelpTOCNode Title="LightRemovedCallback Property " Url="html/579d7cae-41f6-83e1-a6e9-3333ce03a049.htm" />
+        <HelpTOCNode Title="TimeSinceStart Property " Url="html/6f28f7fb-9ad0-32ea-76ef-c2e728be8745.htm" />
+        <HelpTOCNode Title="TimeVectorSinceStart Property " Url="html/0b12d82f-8668-3f48-00cd-e9fd702094a5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b13e8ed8-45c0-408c-950f-d18173e5c626" Title="LightningBoltScript Methods" Url="html/40f9926b-0eb4-a5d3-681b-7ed8d752e52d.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/faad81e5-57d5-013a-86bf-5ed738686736.htm" />
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/25409f7b-a98f-2553-e1c1-4486098e8fe5.htm" />
+        <HelpTOCNode Title="CreateLightningBolts Method " Url="html/fb9f7202-67c9-9b9c-1303-24cbf59c6894.htm" />
+        <HelpTOCNode Title="CreateParameters Method " Url="html/bf94eec4-00ba-6a30-6c23-06f325972ff4.htm" />
+        <HelpTOCNode Title="LateUpdate Method " Url="html/1cd40db3-b78a-df8a-fcc7-f6c37cadfc4f.htm" />
+        <HelpTOCNode Title="OnCreateParameters Method " Url="html/2b44248a-cc54-ea4c-4a1e-4dae69d9051f.htm" />
+        <HelpTOCNode Title="PopulateParameters Method " Url="html/0fb02673-31b5-c253-11b5-27749a9ba2b0.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/10fbf2d9-704d-89d5-ead0-a41fb6159969.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/ecbc5f92-2ea0-cd21-f3db-4d75c4e1ce93.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1572a2b9-e5d7-417f-8ac1-75fa0e753681" Title="LightningBoltScript Fields" Url="html/2b3febe0-5e76-8777-912c-0bd649140a4f.htm">
+        <HelpTOCNode Title="Camera Field" Url="html/9bc4bccf-32e1-8651-3390-32fdfbb37c51.htm" />
+        <HelpTOCNode Title="CameraMode Field" Url="html/80c38427-6341-6583-158f-fd7d96d87bfa.htm" />
+        <HelpTOCNode Title="CompensateForParentTransform Field" Url="html/790bb5cb-c976-6ac0-1c4f-2583fbe60596.htm" />
+        <HelpTOCNode Title="DestinationBlendMode Field" Url="html/dd4cd799-f7ab-2a66-d0ef-39fa30ca9c1c.htm" />
+        <HelpTOCNode Title="GlowTintColor Field" Url="html/9a88c10b-ab7b-fcb5-5e1b-5e3a4d160dd8.htm" />
+        <HelpTOCNode Title="HideGizmos Field" Url="html/47ab2c73-f73b-68b2-e15e-484a16ac369b.htm" />
+        <HelpTOCNode Title="IntensityFlicker Field" Url="html/013e2f69-4fa9-e767-e0e9-979a925d995c.htm" />
+        <HelpTOCNode Title="IntensityFlickerTexture Field" Url="html/9ad9d5e8-c89c-d530-b10f-d26b00ae2b3d.htm" />
+        <HelpTOCNode Title="JitterMultiplier Field" Url="html/a9baf372-d77e-0b8e-bddf-deb6e36380ff.htm" />
+        <HelpTOCNode Title="LevelOfDetailDistance Field" Url="html/4fc36cec-615e-bd62-f1b8-a12d8a93ea16.htm" />
+        <HelpTOCNode Title="LightningDestinationParticleSystem Field" Url="html/9deb8e23-112a-3094-2b68-a93895db367a.htm" />
+        <HelpTOCNode Title="LightningGlowTexture Field" Url="html/788696f3-1577-66e6-d392-76fe800bc815.htm" />
+        <HelpTOCNode Title="LightningMaterialMesh Field" Url="html/8732e0b1-134d-4f59-beec-affd700ef10c.htm" />
+        <HelpTOCNode Title="LightningMaterialMeshNoGlow Field" Url="html/c881715e-4542-7e14-d3e8-70ef673ca662.htm" />
+        <HelpTOCNode Title="LightningOriginParticleSystem Field" Url="html/b03a74b4-2489-efd1-d0a9-609d2fe02d7c.htm" />
+        <HelpTOCNode Title="LightningTexture Field" Url="html/4ab74857-1bfd-f688-8edd-b10e5f215757.htm" />
+        <HelpTOCNode Title="LightningTintColor Field" Url="html/2bd83f1d-db0a-ef53-2612-981e9481d296.htm" />
+        <HelpTOCNode Title="MultiThreaded Field" Url="html/b377b19d-9f5b-7a0d-56d4-93e367797df0.htm" />
+        <HelpTOCNode Title="QualitySetting Field" Url="html/19c12a1b-1c73-56c4-7c21-9e2e274cd02f.htm" />
+        <HelpTOCNode Title="RenderQueue Field" Url="html/fe4a6043-9825-45d2-c884-ac9d352cf9da.htm" />
+        <HelpTOCNode Title="SoftParticlesFactor Field" Url="html/3c536000-efd4-3b2c-9de9-2661bb6fc6e6.htm" />
+        <HelpTOCNode Title="SortLayerName Field" Url="html/2716d63b-bdd4-0fcd-e3b9-dff980bbae67.htm" />
+        <HelpTOCNode Title="SortOrderInLayer Field" Url="html/8b5ee2c5-97f0-7d67-de2d-22a18b968b26.htm" />
+        <HelpTOCNode Title="SourceBlendMode Field" Url="html/75b35990-60cd-5567-be6f-fee3025eb80d.htm" />
+        <HelpTOCNode Title="TimeScale Field" Url="html/19c66397-8339-e635-197b-9f3ca3571c09.htm" />
+        <HelpTOCNode Title="Turbulence Field" Url="html/7b7f647a-4691-eeb0-339d-88ad6bd7f3eb.htm" />
+        <HelpTOCNode Title="TurbulenceVelocity Field" Url="html/20bc4126-8d34-2d6e-0f70-4cbb1964e82d.htm" />
+        <HelpTOCNode Title="UseGameTime Field" Url="html/0ad1748e-a881-338c-c43d-0d46dc99301b.htm" />
+        <HelpTOCNode Title="UseWorldSpace Field" Url="html/c2612b18-8993-6c4e-3c2c-5f89d46b61ca.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1e878bd6-9e6d-4f9e-b17f-8b3d5fa58671" Title="LightningBoltSegment Structure" Url="html/d0d6f391-dac6-8edf-f9c5-ce24118adc90.htm">
+      <HelpTOCNode Id="2f5960e3-33d3-4366-9cb0-81d1f28e4a67" Title="LightningBoltSegment Methods" Url="html/3df519bf-d283-0a6c-72df-7f683428078f.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/bde9d043-08c0-5ccf-9d15-00fb7f3efbbc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c4c00f20-425c-4e8f-ac2c-1e3755f5d5b1" Title="LightningBoltSegment Fields" Url="html/929c1fb6-2299-ff4c-dbec-c1ed2e3ba661.htm">
+        <HelpTOCNode Title="End Field" Url="html/34856a9e-8251-c02c-6db8-247673aaa8e1.htm" />
+        <HelpTOCNode Title="Start Field" Url="html/8b368c64-9a86-e826-253d-af5a6361ead0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fc776d06-36b5-4814-894c-f6a835b251d7" Title="LightningBoltSegmentGroup Class" Url="html/11f3a934-e27b-2474-f689-2659c55ff739.htm">
+      <HelpTOCNode Title="LightningBoltSegmentGroup Constructor " Url="html/f9ea99c5-3b3d-4d96-ef5a-0b66e2e0f75a.htm" />
+      <HelpTOCNode Id="b9821a1e-b80d-4eb0-a011-73fb537ec481" Title="LightningBoltSegmentGroup Properties" Url="html/756f115a-5b9f-6f77-3481-6e5f2b9b7e48.htm">
+        <HelpTOCNode Title="SegmentCount Property " Url="html/f8fb4960-566f-45dc-274a-12d852467696.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="490eb86c-9707-47c5-9f5e-96f7dc37e993" Title="LightningBoltSegmentGroup Methods" Url="html/239c6357-c55c-99b7-ebdc-233fd054eb2d.htm">
+        <HelpTOCNode Title="Reset Method " Url="html/b69eea18-0f23-f454-b2fe-571303dbb02e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dbb5f5bf-f882-42c6-88ad-dd6d886cf06e" Title="LightningBoltSegmentGroup Fields" Url="html/06a9cac3-ad82-8ac9-d231-9371c2abcae2.htm">
+        <HelpTOCNode Title="Color Field" Url="html/2accd977-24d5-41b9-4e24-8f1291e8920d.htm" />
+        <HelpTOCNode Title="Delay Field" Url="html/9d88df7c-271c-a1c7-b828-ba0e58c08b52.htm" />
+        <HelpTOCNode Title="EndWidthMultiplier Field" Url="html/e3e8e7d3-d947-8788-f850-62f7658c9887.htm" />
+        <HelpTOCNode Title="Generation Field" Url="html/f81ebfa8-5394-1646-1fca-c0d40b57a660.htm" />
+        <HelpTOCNode Title="LifeTime Field" Url="html/462efaea-8008-4ea5-c3d5-42a657a48912.htm" />
+        <HelpTOCNode Title="LightParameters Field" Url="html/b9b0f324-9799-fc03-8cba-5c8ea87695ad.htm" />
+        <HelpTOCNode Title="Lights Field" Url="html/eaf70c18-f0da-717f-2ef9-b307c2961fa0.htm" />
+        <HelpTOCNode Title="LineWidth Field" Url="html/945d3d36-5c41-fda6-ccec-b43bac255998.htm" />
+        <HelpTOCNode Title="PeakEnd Field" Url="html/bef9e063-b2c6-51c8-ce4b-d4a356494600.htm" />
+        <HelpTOCNode Title="PeakStart Field" Url="html/569989d4-252a-cef1-08ad-1c47f3c5ad02.htm" />
+        <HelpTOCNode Title="Segments Field" Url="html/bb2ed181-c52c-ef93-d475-a91ea87ccafa.htm" />
+        <HelpTOCNode Title="StartIndex Field" Url="html/46d809ae-b8ac-a719-2eba-a04608bf7ae5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="893578f0-69aa-42de-a0d1-dcf2bc8f6a92" Title="LightningBoltShapeConeScript Class" Url="html/36dffa58-1c26-c613-e629-d7fe6deb12db.htm">
+      <HelpTOCNode Title="LightningBoltShapeConeScript Constructor " Url="html/5711df50-5a4d-3629-e580-2ec82f5327e3.htm" />
+      <HelpTOCNode Title="LightningBoltShapeConeScript Properties" Url="html/c490520f-040b-175f-0bfa-88e6ab0cb971.htm" />
+      <HelpTOCNode Id="a52e57c9-08f1-4cdd-8d6f-6b057b2c04a0" Title="LightningBoltShapeConeScript Methods" Url="html/263b8600-8c2f-c1c3-c831-f01b2dc32d96.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/83ff0c16-63c5-0c5e-a5c8-4a8ef02d670e.htm" />
+        <HelpTOCNode Title="OnDrawGizmos Method " Url="html/e017aef7-2e04-3f5b-d8d1-4c562feeb577.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="69a1a23d-25b4-4193-a218-f31f1488ae74" Title="LightningBoltShapeConeScript Fields" Url="html/2bfb7f0f-8587-1206-936b-1c058adc0d3a.htm">
+        <HelpTOCNode Title="InnerRadius Field" Url="html/2ddbc402-6359-eb7e-5987-c3a267fd8ad6.htm" />
+        <HelpTOCNode Title="Length Field" Url="html/16099fbe-0955-12e7-6641-e3bfd203f396.htm" />
+        <HelpTOCNode Title="OuterRadius Field" Url="html/bd115afa-0e17-7fc1-82a5-10205cd07e5e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="95f8c436-34ba-4bd4-82d9-09a462a99c32" Title="LightningBoltShapeSphereScript Class" Url="html/7569f26e-918f-ce3e-6dd2-aadb2f63b8b2.htm">
+      <HelpTOCNode Title="LightningBoltShapeSphereScript Constructor " Url="html/a1a597e6-1cd0-ca15-8fbd-8c91f9420807.htm" />
+      <HelpTOCNode Title="LightningBoltShapeSphereScript Properties" Url="html/154bbf44-3d4e-3daa-bf8d-8e006d176c88.htm" />
+      <HelpTOCNode Id="a7e783b0-2f41-4522-99ca-51c9a0a09c98" Title="LightningBoltShapeSphereScript Methods" Url="html/1087ef29-3164-3e7d-0287-d16b0cae419b.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/d27f65c0-c13b-722b-4de6-67e9417374c2.htm" />
+        <HelpTOCNode Title="OnDrawGizmos Method " Url="html/e7ea7165-d9db-aeba-17be-b371450f38dd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f530e73-2443-4e12-ab58-d0c9b4b07d0c" Title="LightningBoltShapeSphereScript Fields" Url="html/0dbc26cd-24ad-d806-852e-f4d20d7dab47.htm">
+        <HelpTOCNode Title="InnerRadius Field" Url="html/67c36d7b-4e85-78fb-b2ab-6e65a31d1b32.htm" />
+        <HelpTOCNode Title="Radius Field" Url="html/cc38a2e3-0369-a5e7-d415-ad1a83b0826c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ee790aaf-3650-441b-99c1-47e878f7f97c" Title="LightningBoltTransformTrackerScript Class" Url="html/4bcf4a02-9246-c1cb-d83a-76947f01f27d.htm">
+      <HelpTOCNode Title="LightningBoltTransformTrackerScript Constructor " Url="html/ab86b2c9-bbc8-333c-990a-40cc9fa8db42.htm" />
+      <HelpTOCNode Title="LightningBoltTransformTrackerScript Properties" Url="html/f3f84253-3f36-4a6d-bf0b-11e7f7d9a21a.htm" />
+      <HelpTOCNode Id="090472fb-c5e8-46de-bc14-64e1432573fd" Title="LightningBoltTransformTrackerScript Methods" Url="html/3e08f21c-c37d-527d-8d43-2e114c90ecc3.htm">
+        <HelpTOCNode Title="CustomTransformHandler Method " Url="html/61fa6147-3b16-519b-306f-b6915cd131c2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="15c9750e-5de0-4f94-9193-44ab1c43a334" Title="LightningBoltTransformTrackerScript Fields" Url="html/a9397142-8f10-7180-ac19-cf986a0bcf48.htm">
+        <HelpTOCNode Title="EndTarget Field" Url="html/f7c3b0db-a63b-d616-e137-5952b34a5470.htm" />
+        <HelpTOCNode Title="LightningScript Field" Url="html/640fd150-b2e2-375e-bc28-266bff9366f4.htm" />
+        <HelpTOCNode Title="ScaleLimit Field" Url="html/bf279254-61f6-bf76-6ad2-21c3960cdb2f.htm" />
+        <HelpTOCNode Title="StartTarget Field" Url="html/5db449a4-c9f5-c326-40e9-e9c6f9046050.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="673688eb-b289-4778-a829-c16bd1efeed9" Title="LightningCustomTransformDelegate Class" Url="html/96a90aa8-d7ff-5efa-20e2-901522487abe.htm">
+      <HelpTOCNode Title="LightningCustomTransformDelegate Constructor " Url="html/eae0ba70-9975-b2f2-9ac8-1cc743405cf8.htm" />
+      <HelpTOCNode Title="LightningCustomTransformDelegate Methods" Url="html/206cb927-4dbc-f537-84f0-f7c0e07b1b44.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="LightningCustomTransformState Enumeration" Url="html/76e184d9-712c-5448-ea83-c9a2be45de3b.htm" />
+    <HelpTOCNode Id="7ef47659-9929-477a-b0c9-d6531872b92e" Title="LightningCustomTransformStateInfo Class" Url="html/8d21cd71-737f-416f-9ca7-92bbe2e408a6.htm">
+      <HelpTOCNode Title="LightningCustomTransformStateInfo Constructor " Url="html/b030ed4a-7174-fe36-5399-c868ac0ac2bc.htm" />
+      <HelpTOCNode Id="a86136bd-97f6-4e10-96d3-7053739811bb" Title="LightningCustomTransformStateInfo Properties" Url="html/d1424f18-15c8-cf28-6d1b-fa498a9beaca.htm">
+        <HelpTOCNode Title="Parameters Property " Url="html/ac459fc3-34ff-05e7-6c2d-6397ff6522e3.htm" />
+        <HelpTOCNode Title="State Property " Url="html/958c3307-b084-b519-4552-7393f6612530.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d953f5e0-cac8-4653-b417-5fdeccded015" Title="LightningCustomTransformStateInfo Methods" Url="html/1516860f-9e12-3b8e-00b3-6688f275b860.htm">
+        <HelpTOCNode Title="GetOrCreateStateInfo Method " Url="html/bb011487-6a5c-4e98-ed7b-a415f9958658.htm" />
+        <HelpTOCNode Title="ReturnStateInfoToCache Method " Url="html/93c9de1b-ec2a-a2b0-6af9-3fc8c1e4fbe2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ec751d8a-0fe9-47cc-b008-7f660ad586e1" Title="LightningCustomTransformStateInfo Fields" Url="html/cd8634bb-910c-bf4e-b1fe-40871723ce3f.htm">
+        <HelpTOCNode Title="BoltEndPosition Field" Url="html/b58d25f2-8db9-7f07-576d-39aa70a8d183.htm" />
+        <HelpTOCNode Title="BoltStartPosition Field" Url="html/f61952e7-5180-49f2-8992-de58c3dfc4b1.htm" />
+        <HelpTOCNode Title="EndTransform Field" Url="html/4995eb00-4aa0-98fd-fa5a-11dec5d36bda.htm" />
+        <HelpTOCNode Title="StartTransform Field" Url="html/d4c75b43-f245-f1c5-03c5-0dc73a952812.htm" />
+        <HelpTOCNode Title="Transform Field" Url="html/d2b29a5b-edb8-45a4-5173-352b6ff5a83f.htm" />
+        <HelpTOCNode Title="UserInfo Field" Url="html/990b7ebb-e802-d0e4-7062-8ad1727e3722.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0524dc44-e0bc-4bdd-9e5d-2097bb66cfee" Title="LightningFieldScript Class" Url="html/05028084-0d0f-7f98-7a66-7d4a89e01eba.htm">
+      <HelpTOCNode Title="LightningFieldScript Constructor " Url="html/c1edc858-6888-74d5-f13d-4dea56abe1f3.htm" />
+      <HelpTOCNode Title="LightningFieldScript Properties" Url="html/67d8331c-921e-977c-de19-75bf4860f9a9.htm" />
+      <HelpTOCNode Id="f745fe86-42e4-4c4d-a871-29f53c0421d4" Title="LightningFieldScript Methods" Url="html/185184e9-dc62-dcfb-e34f-814613a24686.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/9c9bdd07-7d7c-5cf0-15fb-558333059b69.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/3d324602-7619-a2c8-544e-c89efba68fdd.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/06f64f61-acea-3f75-a525-20ca755914a5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e8768699-a331-4194-9a5a-9f5b988f981b" Title="LightningFieldScript Fields" Url="html/05665483-4ed7-b3b8-11be-e04fbeab1c23.htm">
+        <HelpTOCNode Title="FieldBounds Field" Url="html/bc0b94cf-49ce-c3d4-7164-820ed8defe67.htm" />
+        <HelpTOCNode Title="Light Field" Url="html/a06ab7dd-631e-699c-4299-d7e522973338.htm" />
+        <HelpTOCNode Title="MinimumLength Field" Url="html/b93eaca8-036e-4bbd-3611-3333faf7350a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="82f5aba5-a514-433f-a677-3ecc29dfad2c" Title="LightningGenerator Class" Url="html/ee4e16a1-d023-a8a1-1b8d-832ed96884df.htm">
+      <HelpTOCNode Title="LightningGenerator Constructor " Url="html/c0236ea6-37bb-607c-e07f-938cebe897b2.htm" />
+      <HelpTOCNode Id="0856da11-405a-462e-91d1-bd514e4527ad" Title="LightningGenerator Methods" Url="html/38c5191d-23af-9560-fed4-5a61e90242d3.htm">
+        <HelpTOCNode Title="CreateFork Method " Url="html/6bb21c98-b987-6c9b-88c9-c821337f5f50.htm" />
+        <HelpTOCNode Id="cf878f03-541c-462f-8eaa-99f6a2120355" Title="GenerateLightningBolt Method " Url="html/1678ea53-b2c9-a33f-42ba-2cc24f662627.htm">
+          <HelpTOCNode Title="GenerateLightningBolt Method (LightningBolt, LightningBoltParameters)" Url="html/a26e8953-ca1d-c57e-4d1f-2cffeea3a65f.htm" />
+          <HelpTOCNode Title="GenerateLightningBolt Method (LightningBolt, LightningBoltParameters, Vector3, Vector3)" Url="html/ca5f5bb0-3e3d-e81f-f14f-a87d79c29dab.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GenerateLightningBoltStandard Method " Url="html/c4081613-ff3e-f5e3-5dd1-c331f257d8b3.htm" />
+        <HelpTOCNode Title="OnGenerateLightningBolt Method " Url="html/b0b89dfc-be02-2d31-c7f9-fffcd67ad802.htm" />
+        <HelpTOCNode Title="RandomDirection2D Method " Url="html/ea89799e-8ec5-2c9d-7e40-6d7601f1ce63.htm" />
+        <HelpTOCNode Title="RandomDirection2DXZ Method " Url="html/5d2a8e03-0120-8bfa-5451-514dad62ac99.htm" />
+        <HelpTOCNode Title="RandomDirection3D Method " Url="html/2049be24-0a39-628b-36c8-de55d63932c9.htm" />
+        <HelpTOCNode Title="RandomVector Method " Url="html/54c7c655-ed16-900a-7db0-bfe70b5ca031.htm" />
+        <HelpTOCNode Title="ShouldCreateFork Method " Url="html/3cb99bdf-fd60-629c-e350-4d4055b80382.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2211008e-4765-4028-a7d2-43011c7afc8e" Title="LightningGenerator Fields" Url="html/0a177d28-ce7f-53de-b5ef-c8c46e02ad10.htm">
+        <HelpTOCNode Title="GeneratorInstance Field" Url="html/399717a5-8d57-3b26-323e-0fc3dcbf819d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b906a628-527d-48b9-a975-c8d72ea69dda" Title="LightningGeneratorPath Class" Url="html/dc0c5d35-f42a-7ad6-e135-4481bc371cce.htm">
+      <HelpTOCNode Title="LightningGeneratorPath Constructor " Url="html/ac358461-d429-79f2-eb6a-c3bdf02162b8.htm" />
+      <HelpTOCNode Id="17576c3e-06df-44e4-8254-6f64f5b9b54f" Title="LightningGeneratorPath Methods" Url="html/6326d435-52c3-a0a5-b6e0-c37df0837aec.htm">
+        <HelpTOCNode Title="GenerateLightningBoltPath Method " Url="html/9c267eb6-cccd-a22c-887b-8740b72255bf.htm" />
+        <HelpTOCNode Title="OnGenerateLightningBolt Method " Url="html/a20e1507-35ce-e4a8-a069-c3eaeb27d019.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="745df3c0-a742-4382-9dec-49af35ae1ec1" Title="LightningGeneratorPath Fields" Url="html/0d0ed2af-a157-3590-0542-99d08ae12200.htm">
+        <HelpTOCNode Title="PathGeneratorInstance Field" Url="html/304d4f32-302f-2040-5ae2-bd529b9d7de3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="83c3f4b4-613b-4022-9a4e-596339c77f07" Title="LightningGizmoScript Class" Url="html/1838b9e4-22fe-e02c-30eb-3e02f7e1e07b.htm">
+      <HelpTOCNode Title="LightningGizmoScript Constructor " Url="html/34066f50-f673-8a23-c418-073bf6edd58b.htm" />
+      <HelpTOCNode Id="d4fd5b21-e0e7-45e5-b7fd-9799c7d75acf" Title="LightningGizmoScript Properties" Url="html/4a320ecd-c0b8-1188-3940-7f5e270f4891.htm">
+        <HelpTOCNode Title="Label Property " Url="html/e21284c6-8467-147b-c872-d2ffb206155f.htm" />
+        <HelpTOCNode Title="LightningBoltScript Property " Url="html/a517fcdd-98ce-17e0-f559-eb3288b32b91.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LightningGizmoScript Methods" Url="html/a78a3f25-9cbd-7786-69b0-9e78e8d840f6.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="256d25c5-5088-4f28-8b7c-34e4673779be" Title="LightningLightParameters Class" Url="html/8ff21d7e-9341-31ab-b921-94dd8d92cc7b.htm">
+      <HelpTOCNode Title="LightningLightParameters Constructor " Url="html/3eb15e3c-c485-4c75-8448-c3cfa8647abc.htm" />
+      <HelpTOCNode Id="acace074-9dde-491b-93c3-73141dd17d37" Title="LightningLightParameters Properties" Url="html/940177c9-aa50-1771-39a4-e82b195ec551.htm">
+        <HelpTOCNode Title="HasLight Property " Url="html/939060a1-5627-dc6c-f475-4e153e65d6f3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LightningLightParameters Methods" Url="html/bd230689-e655-f559-8092-95ae9f947a90.htm" />
+      <HelpTOCNode Id="a5151905-9dca-450b-99cd-fa5000961e9c" Title="LightningLightParameters Fields" Url="html/f4129572-68f9-7997-4b24-d85677461728.htm">
+        <HelpTOCNode Title="BounceIntensity Field" Url="html/b67e3a0b-f55a-18da-3a20-c16be703619e.htm" />
+        <HelpTOCNode Title="CullingMask Field" Url="html/79c46ae3-ca0a-e90e-301d-a2fb47e40f29.htm" />
+        <HelpTOCNode Title="FadeFullyLitMultiplier Field" Url="html/7127aef6-7642-cd10-7d1e-bca07e649f42.htm" />
+        <HelpTOCNode Title="FadeInMultiplier Field" Url="html/6247e89f-bba4-478a-5c54-e4d7418b1e87.htm" />
+        <HelpTOCNode Title="FadeOutMultiplier Field" Url="html/27b603e7-3046-09fd-dcfc-eebc7bdb6701.htm" />
+        <HelpTOCNode Title="LightColor Field" Url="html/24932c4c-9231-eb16-70be-9dd65556d3a4.htm" />
+        <HelpTOCNode Title="LightIntensity Field" Url="html/c1f341b0-528c-8c87-1007-304c0b519a0a.htm" />
+        <HelpTOCNode Title="LightPercent Field" Url="html/b7514fd5-c77e-1e76-2d17-7d0b0e00f749.htm" />
+        <HelpTOCNode Title="LightRange Field" Url="html/8a2eeac6-73b8-4476-1f54-e84790e6197e.htm" />
+        <HelpTOCNode Title="LightShadowPercent Field" Url="html/f79d95aa-d62e-2712-2d14-f6b00921c3aa.htm" />
+        <HelpTOCNode Title="OrthographicOffset Field" Url="html/96fdc59a-28cf-5f8a-0ca6-4587b358fc3d.htm" />
+        <HelpTOCNode Title="RenderMode Field" Url="html/3b45764c-1ade-5607-4d11-e295b0f22cec.htm" />
+        <HelpTOCNode Title="ShadowBias Field" Url="html/b2cd5d94-37c3-5435-ee24-76e603853abd.htm" />
+        <HelpTOCNode Title="ShadowNormalBias Field" Url="html/ffd89a44-2ce7-459e-2e50-8c81b7187e2f.htm" />
+        <HelpTOCNode Title="ShadowStrength Field" Url="html/660128e1-383d-75be-3b52-1925ee43c368.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="db8da2c5-1ab3-4b2e-93f8-1a809e099d76" Title="LightningLightsabreScript Class" Url="html/ac6ea85a-8f80-0a73-18d4-d002c50a3cef.htm">
+      <HelpTOCNode Title="LightningLightsabreScript Constructor " Url="html/0ea7086e-ca0e-be87-3e31-88ff702709ca.htm" />
+      <HelpTOCNode Title="LightningLightsabreScript Properties" Url="html/2724528c-ddd2-03ff-d6ed-be1eb0a2ec85.htm" />
+      <HelpTOCNode Id="50a068ea-c41b-41ff-a4a5-4b7215895d20" Title="LightningLightsabreScript Methods" Url="html/189f8f44-da67-f9ed-eb12-be8b27e596c2.htm">
+        <HelpTOCNode Title="Start Method " Url="html/249e0c12-3878-08a0-9981-d50daccd13c3.htm" />
+        <HelpTOCNode Title="TurnOn Method " Url="html/2de2ea6e-7e3f-238f-a1b3-54c9308a7aac.htm" />
+        <HelpTOCNode Title="TurnOnGUI Method " Url="html/d5d40533-011d-c052-48be-c2ca430af158.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/97fffd97-2a0b-898f-c821-931d3b555871.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="02f594cc-e53a-46c1-bd24-6c76e8e8ab4c" Title="LightningLightsabreScript Fields" Url="html/b909bb6e-20a0-6dad-44cc-d6ba793450bf.htm">
+        <HelpTOCNode Title="ActivationTime Field" Url="html/91b4cd75-22a8-feb1-d8d9-ddb8bcd112b1.htm" />
+        <HelpTOCNode Title="BladeHeight Field" Url="html/95892b89-d7d5-71db-4025-7b6eabfc1885.htm" />
+        <HelpTOCNode Title="ConstantSound Field" Url="html/7922be71-a851-3685-1921-f257711ca57c.htm" />
+        <HelpTOCNode Title="StartSound Field" Url="html/816a440f-0810-759e-d7fb-acfa957e143c.htm" />
+        <HelpTOCNode Title="StopSound Field" Url="html/2d06bd5e-6aa3-4f58-109e-b5bb5738d623.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dd037c5d-2955-46c7-b056-96ae9688e8b1" Title="LightningMeshSurfaceScript Class" Url="html/65a4ce18-9c30-a55e-c4f8-8798201d8979.htm">
+      <HelpTOCNode Title="LightningMeshSurfaceScript Constructor " Url="html/d17fb27e-e4c8-5419-8858-fb05565ca4c5.htm" />
+      <HelpTOCNode Title="LightningMeshSurfaceScript Properties" Url="html/9ac642da-d4c7-ec38-1c1b-805610ba42d9.htm" />
+      <HelpTOCNode Id="cdb05ca8-bd85-4d4f-839f-e61a67feaf4c" Title="LightningMeshSurfaceScript Methods" Url="html/794a7ddc-09e6-d5cf-9e35-3b7181dc1eeb.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/e2360e1e-95a3-f968-bd2e-e3ac630d0e92.htm" />
+        <HelpTOCNode Title="CreateRandomLightningPath Method " Url="html/5df3dcf2-13e5-3189-bdf6-54964f0cff00.htm" />
+        <HelpTOCNode Title="OnCreateParameters Method " Url="html/722a1bf1-0f43-69d6-c336-2a529f923fe0.htm" />
+        <HelpTOCNode Title="PopulateSourcePoints Method " Url="html/87fbb21d-57a0-c15f-5dfd-1057cdb0b313.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/561539f6-9903-2027-fee1-1e018d4ee3ae.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/a03a18c9-41bc-84da-8fd3-968a02526d4c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7d624904-4619-4767-960e-3179831f9869" Title="LightningMeshSurfaceScript Fields" Url="html/5fd14227-1bc7-b23a-7150-8b14a40d73db.htm">
+        <HelpTOCNode Title="DistancePerSegmentHint Field" Url="html/362fa8ae-f779-c0e4-61aa-cc2bfe323521.htm" />
+        <HelpTOCNode Title="MaximumPathDistance Field" Url="html/4ab246e4-1313-1e5e-3257-7ab684090b4a.htm" />
+        <HelpTOCNode Title="MeshCollider Field" Url="html/dd480d1e-a66f-853f-f6b4-6ea15786c5f1.htm" />
+        <HelpTOCNode Title="MeshFilter Field" Url="html/3656a6dd-a9c3-d090-48ae-22aceec5af39.htm" />
+        <HelpTOCNode Title="MeshOffsetRange Field" Url="html/6dfcaae6-9d7a-52a6-2046-e30381d6601c.htm" />
+        <HelpTOCNode Title="MinimumPathDistanceRange Field" Url="html/f36e85f4-cf12-2b9f-5213-ba60bc96625f.htm" />
+        <HelpTOCNode Title="PathLengthCount Field" Url="html/4adea309-a6ab-e387-9e31-8d8de98f53e1.htm" />
+        <HelpTOCNode Title="Spline Field" Url="html/c3f448f2-6f06-3d9f-8b6a-4464343269a9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f2e15b5a-e131-4caf-a6ea-0ca4a63934b3" Title="LightningParticleCollisionForwarder Class" Url="html/ed2ba65a-5d3a-ca1f-c8f7-f6e301613b3a.htm">
+      <HelpTOCNode Title="LightningParticleCollisionForwarder Constructor " Url="html/59bfb774-b490-1d23-164a-2f2cf614f610.htm" />
+      <HelpTOCNode Title="LightningParticleCollisionForwarder Properties" Url="html/3f6d75ab-61a7-1ebd-cfc8-0686d885e3f8.htm" />
+      <HelpTOCNode Title="LightningParticleCollisionForwarder Methods" Url="html/02e25407-3a3f-8a93-153e-ff5a6f66662f.htm" />
+      <HelpTOCNode Id="9ba81177-6df5-4cd2-8c86-292fbf93569c" Title="LightningParticleCollisionForwarder Fields" Url="html/09e06dce-3c10-3ebd-73f1-491f1034fe85.htm">
+        <HelpTOCNode Title="CollisionHandler Field" Url="html/4c8359fb-8ec1-c43e-ae21-d19d8e05ae7e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a6bcd76-c30e-426f-8ff2-40c1af29881f" Title="LightningParticleSpellScript Class" Url="html/52445196-7da1-034f-fe22-ba00090211e9.htm">
+      <HelpTOCNode Title="LightningParticleSpellScript Constructor " Url="html/e8c4bc80-f8b7-c5d5-4180-8189e1b9c199.htm" />
+      <HelpTOCNode Title="LightningParticleSpellScript Properties" Url="html/ab3f2c8f-4cb7-b64e-f0bb-9b0e661e4838.htm" />
+      <HelpTOCNode Id="563cf202-1d33-46d2-ad54-4d14a95d49a2" Title="LightningParticleSpellScript Methods" Url="html/c8311e14-200a-2ba5-7727-112251c8e36d.htm">
+        <HelpTOCNode Title="OnCastSpell Method " Url="html/266f21ab-c724-9cd5-1cc7-77b0604210cb.htm" />
+        <HelpTOCNode Title="OnDestroy Method " Url="html/bbeb4c9e-4040-d3e6-bf15-d19b61086fa8.htm" />
+        <HelpTOCNode Title="OnStopSpell Method " Url="html/9536f8bc-9e3e-2798-ce4e-b59b2661b8db.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/03db0955-da11-4730-b579-3a99a9145327.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/02e130d5-2685-644d-7616-cd56fe022437.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ad6a61f5-20d4-4157-ac07-b715defa7046" Title="LightningParticleSpellScript Fields" Url="html/f2fb57ec-647a-b1e9-37a1-89ec8b703275.htm">
+        <HelpTOCNode Title="CollisionCallback Field" Url="html/671047de-35b4-dc0e-c966-6f7f756bfb92.htm" />
+        <HelpTOCNode Title="CollisionInterval Field" Url="html/c76e03be-b035-7802-0dec-c740a08fc2b5.htm" />
+        <HelpTOCNode Title="collisionTimer Field" Url="html/e6161db5-3258-a24f-a7de-95c6ef15b5dd.htm" />
+        <HelpTOCNode Title="EnableParticleLights Field" Url="html/7e050c18-08cf-983c-cc0e-8e2ac179de87.htm" />
+        <HelpTOCNode Title="ParticleLightColor1 Field" Url="html/d1807587-4d79-c003-0552-9903f1317f5a.htm" />
+        <HelpTOCNode Title="ParticleLightColor2 Field" Url="html/4862c062-ddaf-7e70-97b1-815d67b232c1.htm" />
+        <HelpTOCNode Title="ParticleLightCullingMask Field" Url="html/f9a22636-217f-2087-f81c-1dde358c62a5.htm" />
+        <HelpTOCNode Title="ParticleLightIntensity Field" Url="html/c145f43c-6269-0315-a1cd-2970cce35ec6.htm" />
+        <HelpTOCNode Title="ParticleLightRange Field" Url="html/ae8b7526-a64c-8cc9-8779-8b36f9d201a3.htm" />
+        <HelpTOCNode Title="ParticleSystem Field" Url="html/4f271f0e-6fea-7d9f-5752-be58deabeee9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ff622c71-d1ab-40b6-b3b6-b1c561fadeae" Title="LightningQualityMaximum Class" Url="html/fd513e2b-8a50-e219-e8a3-6d3b10c75055.htm">
+      <HelpTOCNode Title="LightningQualityMaximum Constructor " Url="html/d744a31f-a989-0dfe-db29-5c1f73802f4f.htm" />
+      <HelpTOCNode Id="edb49d8b-c2de-496f-8581-0c78268ed639" Title="LightningQualityMaximum Properties" Url="html/38c0e478-52d7-d7b5-06a9-371463cccfd9.htm">
+        <HelpTOCNode Title="MaximumGenerations Property " Url="html/0b95b62f-c4fe-73eb-ee03-f7a2877d78d9.htm" />
+        <HelpTOCNode Title="MaximumLightPercent Property " Url="html/04ce461f-9018-1bfc-dac4-a6608f3e9d8d.htm" />
+        <HelpTOCNode Title="MaximumShadowPercent Property " Url="html/ec16b8bb-5842-1f24-2b38-1d8e9f39c7b3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LightningQualityMaximum Methods" Url="html/c327dc0f-a23e-f420-e9ac-2e7a78875031.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1304085d-96a0-4a6f-b530-c14ac0e1f14a" Title="LightningSpellScript Class" Url="html/579ff95d-703c-1bbe-3c13-6d877b965459.htm">
+      <HelpTOCNode Title="LightningSpellScript Constructor " Url="html/e6fb6c95-48c9-5af1-2f0f-c249132d9afa.htm" />
+      <HelpTOCNode Id="b34f430b-c063-4596-9a84-e997409235bd" Title="LightningSpellScript Properties" Url="html/b30692f4-d977-2431-f43d-2d7b716ba37d.htm">
+        <HelpTOCNode Title="CanCastSpell Property " Url="html/83e24fb9-a3ec-5e16-c728-d17e29f2dcd2.htm" />
+        <HelpTOCNode Title="Casting Property " Url="html/c7bdf630-d8dd-9659-e117-a9f1e6663919.htm" />
+        <HelpTOCNode Title="CooldownTimer Property " Url="html/a8e2bb03-f512-1e04-67ae-f1f83d25645d.htm" />
+        <HelpTOCNode Title="DurationTimer Property " Url="html/fd5d915a-9191-f527-b7da-bc1f61ff6b8d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="75f3e9c1-74e3-48cc-beee-00114dc79469" Title="LightningSpellScript Methods" Url="html/7a7351aa-41e0-e5d8-9503-fa6f029b32f7.htm">
+        <HelpTOCNode Title="ActivateSpell Method " Url="html/cfcd6a27-cd86-93a5-c126-3c195cf4e33c.htm" />
+        <HelpTOCNode Title="ApplyCollisionForce Method " Url="html/d14eeca6-6f12-f980-2695-671bc50452f6.htm" />
+        <HelpTOCNode Title="CastSpell Method " Url="html/d7ec93c9-274e-472a-8ef2-00d795401ab6.htm" />
+        <HelpTOCNode Title="DeactivateSpell Method " Url="html/8285690f-310f-b83e-4f17-c124c477133b.htm" />
+        <HelpTOCNode Title="FindChildRecursively Method " Url="html/5d7b3478-933c-6926-395f-615c19b46ada.htm" />
+        <HelpTOCNode Title="LateUpdate Method " Url="html/ec6e23c7-dba1-0abe-91e4-dc151bb84b61.htm" />
+        <HelpTOCNode Title="OnActivated Method " Url="html/2cb153bf-1b0a-e7be-d3e5-6d317bd4b5b7.htm" />
+        <HelpTOCNode Title="OnCastSpell Method " Url="html/b72b7624-313d-9f87-e06f-80092dc0c30a.htm" />
+        <HelpTOCNode Title="OnDeactivated Method " Url="html/4ef20d72-0003-be10-9afc-fcb2a3e46112.htm" />
+        <HelpTOCNode Title="OnDestroy Method " Url="html/5d743ffe-5622-8dd4-5c2f-b84a170f4158.htm" />
+        <HelpTOCNode Title="OnStopSpell Method " Url="html/3a3bd319-e55e-5113-8a6c-8cca310b6e26.htm" />
+        <HelpTOCNode Title="PlayCollisionSound Method " Url="html/00323cf3-00c1-79eb-36ed-c0a8946cb807.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/613ef275-5c77-c2fb-f7a6-0a28281b35f8.htm" />
+        <HelpTOCNode Title="StopAfterSeconds Method " Url="html/912e89e8-3fb2-a65b-7ff9-3cfb6cece583.htm" />
+        <HelpTOCNode Title="StopSpell Method " Url="html/e7c2e876-d40f-3fd8-cd8b-c511002b93cc.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/6da9b3a1-d0d0-984b-7354-24204b89a661.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bc90d111-74ab-44d7-9cc7-f74e626ca5b8" Title="LightningSpellScript Fields" Url="html/4e3871e8-04ce-3b25-38a5-7cd56968a56f.htm">
+        <HelpTOCNode Title="CollisionAudioClips Field" Url="html/cc4f31e3-a0cd-696a-ba0e-b6c1a96ed793.htm" />
+        <HelpTOCNode Title="CollisionAudioSource Field" Url="html/356379d2-89b4-445e-764b-14122e764736.htm" />
+        <HelpTOCNode Title="CollisionForce Field" Url="html/310c1220-5b51-859d-5a6f-f31cfc10cff2.htm" />
+        <HelpTOCNode Title="CollisionForceMode Field" Url="html/3c447e2d-dfe1-2e2b-9b84-12622c124b4e.htm" />
+        <HelpTOCNode Title="CollisionIsExplosion Field" Url="html/68e394f0-2580-3190-3847-a5f4f0a21f8d.htm" />
+        <HelpTOCNode Title="CollisionMask Field" Url="html/f0bc7c1b-b135-75d5-24c8-8b76312479c7.htm" />
+        <HelpTOCNode Title="CollisionParticleSystem Field" Url="html/2a87a72b-c937-9968-878b-ac7f7405ced5.htm" />
+        <HelpTOCNode Title="CollisionRadius Field" Url="html/541c9ce9-9cff-8cc9-21c3-81bbaa351a5b.htm" />
+        <HelpTOCNode Title="CollisionVolumeRange Field" Url="html/63a115d0-49cd-8803-baea-b24924e743bd.htm" />
+        <HelpTOCNode Title="Cooldown Field" Url="html/e99ec58e-71bf-8a64-5131-0cf95fc8a2ea.htm" />
+        <HelpTOCNode Title="Direction Field" Url="html/3f3f12b2-25db-1854-fe70-a3bbfcf3bc91.htm" />
+        <HelpTOCNode Title="Duration Field" Url="html/a3139f16-296b-58a8-5ca4-c2bc6ec02067.htm" />
+        <HelpTOCNode Title="EmissionLight Field" Url="html/d124efdd-34c6-4e93-7104-bb3036089041.htm" />
+        <HelpTOCNode Title="EmissionParticleSystem Field" Url="html/b088a2e0-8ecc-6591-5aa8-db68210d3d58.htm" />
+        <HelpTOCNode Title="EmissionSound Field" Url="html/0b54b827-0849-d443-f26a-afe5efdd0bc9.htm" />
+        <HelpTOCNode Title="MaxDistance Field" Url="html/92ad517e-5cca-b20c-6edc-4c9eca2fa9a1.htm" />
+        <HelpTOCNode Title="SpellEnd Field" Url="html/0f808aef-25eb-f8a5-088f-75382294aa43.htm" />
+        <HelpTOCNode Title="SpellStart Field" Url="html/1652addb-be48-f6ae-b0a4-33b6145b76cd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="990be58c-c056-4209-91d3-c11d6f9eeb2b" Title="LightningSplineScript Class" Url="html/6885dc24-8aeb-b76b-7499-2df90daeb3e8.htm">
+      <HelpTOCNode Title="LightningSplineScript Constructor " Url="html/e9bcd770-7fe8-0ab8-57cc-7022c4cf5178.htm" />
+      <HelpTOCNode Title="LightningSplineScript Properties" Url="html/de753f5e-6d34-ad0e-31fa-bc19702b3123.htm" />
+      <HelpTOCNode Id="3f9780d3-e917-4d27-804e-8b4fd93eb48d" Title="LightningSplineScript Methods" Url="html/d8ad06ff-876a-6e52-6a8c-f8bad12b195e.htm">
+        <HelpTOCNode Title="CreateLightningBolt Method " Url="html/f88d765e-5652-d91d-1e95-35c96a83f828.htm" />
+        <HelpTOCNode Title="OnCreateParameters Method " Url="html/5319efa4-e290-8302-5095-784d96c5bbdc.htm" />
+        <HelpTOCNode Title="PopulateSpline Method " Url="html/6e3bcb1c-4baf-b738-e43b-4a848fef828d.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/fee13a99-4a10-0e2e-4494-895524e76900.htm" />
+        <HelpTOCNode Id="2f09e133-06f2-4747-b968-13cda4913828" Title="Trigger Method " Url="html/ea8263ac-1c69-893e-2433-1be78be756e7.htm">
+          <HelpTOCNode Title="Trigger Method (List(Vector3), Boolean)" Url="html/f4fb533b-2f15-1cc8-2640-131522dab4aa.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Update Method " Url="html/4922295c-d1d3-e010-db32-9cfeb536cb4b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4d695f1a-8409-4e9e-822a-3bb67785d9b7" Title="LightningSplineScript Fields" Url="html/dbfc3dd2-10a2-b8ec-2992-95afa6c7e4e7.htm">
+        <HelpTOCNode Title="DistancePerSegmentHint Field" Url="html/7fd6d2a3-bd76-efab-bf7e-b02c110bcaf0.htm" />
+        <HelpTOCNode Title="MaxSplineGenerations Field" Url="html/434d8ddd-adf1-6b95-5c00-f72ff8c274cd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="35352952-31b7-495b-a200-ac7d95f1f75d" Title="LightningSpriteSheetCreator Class" Url="html/60d0c424-9f32-7e62-d0ac-98d0c9894685.htm">
+      <HelpTOCNode Title="LightningSpriteSheetCreator Constructor " Url="html/f56e6c41-7657-e883-6875-18d158c0d2e2.htm" />
+      <HelpTOCNode Title="LightningSpriteSheetCreator Properties" Url="html/039c0f9c-3b28-42cd-9106-6fb959f50eeb.htm" />
+      <HelpTOCNode Id="a4c0b1e1-8e45-45da-88ff-3b8251672741" Title="LightningSpriteSheetCreator Methods" Url="html/e0f30567-d175-77ee-9d49-daccda8ac3d9.htm">
+        <HelpTOCNode Title="ExportTapped Method " Url="html/d1efdbb1-16b5-e37d-3883-42cb2ccdd164.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="18cbcbe1-b405-4e01-aa9d-ee85ced3c5ec" Title="LightningSpriteSheetCreator Fields" Url="html/3f4f4305-ccc6-bd68-a92f-b0d1bf9ab2be.htm">
+        <HelpTOCNode Title="BackgroundColor Field" Url="html/4fa7a92b-2d36-2135-9d7a-3bf11b838e35.htm" />
+        <HelpTOCNode Title="Columns Field" Url="html/871dcda9-1046-1aac-6449-ee6e745cdb06.htm" />
+        <HelpTOCNode Title="ExportCompleteLabel Field" Url="html/972309b0-65cf-8ff5-abc4-a9aa9cdc9f13.htm" />
+        <HelpTOCNode Title="FrameDelay Field" Url="html/7f5d2af5-8a53-ad96-90b3-655201ec61c0.htm" />
+        <HelpTOCNode Title="Height Field" Url="html/6000f84e-ef18-6845-92dd-603fe58b03a0.htm" />
+        <HelpTOCNode Title="Rows Field" Url="html/97566842-97b5-adab-5dba-dbf7fec21203.htm" />
+        <HelpTOCNode Title="SaveFileName Field" Url="html/4c18b18f-b272-5951-22ce-1eccc3dd234c.htm" />
+        <HelpTOCNode Title="Width Field" Url="html/623c5182-51e5-7c91-e9ac-61ded7fc9083.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b512972d-da7f-4f0c-8a65-9362cc041e18" Title="LightningThreadState Class" Url="html/1ca66bb1-2cb8-fc78-287f-2ebd8ecf601e.htm">
+      <HelpTOCNode Title="LightningThreadState Constructor " Url="html/34683f39-b068-3329-11da-622890f208aa.htm" />
+      <HelpTOCNode Id="f9fd8e9f-2455-4aca-a429-4b8ece69855d" Title="LightningThreadState Methods" Url="html/69aa57a9-05f9-d3a3-c722-b2f442079fc9.htm">
+        <HelpTOCNode Title="AddActionForBackgroundThread Method " Url="html/dc9aa62b-8c60-f71c-51a8-8c68eb50505a.htm" />
+        <HelpTOCNode Title="AddActionForMainThread Method " Url="html/97d7384b-d496-4496-0328-5b2ceb0b4fdb.htm" />
+        <HelpTOCNode Title="TerminateAndWaitForEnd Method " Url="html/646705d0-a172-906e-cb50-7b41f36baf95.htm" />
+        <HelpTOCNode Title="UpdateMainThreadActions Method " Url="html/05c8027a-97b7-ae70-5dbf-bf540febd4df.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="25e2c360-0ac6-4ff9-aee3-db7dfa9199b7" Title="LightningThreadState Fields" Url="html/04ab9bca-37ab-f54d-c5c8-64bdc74e30ca.htm">
+        <HelpTOCNode Title="Running Field" Url="html/f7fe8719-42f3-1c5f-d75a-41c6d9db6163.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb4f050d-535d-4b98-bbde-229ef2f34a01" Title="LightningWhipScript Class" Url="html/5e608715-23ac-a168-23d9-13a3524de303.htm">
+      <HelpTOCNode Title="LightningWhipScript Constructor " Url="html/ff3c2c32-88de-37c7-efa4-de1823a073a7.htm" />
+      <HelpTOCNode Title="LightningWhipScript Properties" Url="html/f8a70b19-2b17-53d4-c7cb-62c8346550aa.htm" />
+      <HelpTOCNode Title="LightningWhipScript Methods" Url="html/9aab7f98-3c1c-1b76-0e5b-5538e9fe9c0a.htm" />
+      <HelpTOCNode Id="9c301bea-87a8-4894-bb6e-4496f52a2eee" Title="LightningWhipScript Fields" Url="html/8776c93b-cbcc-07d2-5d80-8fc5484d66bd.htm">
+        <HelpTOCNode Title="WhipCrack Field" Url="html/018452a5-924b-3800-4bed-32c1eb97fb73.htm" />
+        <HelpTOCNode Title="WhipCrackThunder Field" Url="html/bf2e72b2-7ca9-6abb-9693-415507180e4f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="06a31532-e887-4844-8689-3cc4b2cc6ec7" Title="LightningWhipSpell Class" Url="html/68143ea5-0158-446e-4f85-de7dd9b44b10.htm">
+      <HelpTOCNode Title="LightningWhipSpell Constructor " Url="html/1daafa60-74d6-5d02-e643-96fe65fd4114.htm" />
+      <HelpTOCNode Title="LightningWhipSpell Properties" Url="html/b630b865-7f2a-e72c-e2f6-78c2a7f7b51d.htm" />
+      <HelpTOCNode Id="e5a5b5f7-ab33-4f09-beab-a7ccc709a31f" Title="LightningWhipSpell Methods" Url="html/395d3c31-6f68-0f47-a39e-4d595cfd6714.htm">
+        <HelpTOCNode Title="OnActivated Method " Url="html/5407a0a0-ebaf-7046-ba51-ef3185cbde54.htm" />
+        <HelpTOCNode Title="OnCastSpell Method " Url="html/16496f54-121f-4656-6267-406c0eab54be.htm" />
+        <HelpTOCNode Title="OnDeactivated Method " Url="html/f3fce215-5613-c7e5-dc84-6002d39d61b5.htm" />
+        <HelpTOCNode Title="OnStopSpell Method " Url="html/de9ec6d9-58b2-e314-85cd-29b3646227db.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/7e004b95-f04a-9bd3-7f30-e6bec2c9e76c.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/44d587b2-b871-2863-fd9f-0ae2ec8baaa0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ad04ad57-bba7-4652-8b5c-9ffff34a2efe" Title="LightningWhipSpell Fields" Url="html/66a7f035-c70a-7a94-3f9e-e0a54f841578.htm">
+        <HelpTOCNode Title="AttachTo Field" Url="html/31707d43-5b10-bc68-d902-1a331266fc2b.htm" />
+        <HelpTOCNode Title="CollisionCallback Field" Url="html/3628ac11-7049-f096-0ac5-7f65d67d60e3.htm" />
+        <HelpTOCNode Title="RotateWith Field" Url="html/55adf009-cf8f-403b-7a64-c4248903bf52.htm" />
+        <HelpTOCNode Title="WhipCrackAudioSource Field" Url="html/64ac53c7-3b20-08d4-dc1c-37c4ff420623.htm" />
+        <HelpTOCNode Title="WhipHandle Field" Url="html/eb09b5d7-4ad3-d687-9b56-775ee35dca80.htm" />
+        <HelpTOCNode Title="WhipSpring Field" Url="html/6622b39e-2ab9-a300-5261-95ac7d96434a.htm" />
+        <HelpTOCNode Title="WhipStart Field" Url="html/6d0aa899-6d24-4c20-94f4-cda0c0170cce.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f4e32ccb-e7cf-4d78-b49b-2af6bf8dea69" Title="MeshHelper Class" Url="html/7b299080-9256-8df5-7086-26a8705b3e7a.htm">
+      <HelpTOCNode Title="MeshHelper Constructor " Url="html/166349bf-985f-74aa-a87a-fc1f30619145.htm" />
+      <HelpTOCNode Id="1cf57931-8b20-4e2b-a12a-c30392726b99" Title="MeshHelper Properties" Url="html/d091c2cd-6626-186c-52f4-351cd05dfb47.htm">
+        <HelpTOCNode Title="Mesh Property " Url="html/3a32f84b-763b-653a-6630-61afa340ccca.htm" />
+        <HelpTOCNode Title="Normals Property " Url="html/da9e336b-cbb1-7f17-871d-793e94eb311a.htm" />
+        <HelpTOCNode Title="Triangles Property " Url="html/f9bea707-8d61-eb88-b073-0ed585dc3e9f.htm" />
+        <HelpTOCNode Title="Vertices Property " Url="html/dcf8e2e5-b06f-bc9c-ff03-3580662f8edb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fcf42831-6816-4087-be87-f6ae0bc6e465" Title="MeshHelper Methods" Url="html/da8fbbe8-7c41-5a26-602b-348294af1df7.htm">
+        <HelpTOCNode Title="GenerateRandomPoint Method " Url="html/5a558b46-5b59-1148-792b-19fffaee7c29.htm" />
+        <HelpTOCNode Title="GetRaycastFromTriangleIndex Method " Url="html/590a614b-64c1-38c1-d73b-3717aad6e83d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bf0d8ad3-ecf4-4e73-bb36-396f2c2aaf06" Title="PathGenerator Class" Url="html/91a3c7d6-74ef-e72e-dae1-745263819e43.htm">
+      <HelpTOCNode Id="abb07948-fd07-4ced-9d86-16c5568676b9" Title="PathGenerator Methods" Url="html/ea0d54da-de99-e16b-9d96-e28cfb77ddcb.htm">
+        <HelpTOCNode Title="CreateCurve Method " Url="html/4935494c-8117-c665-690b-e96cad0e3b63.htm" />
+        <HelpTOCNode Title="CreateSpline Method " Url="html/b3a4f2f1-4145-d4b4-09fb-ce4f76411dfa.htm" />
+        <HelpTOCNode Title="CreateSplineWithSegmentDistance Method " Url="html/db4da0f3-53dc-0410-6d59-108f703c8cc4.htm" />
+        <HelpTOCNode Title="SquareRoot Method " Url="html/d402cca6-60e0-d6d2-689b-2ab9e915ec4e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="58edf7b4-e8e0-494b-9540-b74a32028a3e" Title="PathGenerator Fields" Url="html/642a0b53-5903-5dcb-b772-bba62a3eece5.htm">
+        <HelpTOCNode Title="Is2D Field" Url="html/cbb598c6-d2bf-ab40-aba5-47195e36ba53.htm" />
+        <HelpTOCNode Title="MinPointsForSpline Field" Url="html/a7283c5b-0725-3c9d-826b-5c3a620c5c5b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4b127338-5e24-413f-aeb4-37fe4c5ac1b4" Title="RangeOfFloats Structure" Url="html/d74e81a9-068a-da70-2532-8c91b1e09e58.htm">
+      <HelpTOCNode Id="8c241315-04d3-4a2a-acca-f756dd5fd2ef" Title="RangeOfFloats Methods" Url="html/164e6dda-6cee-17f5-a7b0-42f43bae0051.htm">
+        <HelpTOCNode Id="a4832c8b-624f-4826-9d21-e1ae7e72e1f7" Title="Random Method " Url="html/14b5ef73-7019-16d7-b4cc-c942b30d80ab.htm">
+          <HelpTOCNode Title="Random Method " Url="html/38f3db63-4aed-1125-20d7-38ba94e9695f.htm" />
+          <HelpTOCNode Title="Random Method (Random)" Url="html/eb59e4b0-2318-5d40-61be-716f142917f0.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1db2325a-1c23-432c-854f-edc51735e3a7" Title="RangeOfFloats Fields" Url="html/19be4f2a-8138-bae6-71b2-f73432d22931.htm">
+        <HelpTOCNode Title="Maximum Field" Url="html/430e21ed-219d-b239-f57a-9d9100456871.htm" />
+        <HelpTOCNode Title="Minimum Field" Url="html/d2071ca3-6582-c833-0d72-da840de559bf.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c29248a1-8341-4ca5-9b8e-b6f15e30d866" Title="RangeOfIntegers Structure" Url="html/7bead3c2-2482-dd8f-c51f-21338ac6b77b.htm">
+      <HelpTOCNode Id="ed730395-222b-4a89-be02-0c815977c0c5" Title="RangeOfIntegers Methods" Url="html/f70604fc-4ce0-d9f7-ae6e-6d891e7fb2db.htm">
+        <HelpTOCNode Id="8c1da7a2-8713-4987-93f2-c2661b337d40" Title="Random Method " Url="html/c52d1138-8eff-53c6-6074-38a479ad709d.htm">
+          <HelpTOCNode Title="Random Method " Url="html/e61a62ab-5e16-9282-b454-006e4a2801e5.htm" />
+          <HelpTOCNode Title="Random Method (Random)" Url="html/463a07e7-a5da-0df5-d5fa-a1775b485293.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c082838b-64b4-4437-9678-db4455f7c301" Title="RangeOfIntegers Fields" Url="html/b975b2cc-e365-eb62-5640-d5d4d2d61608.htm">
+        <HelpTOCNode Title="Maximum Field" Url="html/f16f1ae7-a953-6e7c-89a1-35f4f86fed6d.htm" />
+        <HelpTOCNode Title="Minimum Field" Url="html/04e66e50-b631-35cf-f477-bc6b1901380d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2163b7df-0890-4fbb-898c-68d169c53ffb" Title="SingleLineAttribute Class" Url="html/caf8d0a9-54a5-82e8-5746-c82139609660.htm">
+      <HelpTOCNode Title="SingleLineAttribute Constructor " Url="html/4376484d-2e61-2b00-2665-055b94f51d4f.htm" />
+      <HelpTOCNode Id="986f6b50-45ef-4734-9ee1-e385bbac706c" Title="SingleLineAttribute Properties" Url="html/d32e25df-5cf8-42db-8dcb-c9da7046c305.htm">
+        <HelpTOCNode Title="Tooltip Property " Url="html/db7de27c-3ba9-c2e0-171e-c356e5afd27b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SingleLineAttribute Methods" Url="html/dcfae6bd-0998-cadc-57a0-eca8956967be.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6f76f37e-20c0-4c31-8c71-44eea49e4097" Title="SingleLineClampAttribute Class" Url="html/bd1118ea-c4a1-fd04-320e-4f2968992d8e.htm">
+      <HelpTOCNode Title="SingleLineClampAttribute Constructor " Url="html/759ecb7f-5283-fb4e-8504-6d75f8e9df63.htm" />
+      <HelpTOCNode Id="770b9694-6bef-42c3-bc8b-fee604b97f28" Title="SingleLineClampAttribute Properties" Url="html/b77b9694-3bf8-1db1-4144-0b3dda724012.htm">
+        <HelpTOCNode Title="MaxValue Property " Url="html/2ed28f57-d2ff-126d-3400-3f448abb2635.htm" />
+        <HelpTOCNode Title="MinValue Property " Url="html/4c5e6b9e-ee10-e122-37c2-91f7eb21021e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SingleLineClampAttribute Methods" Url="html/c3447ae7-199c-2145-4acd-094a563e3e2d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="791739da-2b83-4152-9716-374c4d88e0cc" Title="SingleLineDrawer Class" Url="html/bb4f6958-5bed-8f89-10ab-6d698ad680ba.htm">
+      <HelpTOCNode Title="SingleLineDrawer Constructor " Url="html/013c3e6f-c06b-6ef8-479e-91303eed194a.htm" />
+      <HelpTOCNode Title="SingleLineDrawer Properties" Url="html/1a41202c-dce1-32e0-0ab5-a84f9bdcc818.htm" />
+      <HelpTOCNode Id="1e324a92-cd07-4ed9-8ee1-441b5e801545" Title="SingleLineDrawer Methods" Url="html/3fe6fdcd-8539-9035-09e6-1843638cd257.htm">
+        <HelpTOCNode Title="OnGUI Method " Url="html/3cfbf029-b3af-d217-585e-d9925ada517c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="92cd7ce6-d094-4e2c-9c38-20559cf745cb" Title="ThunderAndLightningScript Class" Url="html/c6a5d82b-8bb2-1591-65a2-cdfd3eca6a4b.htm">
+      <HelpTOCNode Title="ThunderAndLightningScript Constructor " Url="html/a8c4c4b6-f0ba-2781-3e3d-d635c00717ab.htm" />
+      <HelpTOCNode Id="486e3e71-fb74-4a42-af18-9318067c603e" Title="ThunderAndLightningScript Properties" Url="html/4131913d-81f3-85df-25f7-182f40137e5c.htm">
+        <HelpTOCNode Title="EnableLightning Property " Url="html/f00b9d4e-5290-d6e9-a43b-702bc72aaae8.htm" />
+        <HelpTOCNode Title="SkyboxExposureOriginal Property " Url="html/1094d443-cf7d-468c-2bff-f2841428f7ff.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3c316033-2105-4fbf-a042-87b4714d38bd" Title="ThunderAndLightningScript Methods" Url="html/2957f839-462f-ba5e-4636-dd41db734b77.htm">
+        <HelpTOCNode Id="9b163c7b-990f-4186-a16a-9daf63f8e60f" Title="CallIntenseLightning Method " Url="html/0aff5932-298c-0567-ab71-458d723844de.htm">
+          <HelpTOCNode Title="CallIntenseLightning Method " Url="html/1fd34cfe-577d-5ddc-dc77-72ffecea7f97.htm" />
+          <HelpTOCNode Title="CallIntenseLightning Method (Nullable(Vector3), Nullable(Vector3))" Url="html/8f3cd937-5764-52ab-1544-b36529acf127.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0a91d8d6-f836-48f5-bd4a-985ef0173cbd" Title="CallNormalLightning Method " Url="html/5cc26cd9-e3ec-0e17-d067-7d12a029c02c.htm">
+          <HelpTOCNode Title="CallNormalLightning Method " Url="html/40d7dfde-86be-ad60-ddd8-3720c20c842f.htm" />
+          <HelpTOCNode Title="CallNormalLightning Method (Nullable(Vector3), Nullable(Vector3))" Url="html/963917eb-4ca1-5d0f-da6a-7eb02c2fc1f5.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4985ccae-7758-4cce-b6d9-9c2ab78a130f" Title="ThunderAndLightningScript Fields" Url="html/2aba0451-f3b5-b2b0-c63c-2201eb4800b5.htm">
+        <HelpTOCNode Title="BaseLightRange Field" Url="html/58ff9b40-cd24-c96a-4362-6779be0e6e9d.htm" />
+        <HelpTOCNode Title="Camera Field" Url="html/18db8c6e-c3fa-18b4-785f-485888125644.htm" />
+        <HelpTOCNode Title="CloudLightningChance Field" Url="html/15c95a47-4539-7d3c-6cde-ee78a2b33b36.htm" />
+        <HelpTOCNode Title="LightningAlwaysVisible Field" Url="html/6dfa66cd-2eeb-5b55-bcb8-638111e29bbe.htm" />
+        <HelpTOCNode Title="LightningBoltScript Field" Url="html/cbc96886-5d20-b164-8138-99b65922d61f.htm" />
+        <HelpTOCNode Title="LightningIntenseProbability Field" Url="html/d4ab445f-bb9b-b74a-38c9-a58aea0613ad.htm" />
+        <HelpTOCNode Title="LightningIntervalTimeRange Field" Url="html/1740096b-f1d6-ea1e-1658-104b085fc9e7.htm" />
+        <HelpTOCNode Title="LightningYStart Field" Url="html/5f2bb604-fc7d-4467-b6be-6a9211b14cdb.htm" />
+        <HelpTOCNode Title="ModifySkyboxExposure Field" Url="html/bde88e3b-bc89-311d-f91c-800ec397bacc.htm" />
+        <HelpTOCNode Title="ThunderSoundsIntense Field" Url="html/e8f202fa-ed5a-6321-3bd9-b90de898d78f.htm" />
+        <HelpTOCNode Title="ThunderSoundsNormal Field" Url="html/b0142f7b-4c38-7074-7207-1744021e9332.htm" />
+        <HelpTOCNode Title="VolumeMultiplier Field" Url="html/03d28d17-8168-7a4c-3023-87281bd24850.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fa3a9a1c-7ca9-4fd4-b5a2-66292edbd0c4" Title="WaitForSecondsLightning Class" Url="html/1ae100f3-a924-123c-1d94-177f5c66140a.htm">
+      <HelpTOCNode Title="WaitForSecondsLightning Constructor " Url="html/5b2c2f4b-10ec-3c1a-d405-306a997cac7b.htm" />
+      <HelpTOCNode Id="5360adea-b4d4-4064-8b2d-5472ecfc65b6" Title="WaitForSecondsLightning Properties" Url="html/f874f856-35bf-8b95-8f95-b30b5e69fcc5.htm">
+        <HelpTOCNode Title="keepWaiting Property " Url="html/37509c8b-1f1c-f96a-6b1a-08f2bd2e8976.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="WaitForSecondsLightning Methods" Url="html/af4be151-f322-f8eb-391d-d03dc9006593.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

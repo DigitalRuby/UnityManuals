@@ -1,0 +1,1603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="a field" Url="html/00eefff5-9088-7294-1ff6-31995b86f65c.htm" />
+  <HelpKINode Title="ActivateSpell method" Url="html/cfcd6a27-cd86-93a5-c126-3c195cf4e33c.htm" />
+  <HelpKINode Title="ActivationTime field" Url="html/91b4cd75-22a8-feb1-d8d9-ddb8bcd112b1.htm" />
+  <HelpKINode Title="AddActionForBackgroundThread method" Url="html/dc9aa62b-8c60-f71c-51a8-8c68eb50505a.htm" />
+  <HelpKINode Title="AddActionForMainThread method" Url="html/97d7384b-d496-4496-0328-5b2ceb0b4fdb.htm" />
+  <HelpKINode Title="AddActiveBolt field" Url="html/6096b49d-7e45-52a1-0332-2f6a4543f835.htm" />
+  <HelpKINode Title="AddGroup method" Url="html/e0df2160-7674-8b28-a4b6-774462a0a4cf.htm" />
+  <HelpKINode Title="AppendLine method" Url="html/501f939d-06a9-807b-4dc5-9e4c14c421ed.htm" />
+  <HelpKINode Title="ApplyCollisionForce method" Url="html/d14eeca6-6f12-f980-2695-671bc50452f6.htm" />
+  <HelpKINode Title="ApplyVariance method" Url="html/5e69f09b-bb90-43cd-23f8-55dba24eb00f.htm" />
+  <HelpKINode Title="AttachTo field" Url="html/31707d43-5b10-bc68-d902-1a331266fc2b.htm" />
+  <HelpKINode Title="Auto enumeration member" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+  <HelpKINode Title="AutomaticModeSeconds field" Url="html/6e09df20-f123-eb29-e1e2-14650263d387.htm" />
+  <HelpKINode Title="AutomaticToggle field" Url="html/30b2e4ac-8312-9e8a-7030-99a21d0833bc.htm" />
+  <HelpKINode Title="AutomaticToggled method" Url="html/790daa5c-26d6-8fa8-4562-37091c7d5f66.htm" />
+  <HelpKINode Title="Awake method" Url="html/faad81e5-57d5-013a-86bf-5ed738686736.htm" />
+  <HelpKINode Title="b field" Url="html/2e61f811-bbcc-cae8-5bbf-fd718ba0aed7.htm" />
+  <HelpKINode Title="BackgroundColor field" Url="html/4fa7a92b-2d36-2135-9d7a-3bf11b838e35.htm" />
+  <HelpKINode Title="BaseLightRange field" Url="html/58ff9b40-cd24-c96a-4362-6779be0e6e9d.htm" />
+  <HelpKINode Title="BeginLine method" Url="html/c51a3b5f-5811-1b1a-32d1-d5e5378a3c93.htm" />
+  <HelpKINode Title="BladeHeight field" Url="html/95892b89-d7d5-71db-4025-7b6eabfc1885.htm" />
+  <HelpKINode Title="BoltCountSlider field" Url="html/17c02a6c-bd22-3509-328b-79145c40f2c9.htm" />
+  <HelpKINode Title="BoltCountSliderChanged method" Url="html/eecdab99-e4d2-59ee-8fc0-54ce8bcd31ed.htm" />
+  <HelpKINode Title="BoltCountValueLabel field" Url="html/ad518285-9f09-5f01-5e76-74a8ce61a46e.htm" />
+  <HelpKINode Title="BoltEndPosition field" Url="html/b58d25f2-8db9-7f07-576d-39aa70a8d183.htm" />
+  <HelpKINode Title="BoltStartPosition field" Url="html/f61952e7-5180-49f2-8992-de58c3dfc4b1.htm" />
+  <HelpKINode Title="BounceIntensity field" Url="html/b67e3a0b-f55a-18da-3a20-c16be703619e.htm" />
+  <HelpKINode Title="CallIntenseLightning method" Url="html/0aff5932-298c-0567-ab71-458d723844de.htm" />
+  <HelpKINode Title="CallNormalLightning method" Url="html/5cc26cd9-e3ec-0e17-d067-7d12a029c02c.htm" />
+  <HelpKINode Title="Camera field">
+    <HelpKINode Title="LightningBoltScript.Camera Field" Url="html/9bc4bccf-32e1-8651-3390-32fdfbb37c51.htm" />
+    <HelpKINode Title="ThunderAndLightningScript.Camera Field" Url="html/18db8c6e-c3fa-18b4-785f-485888125644.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraIsOrthographic field" Url="html/ca88a839-ca83-7a20-a391-868a1d99d8ca.htm" />
+  <HelpKINode Title="CameraMode enumeration" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+  <HelpKINode Title="CameraMode field">
+    <HelpKINode Title="LightningBoltDependencies.CameraMode Field" Url="html/5e0db106-cfb0-fb5c-7b00-39bf33ef0c0d.htm" />
+    <HelpKINode Title="LightningBoltScript.CameraMode Field" Url="html/80c38427-6341-6583-158f-fd7d96d87bfa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraMode property" Url="html/71f3a701-cab4-4f43-cac4-6061ade5c4d1.htm" />
+  <HelpKINode Title="CameraPos field" Url="html/e84cc713-8c00-bcc5-342c-053153ae3934.htm" />
+  <HelpKINode Title="CanCastSpell property" Url="html/83e24fb9-a3ec-5e16-c728-d17e29f2dcd2.htm" />
+  <HelpKINode Title="Casting property" Url="html/c7bdf630-d8dd-9659-e117-a9f1e6663919.htm" />
+  <HelpKINode Title="CastSpell method" Url="html/d7ec93c9-274e-472a-8ef2-00d795401ab6.htm" />
+  <HelpKINode Title="ChaosFactor field">
+    <HelpKINode Title="LightningBoltParameters.ChaosFactor Field" Url="html/7317732e-915d-838a-79d3-9d0a13ccb1db.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.ChaosFactor Field" Url="html/601e4b5b-7311-d6ff-31f3-93e9792f18f4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChaosFactorForks field">
+    <HelpKINode Title="LightningBoltParameters.ChaosFactorForks Field" Url="html/de8d64e4-6e61-acf2-5f4b-c52f78c0458f.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.ChaosFactorForks Field" Url="html/dae07c72-ae52-3faf-c716-59f778084694.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChaosSlider field" Url="html/516c3e0f-1a93-cb33-062c-4a27222c8634.htm" />
+  <HelpKINode Title="ChaosValueLabel field" Url="html/d46b9df7-aa8a-c5ab-1521-67a602f943c1.htm" />
+  <HelpKINode Title="ClampAngle method" Url="html/4b2bda36-eded-c105-df97-f3d670a8fa06.htm" />
+  <HelpKINode Title="Cleanup method" Url="html/68f5d0a1-a626-53c5-d717-988cab00835d.htm" />
+  <HelpKINode Title="ClearButtonClicked method" Url="html/d5236ed7-2deb-95b5-bf95-914d18918f86.htm" />
+  <HelpKINode Title="ClearCache method" Url="html/f3e9984f-6835-42b5-9216-5e05f0218029.htm" />
+  <HelpKINode Title="CloudLightningChance field" Url="html/15c95a47-4539-7d3c-6cde-ee78a2b33b36.htm" />
+  <HelpKINode Title="CloudParticleSystem field" Url="html/00be5adb-6273-b3a4-8a55-0f9795fbec83.htm" />
+  <HelpKINode Title="CollisionAudioClips field" Url="html/cc4f31e3-a0cd-696a-ba0e-b6c1a96ed793.htm" />
+  <HelpKINode Title="CollisionAudioSource field" Url="html/356379d2-89b4-445e-764b-14122e764736.htm" />
+  <HelpKINode Title="CollisionCallback field">
+    <HelpKINode Title="LightningBeamSpellScript.CollisionCallback Field" Url="html/774c3372-7036-0ce2-897e-9e97e7e07c25.htm" />
+    <HelpKINode Title="LightningParticleSpellScript.CollisionCallback Field" Url="html/671047de-35b4-dc0e-c966-6f7f756bfb92.htm" />
+    <HelpKINode Title="LightningWhipSpell.CollisionCallback Field" Url="html/3628ac11-7049-f096-0ac5-7f65d67d60e3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CollisionForce field" Url="html/310c1220-5b51-859d-5a6f-f31cfc10cff2.htm" />
+  <HelpKINode Title="CollisionForceMode field" Url="html/3c447e2d-dfe1-2e2b-9b84-12622c124b4e.htm" />
+  <HelpKINode Title="CollisionHandler field" Url="html/4c8359fb-8ec1-c43e-ae21-d19d8e05ae7e.htm" />
+  <HelpKINode Title="CollisionInterval field" Url="html/c76e03be-b035-7802-0dec-c740a08fc2b5.htm" />
+  <HelpKINode Title="CollisionIsExplosion field" Url="html/68e394f0-2580-3190-3847-a5f4f0a21f8d.htm" />
+  <HelpKINode Title="CollisionMask field" Url="html/f0bc7c1b-b135-75d5-24c8-8b76312479c7.htm" />
+  <HelpKINode Title="CollisionParticleSystem field" Url="html/2a87a72b-c937-9968-878b-ac7f7405ced5.htm" />
+  <HelpKINode Title="CollisionRadius field" Url="html/541c9ce9-9cff-8cc9-21c3-81bbaa351a5b.htm" />
+  <HelpKINode Title="collisionTimer field" Url="html/e6161db5-3258-a24f-a7de-95c6ef15b5dd.htm" />
+  <HelpKINode Title="CollisionVolumeRange field" Url="html/63a115d0-49cd-8803-baea-b24924e743bd.htm" />
+  <HelpKINode Title="Color field">
+    <HelpKINode Title="LightningBoltParameters.Color Field" Url="html/97f1c465-e71d-11a6-f7e1-a2ef1279871e.htm" />
+    <HelpKINode Title="LightningBoltSegmentGroup.Color Field" Url="html/2accd977-24d5-41b9-4e24-8f1291e8920d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Columns field" Url="html/871dcda9-1046-1aac-6449-ee6e745cdb06.htm" />
+  <HelpKINode Title="CompensateForParentTransform field" Url="html/790bb5cb-c976-6ac0-1c4f-2583fbe60596.htm" />
+  <HelpKINode Title="ConstantSound field" Url="html/7922be71-a851-3685-1921-f257711ca57c.htm" />
+  <HelpKINode Title="Cooldown field" Url="html/e99ec58e-71bf-8a64-5131-0cf95fc8a2ea.htm" />
+  <HelpKINode Title="CooldownTimer property" Url="html/a8e2bb03-f512-1e04-67ae-f1f83d25645d.htm" />
+  <HelpKINode Title="CopyButtonClicked method" Url="html/d53288ce-4ec3-6443-da9b-611ae16e3cfe.htm" />
+  <HelpKINode Title="CopySeedButton field" Url="html/84f8b0ed-9e77-07b6-43a7-3ceb02ea0f15.htm" />
+  <HelpKINode Title="CountProbabilityModifier field" Url="html/d2673b0e-7abf-2508-4714-cd6474f758b0.htm" />
+  <HelpKINode Title="CountRange field" Url="html/e4f9ae80-8e11-58a9-926a-4ca2d9dae00d.htm" />
+  <HelpKINode Title="Crate field" Url="html/e25c4a3e-a1c2-cbbd-c44e-04157e9117f0.htm" />
+  <HelpKINode Title="CreateButtonClicked method" Url="html/6c69c89c-79e0-e03a-acbc-e4d47ad98ddf.htm" />
+  <HelpKINode Title="CreateCurve method" Url="html/4935494c-8117-c665-690b-e96cad0e3b63.htm" />
+  <HelpKINode Title="CreateFork method" Url="html/6bb21c98-b987-6c9b-88c9-c821337f5f50.htm" />
+  <HelpKINode Title="CreateLightningBolt method">
+    <HelpKINode Title="LightningBoltPathScript.CreateLightningBolt Method " Url="html/4ffaf43b-411f-5115-47a4-d48b69b2f5a4.htm" />
+    <HelpKINode Title="LightningBoltPrefabScript.CreateLightningBolt Method " Url="html/ba309f41-a016-c66a-9698-2b5de6b95b68.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.CreateLightningBolt Method " Url="html/03f8bcba-3794-f978-daba-c8a2e6f72eba.htm" />
+    <HelpKINode Title="LightningBoltScript.CreateLightningBolt Method " Url="html/25409f7b-a98f-2553-e1c1-4486098e8fe5.htm" />
+    <HelpKINode Title="LightningBoltShapeConeScript.CreateLightningBolt Method " Url="html/83ff0c16-63c5-0c5e-a5c8-4a8ef02d670e.htm" />
+    <HelpKINode Title="LightningBoltShapeSphereScript.CreateLightningBolt Method " Url="html/d27f65c0-c13b-722b-4de6-67e9417374c2.htm" />
+    <HelpKINode Title="LightningFieldScript.CreateLightningBolt Method " Url="html/9c9bdd07-7d7c-5cf0-15fb-558333059b69.htm" />
+    <HelpKINode Title="LightningMeshSurfaceScript.CreateLightningBolt Method " Url="html/e2360e1e-95a3-f968-bd2e-e3ac630d0e92.htm" />
+    <HelpKINode Title="LightningSplineScript.CreateLightningBolt Method " Url="html/f88d765e-5652-d91d-1e95-35c96a83f828.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateLightningBolts method" Url="html/fb9f7202-67c9-9b9c-1303-24cbf59c6894.htm" />
+  <HelpKINode Title="CreateLightningBoltsNow method" Url="html/0e1715bc-768c-fee0-f9b6-78308f60505d.htm" />
+  <HelpKINode Title="CreateParameters method" Url="html/bf94eec4-00ba-6a30-6c23-06f325972ff4.htm" />
+  <HelpKINode Title="CreateRandomLightningPath method" Url="html/5df3dcf2-13e5-3189-bdf6-54964f0cff00.htm" />
+  <HelpKINode Title="CreateSpline method" Url="html/b3a4f2f1-4145-d4b4-09fb-ce4f76411dfa.htm" />
+  <HelpKINode Title="CreateSplineWithSegmentDistance method" Url="html/db4da0f3-53dc-0410-6d59-108f703c8cc4.htm" />
+  <HelpKINode Title="CullingMask field" Url="html/79c46ae3-ca0a-e90e-301d-a2fb47e40f29.htm" />
+  <HelpKINode Title="CustomTransform field" Url="html/cc4bf4e7-acfd-6455-2be8-db47dba1451a.htm" />
+  <HelpKINode Title="CustomTransform property" Url="html/e126096b-c73a-9fc2-94e2-954a20be67c3.htm" />
+  <HelpKINode Title="CustomTransformHandler field" Url="html/e2bfb767-7035-1e74-7e87-4038c485405a.htm" />
+  <HelpKINode Title="CustomTransformHandler method" Url="html/61fa6147-3b16-519b-306f-b6915cd131c2.htm" />
+  <HelpKINode Title="DeactivateSpell method" Url="html/8285690f-310f-b83e-4f17-c124c477133b.htm" />
+  <HelpKINode Title="Delay field">
+    <HelpKINode Title="LightningBoltParameters.Delay Field" Url="html/630666d8-9125-c001-6848-65356f9eec6d.htm" />
+    <HelpKINode Title="LightningBoltSegmentGroup.Delay Field" Url="html/9d88df7c-271c-a1c7-b828-ba0e58c08b52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DelayRange field">
+    <HelpKINode Title="LightningBoltParameters.DelayRange Field" Url="html/c2994cd4-20d7-c708-50c6-7c03567919aa.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.DelayRange Field" Url="html/6c0504d2-2bec-9e4e-7f1a-bee243041792.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeltaTime property" Url="html/77e82e4c-c4e3-703f-8dce-da49c2bd1cb0.htm" />
+  <HelpKINode Title="DemoConfigureScript class">
+    <HelpKINode Title="DemoConfigureScript Class" Url="html/dd055a45-dd85-d126-ab91-076ac5bb396f.htm" />
+    <HelpKINode Title="constructor" Url="html/316899e7-3410-f878-9314-5da4f7116c62.htm" />
+    <HelpKINode Title="fields" Url="html/d57cbf0b-a3f6-d939-84f7-15e78e9c8ccc.htm" />
+    <HelpKINode Title="methods" Url="html/9963b497-4405-40b0-91f6-cb610296361a.htm" />
+    <HelpKINode Title="properties" Url="html/52c09602-dc0c-90f1-6e88-d01b06aab2f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoConfigureScript.BoltCountSlider field" Url="html/17c02a6c-bd22-3509-328b-79145c40f2c9.htm" />
+  <HelpKINode Title="DemoConfigureScript.BoltCountSliderChanged method" Url="html/eecdab99-e4d2-59ee-8fc0-54ce8bcd31ed.htm" />
+  <HelpKINode Title="DemoConfigureScript.BoltCountValueLabel field" Url="html/ad518285-9f09-5f01-5e76-74a8ce61a46e.htm" />
+  <HelpKINode Title="DemoConfigureScript.ChaosSlider field" Url="html/516c3e0f-1a93-cb33-062c-4a27222c8634.htm" />
+  <HelpKINode Title="DemoConfigureScript.ChaosValueLabel field" Url="html/d46b9df7-aa8a-c5ab-1521-67a602f943c1.htm" />
+  <HelpKINode Title="DemoConfigureScript.ClearButtonClicked method" Url="html/d5236ed7-2deb-95b5-bf95-914d18918f86.htm" />
+  <HelpKINode Title="DemoConfigureScript.CopyButtonClicked method" Url="html/d53288ce-4ec3-6443-da9b-611ae16e3cfe.htm" />
+  <HelpKINode Title="DemoConfigureScript.CopySeedButton field" Url="html/84f8b0ed-9e77-07b6-43a7-3ceb02ea0f15.htm" />
+  <HelpKINode Title="DemoConfigureScript.CreateButtonClicked method" Url="html/6c69c89c-79e0-e03a-acbc-e4d47ad98ddf.htm" />
+  <HelpKINode Title="DemoConfigureScript.DemoConfigureScript constructor" Url="html/316899e7-3410-f878-9314-5da4f7116c62.htm" />
+  <HelpKINode Title="DemoConfigureScript.DistanceSlider field" Url="html/99a57edb-32bc-97f4-50d5-5ac9056d47d4.htm" />
+  <HelpKINode Title="DemoConfigureScript.DistanceValueChanged method" Url="html/ac273849-5ca7-2f9d-7897-7c5eff57944c.htm" />
+  <HelpKINode Title="DemoConfigureScript.DistanceValueLabel field" Url="html/3d8a212d-170c-9820-eb16-05b57ae78dab.htm" />
+  <HelpKINode Title="DemoConfigureScript.DurationSlider field" Url="html/a559d095-f8f2-bba8-516d-d8c1a481e088.htm" />
+  <HelpKINode Title="DemoConfigureScript.DurationSliderChanged method" Url="html/fc8e6038-c240-19a4-35c0-b7e4c3758369.htm" />
+  <HelpKINode Title="DemoConfigureScript.DurationValueLabel field" Url="html/91629edb-46fe-661a-b934-30309914fbe6.htm" />
+  <HelpKINode Title="DemoConfigureScript.EndImage field" Url="html/d6be4042-55ba-3c35-1c15-ea64e4c4d474.htm" />
+  <HelpKINode Title="DemoConfigureScript.EndLightningDrag method" Url="html/4d3e53e7-6a1b-13e5-9581-7cf4be732621.htm" />
+  <HelpKINode Title="DemoConfigureScript.FadePercentSlider field" Url="html/a9ed32f0-24be-4c42-4f0d-fe3fac35854c.htm" />
+  <HelpKINode Title="DemoConfigureScript.FadePercentValueChanged method" Url="html/2d68fdfb-f18b-2cbf-9c2e-0b81ed3f909a.htm" />
+  <HelpKINode Title="DemoConfigureScript.FadePercentValueLabel field" Url="html/c3b89919-4c05-9ea0-77bf-85cb18e29b93.htm" />
+  <HelpKINode Title="DemoConfigureScript.ForkednessSlider field" Url="html/7d567fc7-ecd1-81c7-12bf-7dd5c869cb41.htm" />
+  <HelpKINode Title="DemoConfigureScript.ForkednessValueLabel field" Url="html/d07a48e1-fb2f-d795-6de1-393dc4d6597c.htm" />
+  <HelpKINode Title="DemoConfigureScript.GenerationsSlider field" Url="html/f35da237-1441-1066-ab96-fea5370d23ed.htm" />
+  <HelpKINode Title="DemoConfigureScript.GenerationsSliderChanged method" Url="html/9506ce88-4935-7413-cc86-cdb02ffe1d46.htm" />
+  <HelpKINode Title="DemoConfigureScript.GenerationsValueLabel field" Url="html/800de253-090e-2b77-b00b-b1ac913d805c.htm" />
+  <HelpKINode Title="DemoConfigureScript.GlowIntensitySlider field" Url="html/c00825e4-aa17-8e3c-eb47-08592cda9e9d.htm" />
+  <HelpKINode Title="DemoConfigureScript.GlowIntensityValueLabel field" Url="html/1a1cf0a2-b7fa-38dd-c163-608b4622bb4c.htm" />
+  <HelpKINode Title="DemoConfigureScript.GlowSliderValueChanged method" Url="html/b0226aca-09fc-e4c6-8ea1-b91daed79386.htm" />
+  <HelpKINode Title="DemoConfigureScript.GlowWidthSlider field" Url="html/fb429bc8-9b0a-98e5-966c-84f2cfff5d88.htm" />
+  <HelpKINode Title="DemoConfigureScript.GlowWidthValueLabel field" Url="html/8afb097f-3b58-f220-3bcd-7658d861d2b2.htm" />
+  <HelpKINode Title="DemoConfigureScript.GrowthMultiplierSlider field" Url="html/0a65c6d7-bff0-e589-3959-6fa24c98a6a7.htm" />
+  <HelpKINode Title="DemoConfigureScript.GrowthMultiplierValueChanged method" Url="html/3f4842f0-7968-3d16-4bf0-806c862d8eb0.htm" />
+  <HelpKINode Title="DemoConfigureScript.GrowthMultiplierValueLabel field" Url="html/ee192db7-259a-e437-5ffd-96344848bf4a.htm" />
+  <HelpKINode Title="DemoConfigureScript.IntensitySlider field" Url="html/f327464d-65e6-7161-e3b9-c45574027bee.htm" />
+  <HelpKINode Title="DemoConfigureScript.IntensitySliderValueChanged method" Url="html/92b049fb-24d2-1c25-ed50-f765cc4c22ed.htm" />
+  <HelpKINode Title="DemoConfigureScript.IntensityValueLabel field" Url="html/488f52bc-9b0c-db70-67d4-2f0853613d65.htm" />
+  <HelpKINode Title="DemoConfigureScript.LengthSliderValueChanged method" Url="html/46f4ce34-deb2-fb03-83b9-8d76f8589adc.htm" />
+  <HelpKINode Title="DemoConfigureScript.LightningBoltScript field" Url="html/9bbe2120-dc9c-2ae2-0f8a-af22eb84db62.htm" />
+  <HelpKINode Title="DemoConfigureScript.OrthographicToggle field" Url="html/878af230-a931-eab0-94bf-a81cbd6a7b9f.htm" />
+  <HelpKINode Title="DemoConfigureScript.OrthographicToggleClicked method" Url="html/245075a0-3df4-c689-35fa-fa9d9d45a7e3.htm" />
+  <HelpKINode Title="DemoConfigureScript.SeedInputField field" Url="html/18e2bdc6-39ba-4e8a-572d-d13820dc8943.htm" />
+  <HelpKINode Title="DemoConfigureScript.SeedLabel field" Url="html/ac72a6b1-dfc8-6f2a-6491-dae7222d1751.htm" />
+  <HelpKINode Title="DemoConfigureScript.SpaceBarLabel field" Url="html/ce0e5f1a-4e1b-391a-b083-ca12057e4f60.htm" />
+  <HelpKINode Title="DemoConfigureScript.StartImage field" Url="html/e84b8a66-540c-2cbe-7d2c-435659426bcf.htm" />
+  <HelpKINode Title="DemoConfigureScript.StartLightningDrag method" Url="html/5b74b60c-9a7c-3cbb-e2cd-5995060eb0f4.htm" />
+  <HelpKINode Title="DemoConfigureScript.TrunkSliderValueChanged method" Url="html/b246e60b-555a-9f63-784d-435b335aa8f9.htm" />
+  <HelpKINode Title="DemoConfigureScript.TrunkWidthSlider field" Url="html/1829bb08-c872-9d8a-9317-cb4779f00c13.htm" />
+  <HelpKINode Title="DemoConfigureScript.TrunkWidthValueLabel field" Url="html/1e402796-218d-9b0f-9fd6-43ff7c0ea38a.htm" />
+  <HelpKINode Title="DemoMeshScript class">
+    <HelpKINode Title="DemoMeshScript Class" Url="html/ce81727e-fe86-7fa8-e3aa-6d9848471716.htm" />
+    <HelpKINode Title="constructor" Url="html/41201984-dfde-9cda-ad78-30c2c0a4cac0.htm" />
+    <HelpKINode Title="methods" Url="html/926855b8-2088-1b18-0877-2bfaf8a11dc9.htm" />
+    <HelpKINode Title="properties" Url="html/95e9c561-cfa2-5210-1b7c-71b2aa1dd718.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoMeshScript.DemoMeshScript constructor" Url="html/41201984-dfde-9cda-ad78-30c2c0a4cac0.htm" />
+  <HelpKINode Title="DemoPathScript class">
+    <HelpKINode Title="DemoPathScript Class" Url="html/17d7b5e0-2642-b421-8382-2528246ec8b7.htm" />
+    <HelpKINode Title="constructor" Url="html/352c6468-10a3-2f9e-a237-906491dd230d.htm" />
+    <HelpKINode Title="fields" Url="html/76b8856a-5da0-ca21-92ca-e85617ad7e1e.htm" />
+    <HelpKINode Title="methods" Url="html/3f7372dd-88e1-76f3-79ca-4f99ace5430f.htm" />
+    <HelpKINode Title="properties" Url="html/8863ebee-9604-9469-3279-a3de19a180d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoPathScript.Crate field" Url="html/e25c4a3e-a1c2-cbbd-c44e-04157e9117f0.htm" />
+  <HelpKINode Title="DemoPathScript.DemoPathScript constructor" Url="html/352c6468-10a3-2f9e-a237-906491dd230d.htm" />
+  <HelpKINode Title="DemoPlayerControllerScript class">
+    <HelpKINode Title="DemoPlayerControllerScript Class" Url="html/9c5c99e4-d5ea-33bf-f311-f6b675668fde.htm" />
+    <HelpKINode Title="constructor" Url="html/6de4903b-428a-6212-58c4-7977aa686882.htm" />
+    <HelpKINode Title="fields" Url="html/9594feb9-2ade-f046-981e-02ee268d20a4.htm" />
+    <HelpKINode Title="methods" Url="html/a34572e4-dcf7-9cf8-deb2-f487fa95b80a.htm" />
+    <HelpKINode Title="properties" Url="html/0e986c53-a419-121c-4094-b83714a730aa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoPlayerControllerScript.DemoPlayerControllerScript constructor" Url="html/6de4903b-428a-6212-58c4-7977aa686882.htm" />
+  <HelpKINode Title="DemoPlayerControllerScript.NextSpell method" Url="html/a7f70e5d-95ca-1fc9-87e9-b605de7fd125.htm" />
+  <HelpKINode Title="DemoPlayerControllerScript.PreviousSpell method" Url="html/c02e70fe-5b08-7945-6579-5b724deebfbe.htm" />
+  <HelpKINode Title="DemoPlayerControllerScript.RotateSpeed field" Url="html/6df22965-1b2e-670b-f914-329f4494adf6.htm" />
+  <HelpKINode Title="DemoPlayerControllerScript.Speed field" Url="html/c629e2a6-1dc4-9fd7-93bc-150e1be329ac.htm" />
+  <HelpKINode Title="DemoPlayerControllerScript.SpellLabel field" Url="html/cfbd0a2e-2628-87c2-a118-2bcaff9e24bb.htm" />
+  <HelpKINode Title="DemoPlayerControllerScript.Spells field" Url="html/6a0a2a55-6cdf-1856-e9ee-af96fe896325.htm" />
+  <HelpKINode Title="DemoScript class">
+    <HelpKINode Title="DemoScript Class" Url="html/6faca78f-c3c7-7326-b746-cf81acbc269a.htm" />
+    <HelpKINode Title="constructor" Url="html/64636590-d5c1-1743-9172-11e8b47ae2db.htm" />
+    <HelpKINode Title="fields" Url="html/556a3882-cef9-0b13-3ac0-1214cf1a5afb.htm" />
+    <HelpKINode Title="methods" Url="html/6c02e5a7-faae-4bc1-e767-cfea0afbb33e.htm" />
+    <HelpKINode Title="properties" Url="html/1047ee82-182d-2909-b2d3-ac8c2bc8d4e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScript.ClampAngle method" Url="html/4b2bda36-eded-c105-df97-f3d670a8fa06.htm" />
+  <HelpKINode Title="DemoScript.CloudParticleSystem field" Url="html/00be5adb-6273-b3a4-8a55-0f9795fbec83.htm" />
+  <HelpKINode Title="DemoScript.DemoScript constructor" Url="html/64636590-d5c1-1743-9172-11e8b47ae2db.htm" />
+  <HelpKINode Title="DemoScript.EnableMouseLook field" Url="html/c6428037-2780-5963-9a25-c3924451f601.htm" />
+  <HelpKINode Title="DemoScript.LightningBoltScript field" Url="html/8951a44d-f550-1ed6-15ad-87225da34678.htm" />
+  <HelpKINode Title="DemoScript.MoveSpeed field" Url="html/ca94e427-83ab-5e89-b682-cced4f86674b.htm" />
+  <HelpKINode Title="DemoScript.ReloadCurrentScene method" Url="html/5869d703-37fb-864a-a3e8-7310015b31da.htm" />
+  <HelpKINode Title="DemoScript.ThunderAndLightningScript field" Url="html/65c9257d-f921-c705-ddaf-eabe38ab1a23.htm" />
+  <HelpKINode Title="DemoScript2D class">
+    <HelpKINode Title="DemoScript2D Class" Url="html/f73cabdf-7b2d-94c3-f3af-783948ba2b07.htm" />
+    <HelpKINode Title="constructor" Url="html/1d03dbf9-b7c8-409a-82d5-f4eedc74e497.htm" />
+    <HelpKINode Title="fields" Url="html/8e09a0ce-741d-a9d3-6740-4acbbf4d73a4.htm" />
+    <HelpKINode Title="methods" Url="html/cf46c1a0-ee6e-f5f4-4583-f130cee95129.htm" />
+    <HelpKINode Title="properties" Url="html/ed94ed44-5188-edfa-5989-ecb0bd57301d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScript2D.DemoScript2D constructor" Url="html/1d03dbf9-b7c8-409a-82d5-f4eedc74e497.htm" />
+  <HelpKINode Title="DemoScript2D.LightningScript field" Url="html/d4173f79-dab8-51f2-00ae-b0ab29954fc9.htm" />
+  <HelpKINode Title="DemoScript2D.SpriteToRotate field" Url="html/46f7adf9-4e48-bd24-c351-e3fd3889e252.htm" />
+  <HelpKINode Title="DemoScriptManualAutomatic class">
+    <HelpKINode Title="DemoScriptManualAutomatic Class" Url="html/8a400c05-daba-029a-83e9-7ae2bbeb93da.htm" />
+    <HelpKINode Title="constructor" Url="html/b2cecf96-68df-d47b-5b59-3d0963d3c9f0.htm" />
+    <HelpKINode Title="fields" Url="html/14e988e0-2a92-ec3c-5083-a954d263882a.htm" />
+    <HelpKINode Title="methods" Url="html/92090a82-f83e-104e-d294-0e2c94e93921.htm" />
+    <HelpKINode Title="properties" Url="html/2dfb2756-4fe0-e42e-60e3-5df5a10076d4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScriptManualAutomatic.a field" Url="html/00eefff5-9088-7294-1ff6-31995b86f65c.htm" />
+  <HelpKINode Title="DemoScriptManualAutomatic.AutomaticToggle field" Url="html/30b2e4ac-8312-9e8a-7030-99a21d0833bc.htm" />
+  <HelpKINode Title="DemoScriptManualAutomatic.AutomaticToggled method" Url="html/790daa5c-26d6-8fa8-4562-37091c7d5f66.htm" />
+  <HelpKINode Title="DemoScriptManualAutomatic.b field" Url="html/2e61f811-bbcc-cae8-5bbf-fd718ba0aed7.htm" />
+  <HelpKINode Title="DemoScriptManualAutomatic.DemoScriptManualAutomatic constructor" Url="html/b2cecf96-68df-d47b-5b59-3d0963d3c9f0.htm" />
+  <HelpKINode Title="DemoScriptManualAutomatic.LightningPrefab field" Url="html/4279c966-636c-d29b-5e43-f77ca5f61259.htm" />
+  <HelpKINode Title="DemoScriptManualAutomatic.ManualTriggerClicked method" Url="html/932dbf88-079d-2210-699f-2a53ea8ffa20.htm" />
+  <HelpKINode Title="DemoScriptMoveRandomly class">
+    <HelpKINode Title="DemoScriptMoveRandomly Class" Url="html/2b428b20-49d9-e664-476e-a0d9bf697ed2.htm" />
+    <HelpKINode Title="constructor" Url="html/bfac74ee-76ef-4499-143b-5ca7bc66f2ff.htm" />
+    <HelpKINode Title="fields" Url="html/10399ae0-a995-11ad-6e05-3f974f03f02a.htm" />
+    <HelpKINode Title="methods" Url="html/c5a04046-1793-2816-12a1-9c8d4087349b.htm" />
+    <HelpKINode Title="properties" Url="html/c7a7a2e9-81a2-5b85-36fa-56267118bdd3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScriptMoveRandomly.DemoScriptMoveRandomly constructor" Url="html/bfac74ee-76ef-4499-143b-5ca7bc66f2ff.htm" />
+  <HelpKINode Title="DemoScriptMoveRandomly.MoveTimeSeconds field" Url="html/c38fe419-4a29-a707-9d8a-c11ab5ac3280.htm" />
+  <HelpKINode Title="DemoScriptMoveRandomly.Transform1 field" Url="html/2bfb38ed-0193-fb82-89b4-e9c2a3d0bf04.htm" />
+  <HelpKINode Title="DemoScriptMoveRandomly.Transform2 field" Url="html/aa23118d-7a75-6ebe-1be7-fd941bb93c24.htm" />
+  <HelpKINode Title="DemoScriptPrefabTutorial class">
+    <HelpKINode Title="DemoScriptPrefabTutorial Class" Url="html/c770ba53-2b9e-ed13-952a-731c76f88e72.htm" />
+    <HelpKINode Title="constructor" Url="html/f135797a-4e28-3974-8ebd-e543ee726e6a.htm" />
+    <HelpKINode Title="fields" Url="html/af86383c-1d74-9f2f-4e55-c25e8f4dc97d.htm" />
+    <HelpKINode Title="methods" Url="html/953f28d5-95ae-bcad-b10e-e4d446b1d9de.htm" />
+    <HelpKINode Title="properties" Url="html/054c4513-c530-dc2b-b309-80204ebc1559.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScriptPrefabTutorial.DemoScriptPrefabTutorial constructor" Url="html/f135797a-4e28-3974-8ebd-e543ee726e6a.htm" />
+  <HelpKINode Title="DemoScriptPrefabTutorial.LightningScript field" Url="html/be53e6e9-3153-40a1-626e-95bdc7e731b8.htm" />
+  <HelpKINode Title="DemoScriptReloadSceneEsc class">
+    <HelpKINode Title="DemoScriptReloadSceneEsc Class" Url="html/ed8b59d5-1224-8ee6-3d4b-efa2519dc50f.htm" />
+    <HelpKINode Title="constructor" Url="html/1be92217-42fe-547d-0fb5-3646ab1190c5.htm" />
+    <HelpKINode Title="methods" Url="html/db5b59dc-670a-11b2-f068-7ffcfb045e1b.htm" />
+    <HelpKINode Title="properties" Url="html/7fc63984-c1c6-b760-5f14-8990707a1db9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScriptReloadSceneEsc.DemoScriptReloadSceneEsc constructor" Url="html/1be92217-42fe-547d-0fb5-3646ab1190c5.htm" />
+  <HelpKINode Title="DemoScriptRotate class">
+    <HelpKINode Title="DemoScriptRotate Class" Url="html/ec103e67-bac2-71de-4638-c20b0dad7462.htm" />
+    <HelpKINode Title="constructor" Url="html/f74c0d5f-9537-d9db-a79c-b14e3dd32ff7.htm" />
+    <HelpKINode Title="fields" Url="html/ad807228-fb95-4813-a3a0-f9067e7da433.htm" />
+    <HelpKINode Title="methods" Url="html/9e1e6584-cf91-643f-e4db-cea36b8e25d7.htm" />
+    <HelpKINode Title="properties" Url="html/a719bda2-feb2-8b59-04a6-c346220a220f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScriptRotate.DemoScriptRotate constructor" Url="html/f74c0d5f-9537-d9db-a79c-b14e3dd32ff7.htm" />
+  <HelpKINode Title="DemoScriptRotate.Rotation field" Url="html/56d380dc-9bbb-0423-abf7-6a56b99a2bf4.htm" />
+  <HelpKINode Title="DemoScriptTriggerPath class">
+    <HelpKINode Title="DemoScriptTriggerPath Class" Url="html/2523d06e-3bc6-e936-77c8-dd7c9ce1daea.htm" />
+    <HelpKINode Title="constructor" Url="html/bd86987f-f679-0411-5949-5547bd7f2098.htm" />
+    <HelpKINode Title="fields" Url="html/95bac11e-7881-5479-6718-41f64b622cf5.htm" />
+    <HelpKINode Title="methods" Url="html/80749644-b93e-5c15-9755-ac1a9e6448cc.htm" />
+    <HelpKINode Title="properties" Url="html/3de0f15d-6276-efd7-44fd-5b045d7578fe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DemoScriptTriggerPath.DemoScriptTriggerPath constructor" Url="html/bd86987f-f679-0411-5949-5547bd7f2098.htm" />
+  <HelpKINode Title="DemoScriptTriggerPath.Script field" Url="html/a4e765dc-b177-b2da-d3f9-116047a2dae7.htm" />
+  <HelpKINode Title="DemoScriptTriggerPath.SplineToggle field" Url="html/1c828da6-1123-f244-ab26-773a973f7233.htm" />
+  <HelpKINode Title="Destination field" Url="html/656a1e9d-4eea-d18b-cea3-085990ebca74.htm" />
+  <HelpKINode Title="DestinationBlendMode field" Url="html/dd4cd799-f7ab-2a66-d0ef-39fa30ca9c1c.htm" />
+  <HelpKINode Title="DestParticleSystem field" Url="html/204e5263-79b4-cf9d-fa6f-3cb305435c64.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning namespace" Url="html/6104f179-e049-28b4-1bd3-10e10bd0faf2.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.CameraMode enumeration" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoConfigureScript class" Url="html/dd055a45-dd85-d126-ab91-076ac5bb396f.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoMeshScript class" Url="html/ce81727e-fe86-7fa8-e3aa-6d9848471716.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoPathScript class" Url="html/17d7b5e0-2642-b421-8382-2528246ec8b7.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoPlayerControllerScript class" Url="html/9c5c99e4-d5ea-33bf-f311-f6b675668fde.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScript class" Url="html/6faca78f-c3c7-7326-b746-cf81acbc269a.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScript2D class" Url="html/f73cabdf-7b2d-94c3-f3af-783948ba2b07.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScriptManualAutomatic class" Url="html/8a400c05-daba-029a-83e9-7ae2bbeb93da.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScriptMoveRandomly class" Url="html/2b428b20-49d9-e664-476e-a0d9bf697ed2.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScriptPrefabTutorial class" Url="html/c770ba53-2b9e-ed13-952a-731c76f88e72.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScriptReloadSceneEsc class" Url="html/ed8b59d5-1224-8ee6-3d4b-efa2519dc50f.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScriptRotate class" Url="html/ec103e67-bac2-71de-4638-c20b0dad7462.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.DemoScriptTriggerPath class" Url="html/2523d06e-3bc6-e936-77c8-dd7c9ce1daea.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.ICollisionHandler interface" Url="html/f3f1dc24-853f-5128-8743-92815e3bd6ad.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBeamSpellScript class" Url="html/851268f0-33dd-10f5-a4a0-28c456ddd9ab.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBolt class" Url="html/51101bfb-d47c-a27e-f001-96832ab713fc.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBolt.LineRendererMesh class" Url="html/1960541b-01a4-5459-82a4-1ec3037dc6c7.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltDependencies class" Url="html/9b22ab33-2c2c-4ade-af32-f6fab8b22655.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltParameters class" Url="html/cdd11365-f3bb-1e35-b8a0-bba4855cf645.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltPathScript class" Url="html/b6c7db85-7357-c319-43a5-4a46e5064bb6.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltPathScriptBase class" Url="html/7cfc717a-0dd5-340c-06e9-fb8cbec93373.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltPrefabScript class" Url="html/a4793e62-007b-8b3c-2011-8548a9df9d6c.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltPrefabScriptBase class" Url="html/dab7e95f-c53d-3be1-b722-70c876ef7680.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltQualitySetting enumeration" Url="html/c39ffb70-3d8f-4c4a-1643-9e3392f4565a.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltScript class" Url="html/55e600ea-92e9-1b29-2fb4-8d55c4b7ef4a.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltSegment structure" Url="html/d0d6f391-dac6-8edf-f9c5-ce24118adc90.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltSegmentGroup class" Url="html/11f3a934-e27b-2474-f689-2659c55ff739.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltShapeConeScript class" Url="html/36dffa58-1c26-c613-e629-d7fe6deb12db.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltShapeSphereScript class" Url="html/7569f26e-918f-ce3e-6dd2-aadb2f63b8b2.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningBoltTransformTrackerScript class" Url="html/4bcf4a02-9246-c1cb-d83a-76947f01f27d.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningCustomTransformDelegate class" Url="html/96a90aa8-d7ff-5efa-20e2-901522487abe.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningCustomTransformState enumeration" Url="html/76e184d9-712c-5448-ea83-c9a2be45de3b.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningCustomTransformStateInfo class" Url="html/8d21cd71-737f-416f-9ca7-92bbe2e408a6.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningFieldScript class" Url="html/05028084-0d0f-7f98-7a66-7d4a89e01eba.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningGenerator class" Url="html/ee4e16a1-d023-a8a1-1b8d-832ed96884df.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningGeneratorPath class" Url="html/dc0c5d35-f42a-7ad6-e135-4481bc371cce.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningGizmoScript class" Url="html/1838b9e4-22fe-e02c-30eb-3e02f7e1e07b.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningLightParameters class" Url="html/8ff21d7e-9341-31ab-b921-94dd8d92cc7b.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningLightsabreScript class" Url="html/ac6ea85a-8f80-0a73-18d4-d002c50a3cef.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningMeshSurfaceScript class" Url="html/65a4ce18-9c30-a55e-c4f8-8798201d8979.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningParticleCollisionForwarder class" Url="html/ed2ba65a-5d3a-ca1f-c8f7-f6e301613b3a.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningParticleSpellScript class" Url="html/52445196-7da1-034f-fe22-ba00090211e9.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningQualityMaximum class" Url="html/fd513e2b-8a50-e219-e8a3-6d3b10c75055.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningSpellScript class" Url="html/579ff95d-703c-1bbe-3c13-6d877b965459.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningSplineScript class" Url="html/6885dc24-8aeb-b76b-7499-2df90daeb3e8.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningSpriteSheetCreator class" Url="html/60d0c424-9f32-7e62-d0ac-98d0c9894685.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningThreadState class" Url="html/1ca66bb1-2cb8-fc78-287f-2ebd8ecf601e.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningWhipScript class" Url="html/5e608715-23ac-a168-23d9-13a3524de303.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.LightningWhipSpell class" Url="html/68143ea5-0158-446e-4f85-de7dd9b44b10.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.MeshHelper class" Url="html/7b299080-9256-8df5-7086-26a8705b3e7a.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.PathGenerator class" Url="html/91a3c7d6-74ef-e72e-dae1-745263819e43.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.RangeOfFloats structure" Url="html/d74e81a9-068a-da70-2532-8c91b1e09e58.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.RangeOfIntegers structure" Url="html/7bead3c2-2482-dd8f-c51f-21338ac6b77b.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.SingleLineAttribute class" Url="html/caf8d0a9-54a5-82e8-5746-c82139609660.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.SingleLineClampAttribute class" Url="html/bd1118ea-c4a1-fd04-320e-4f2968992d8e.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.SingleLineDrawer class" Url="html/bb4f6958-5bed-8f89-10ab-6d698ad680ba.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.ThunderAndLightningScript class" Url="html/c6a5d82b-8bb2-1591-65a2-cdfd3eca6a4b.htm" />
+  <HelpKINode Title="DigitalRuby.ThunderAndLightning.WaitForSecondsLightning class" Url="html/1ae100f3-a924-123c-1d94-177f5c66140a.htm" />
+  <HelpKINode Title="Direction field" Url="html/3f3f12b2-25db-1854-fe70-a3bbfcf3bc91.htm" />
+  <HelpKINode Title="DistancePerSegmentHint field">
+    <HelpKINode Title="LightningMeshSurfaceScript.DistancePerSegmentHint Field" Url="html/362fa8ae-f779-c0e4-61aa-cc2bfe323521.htm" />
+    <HelpKINode Title="LightningSplineScript.DistancePerSegmentHint Field" Url="html/7fd6d2a3-bd76-efab-bf7e-b02c110bcaf0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DistanceSlider field" Url="html/99a57edb-32bc-97f4-50d5-5ac9056d47d4.htm" />
+  <HelpKINode Title="DistanceValueChanged method" Url="html/ac273849-5ca7-2f9d-7897-7c5eff57944c.htm" />
+  <HelpKINode Title="DistanceValueLabel field" Url="html/3d8a212d-170c-9820-eb16-05b57ae78dab.htm" />
+  <HelpKINode Title="Duration field" Url="html/a3139f16-296b-58a8-5ca4-c2bc6ec02067.htm" />
+  <HelpKINode Title="DurationRange field" Url="html/34e872f0-8465-8f43-4506-f1255ad4a442.htm" />
+  <HelpKINode Title="DurationSlider field" Url="html/a559d095-f8f2-bba8-516d-d8c1a481e088.htm" />
+  <HelpKINode Title="DurationSliderChanged method" Url="html/fc8e6038-c240-19a4-35c0-b7e4c3758369.htm" />
+  <HelpKINode Title="DurationTimer property" Url="html/fd5d915a-9191-f527-b7da-bc1f61ff6b8d.htm" />
+  <HelpKINode Title="DurationValueLabel field" Url="html/91629edb-46fe-661a-b934-30309914fbe6.htm" />
+  <HelpKINode Title="EmissionLight field" Url="html/d124efdd-34c6-4e93-7104-bb3036089041.htm" />
+  <HelpKINode Title="EmissionParticleSystem field" Url="html/b088a2e0-8ecc-6591-5aa8-db68210d3d58.htm" />
+  <HelpKINode Title="EmissionSound field" Url="html/0b54b827-0849-d443-f26a-afe5efdd0bc9.htm" />
+  <HelpKINode Title="Empty property" Url="html/f768c1be-9217-df6d-65b0-c9e394b666e0.htm" />
+  <HelpKINode Title="EnableLightning property" Url="html/f00b9d4e-5290-d6e9-a43b-702bc72aaae8.htm" />
+  <HelpKINode Title="EnableMouseLook field" Url="html/c6428037-2780-5963-9a25-c3924451f601.htm" />
+  <HelpKINode Title="EnableParticleLights field" Url="html/7e050c18-08cf-983c-cc0e-8e2ac179de87.htm" />
+  <HelpKINode Title="End field">
+    <HelpKINode Title="LightningBoltParameters.End Field" Url="html/79c50cd4-8511-ce45-b4e4-eb6ad536fbb8.htm" />
+    <HelpKINode Title="LightningBoltSegment.End Field" Url="html/34856a9e-8251-c02c-6db8-247673aaa8e1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Ended enumeration member" Url="html/76e184d9-712c-5448-ea83-c9a2be45de3b.htm" />
+  <HelpKINode Title="EndImage field" Url="html/d6be4042-55ba-3c35-1c15-ea64e4c4d474.htm" />
+  <HelpKINode Title="EndLightningDrag method" Url="html/4d3e53e7-6a1b-13e5-9581-7cf4be732621.htm" />
+  <HelpKINode Title="EndPointRandomization field" Url="html/5c0498a1-c7b0-055d-94bd-8c89029b1de8.htm" />
+  <HelpKINode Title="EndTarget field" Url="html/f7c3b0db-a63b-d616-e137-5952b34a5470.htm" />
+  <HelpKINode Title="EndTransform field" Url="html/4995eb00-4aa0-98fd-fa5a-11dec5d36bda.htm" />
+  <HelpKINode Title="EndVariance field">
+    <HelpKINode Title="LightningBoltParameters.EndVariance Field" Url="html/2b4df8ec-2f17-e36a-d950-e900441ae3e6.htm" />
+    <HelpKINode Title="LightningBoltPrefabScript.EndVariance Field" Url="html/dafdc195-ce1e-d48d-9ad7-f200431e3d46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EndWidthMultiplier field">
+    <HelpKINode Title="LightningBoltParameters.EndWidthMultiplier Field" Url="html/a6d2b98a-6b02-a675-d596-ce0b8291d394.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.EndWidthMultiplier Field" Url="html/b608a9b7-7987-5548-9322-e629c3ec50f5.htm" />
+    <HelpKINode Title="LightningBoltSegmentGroup.EndWidthMultiplier Field" Url="html/e3e8e7d3-d947-8788-f850-62f7658c9887.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Executing enumeration member" Url="html/76e184d9-712c-5448-ea83-c9a2be45de3b.htm" />
+  <HelpKINode Title="ExportCompleteLabel field" Url="html/972309b0-65cf-8ff5-abc4-a9aa9cdc9f13.htm" />
+  <HelpKINode Title="ExportTapped method" Url="html/d1efdbb1-16b5-e37d-3883-42cb2ccdd164.htm" />
+  <HelpKINode Title="FadeFullyLitMultiplier field">
+    <HelpKINode Title="LightningBoltParameters.FadeFullyLitMultiplier Field" Url="html/994868ca-cc1f-ab67-b446-feb30fce4c71.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.FadeFullyLitMultiplier Field" Url="html/9924e8b8-1248-8c6b-454b-690235f16f48.htm" />
+    <HelpKINode Title="LightningLightParameters.FadeFullyLitMultiplier Field" Url="html/7127aef6-7642-cd10-7d1e-bca07e649f42.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FadeInMultiplier field">
+    <HelpKINode Title="LightningBoltParameters.FadeInMultiplier Field" Url="html/aac078ca-811c-3516-f7ff-5f6dabe7dbf5.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.FadeInMultiplier Field" Url="html/aae8c64c-50ca-df84-2d58-e87d08a1153a.htm" />
+    <HelpKINode Title="LightningLightParameters.FadeInMultiplier Field" Url="html/6247e89f-bba4-478a-5c54-e4d7418b1e87.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FadeOutMultiplier field">
+    <HelpKINode Title="LightningBoltParameters.FadeOutMultiplier Field" Url="html/ac04363f-d12c-c0e1-f626-39c0ec2be193.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.FadeOutMultiplier Field" Url="html/09b80146-4d39-0e6f-1564-f3dc30dfc13f.htm" />
+    <HelpKINode Title="LightningLightParameters.FadeOutMultiplier Field" Url="html/27b603e7-3046-09fd-dcfc-eebc7bdb6701.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FadePercent field">
+    <HelpKINode Title="LightningBoltParameters.FadePercent Field" Url="html/ba3a7c72-4fac-72af-1d0a-e609db6c85df.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.FadePercent Field" Url="html/bb8efb21-7c99-039e-4b5e-0b52a2b8b994.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FadePercentSlider field" Url="html/a9ed32f0-24be-4c42-4f0d-fe3fac35854c.htm" />
+  <HelpKINode Title="FadePercentValueChanged method" Url="html/2d68fdfb-f18b-2cbf-9c2e-0b81ed3f909a.htm" />
+  <HelpKINode Title="FadePercentValueLabel field" Url="html/c3b89919-4c05-9ea0-77bf-85cb18e29b93.htm" />
+  <HelpKINode Title="FieldBounds field" Url="html/bc0b94cf-49ce-c3d4-7164-820ed8defe67.htm" />
+  <HelpKINode Title="FindChildRecursively method" Url="html/5d7b3478-933c-6926-395f-615c19b46ada.htm" />
+  <HelpKINode Title="Forkedness field">
+    <HelpKINode Title="LightningBoltParameters.Forkedness Field" Url="html/1ad1bd97-14d0-be35-9308-6829acb83095.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.Forkedness Field" Url="html/dc129b5f-8804-1ff3-149d-e60fd2c4049a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForkednessSlider field" Url="html/7d567fc7-ecd1-81c7-12bf-7dd5c869cb41.htm" />
+  <HelpKINode Title="ForkednessValueLabel field" Url="html/d07a48e1-fb2f-d795-6de1-393dc4d6597c.htm" />
+  <HelpKINode Title="ForkEndWidthMultiplier field">
+    <HelpKINode Title="LightningBoltParameters.ForkEndWidthMultiplier Field" Url="html/3f866a15-c14c-8827-9058-f69f3c59412e.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.ForkEndWidthMultiplier Field" Url="html/91291902-a74d-c3ef-0c37-c64f33277565.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForkLengthMultiplier field">
+    <HelpKINode Title="LightningBoltParameters.ForkLengthMultiplier Field" Url="html/a01d93fe-c0da-9333-de72-87b07c74334e.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.ForkLengthMultiplier Field" Url="html/14182fe7-05ba-1b52-6789-960fdb7114a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForkLengthVariance field">
+    <HelpKINode Title="LightningBoltParameters.ForkLengthVariance Field" Url="html/b6ffeb13-68f3-6bac-9820-99b8cb5c910d.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.ForkLengthVariance Field" Url="html/2a28c138-bd02-ff8a-21d8-ce7249b9ed1e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForkMultiplier method" Url="html/30cbb1ca-e45f-946a-aaaf-c85a7d7e5946.htm" />
+  <HelpKINode Title="FrameDelay field" Url="html/7f5d2af5-8a53-ad96-90b3-655201ec61c0.htm" />
+  <HelpKINode Title="GameObject property" Url="html/69609852-65ce-8fcc-b014-56d59fdffeb3.htm" />
+  <HelpKINode Title="GenerateLightningBolt method" Url="html/1678ea53-b2c9-a33f-42ba-2cc24f662627.htm" />
+  <HelpKINode Title="GenerateLightningBoltPath method" Url="html/9c267eb6-cccd-a22c-887b-8740b72255bf.htm" />
+  <HelpKINode Title="GenerateLightningBoltStandard method" Url="html/c4081613-ff3e-f5e3-5dd1-c331f257d8b3.htm" />
+  <HelpKINode Title="GenerateRandomPoint method" Url="html/5a558b46-5b59-1148-792b-19fffaee7c29.htm" />
+  <HelpKINode Title="Generation field" Url="html/f81ebfa8-5394-1646-1fca-c0d40b57a660.htm" />
+  <HelpKINode Title="Generations field" Url="html/022e7098-67c9-bbbe-b56e-75faf58f44ed.htm" />
+  <HelpKINode Title="Generations property" Url="html/ce94c7db-95aa-e5bb-b3f6-183bdb955f87.htm" />
+  <HelpKINode Title="GenerationsSlider field" Url="html/f35da237-1441-1066-ab96-fea5370d23ed.htm" />
+  <HelpKINode Title="GenerationsSliderChanged method" Url="html/9506ce88-4935-7413-cc86-cdb02ffe1d46.htm" />
+  <HelpKINode Title="GenerationsValueLabel field" Url="html/800de253-090e-2b77-b00b-b1ac913d805c.htm" />
+  <HelpKINode Title="GenerationWhereForksStopSubtractor field" Url="html/862c32fc-f271-d24a-dbf8-8f11d0c09d1a.htm" />
+  <HelpKINode Title="Generator field" Url="html/4208d3cd-8c5f-733f-7bb7-da0ceaf8c3b2.htm" />
+  <HelpKINode Title="GeneratorInstance field" Url="html/399717a5-8d57-3b26-323e-0fc3dcbf819d.htm" />
+  <HelpKINode Title="GetCurrentPathObjects method" Url="html/d80b94e7-baf3-9c3d-2cc2-80d7c98c2062.htm" />
+  <HelpKINode Title="GetOrCreateParameters method" Url="html/e3c7d4cf-be24-b711-2b3e-c46cb659cd26.htm" />
+  <HelpKINode Title="GetOrCreateStateInfo method" Url="html/bb011487-6a5c-4e98-ed7b-a415f9958658.htm" />
+  <HelpKINode Title="GetRaycastFromTriangleIndex method" Url="html/590a614b-64c1-38c1-d73b-3717aad6e83d.htm" />
+  <HelpKINode Title="GlowIntensity field">
+    <HelpKINode Title="LightningBoltParameters.GlowIntensity Field" Url="html/8844bd32-da6b-204c-c511-20de926ea733.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.GlowIntensity Field" Url="html/49ef4d4d-1571-d355-5c86-3782fed1d53f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GlowIntensitySlider field" Url="html/c00825e4-aa17-8e3c-eb47-08592cda9e9d.htm" />
+  <HelpKINode Title="GlowIntensityValueLabel field" Url="html/1a1cf0a2-b7fa-38dd-c163-608b4622bb4c.htm" />
+  <HelpKINode Title="GlowSliderValueChanged method" Url="html/b0226aca-09fc-e4c6-8ea1-b91daed79386.htm" />
+  <HelpKINode Title="GlowTintColor field" Url="html/9a88c10b-ab7b-fcb5-5e1b-5e3a4d160dd8.htm" />
+  <HelpKINode Title="GlowWidthMultiplier field">
+    <HelpKINode Title="LightningBoltParameters.GlowWidthMultiplier Field" Url="html/776c630c-5fc5-f57b-6317-4dac2768949f.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.GlowWidthMultiplier Field" Url="html/72416c2e-77d0-0e96-c769-6b8c723b54cc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GlowWidthSlider field" Url="html/fb429bc8-9b0a-98e5-966c-84f2cfff5d88.htm" />
+  <HelpKINode Title="GlowWidthValueLabel field" Url="html/8afb097f-3b58-f220-3bcd-7658d861d2b2.htm" />
+  <HelpKINode Title="GrowthMultiplier field" Url="html/a2d80540-656f-7186-4e4e-334d374dd3ca.htm" />
+  <HelpKINode Title="GrowthMultiplier property" Url="html/18fa969c-4487-08da-617d-10c35f00a36c.htm" />
+  <HelpKINode Title="GrowthMultiplierSlider field" Url="html/0a65c6d7-bff0-e589-3959-6fa24c98a6a7.htm" />
+  <HelpKINode Title="GrowthMultiplierValueChanged method" Url="html/3f4842f0-7968-3d16-4bf0-806c862d8eb0.htm" />
+  <HelpKINode Title="GrowthMultiplierValueLabel field" Url="html/ee192db7-259a-e437-5ffd-96344848bf4a.htm" />
+  <HelpKINode Title="HandleCollision method" Url="html/01dad4ed-d9cd-e903-2c2b-a924a754be80.htm" />
+  <HelpKINode Title="HasActiveBolts property" Url="html/ca9ae034-8e18-8c95-5afb-30cdb1915aa1.htm" />
+  <HelpKINode Title="HasGlow property" Url="html/ec42ce72-19eb-2f6d-74bd-300482acac11.htm" />
+  <HelpKINode Title="HasLight property" Url="html/939060a1-5627-dc6c-f475-4e153e65d6f3.htm" />
+  <HelpKINode Title="Height field" Url="html/6000f84e-ef18-6845-92dd-603fe58b03a0.htm" />
+  <HelpKINode Title="HideGizmos field" Url="html/47ab2c73-f73b-68b2-e15e-484a16ac369b.htm" />
+  <HelpKINode Title="ICollisionHandler interface">
+    <HelpKINode Title="ICollisionHandler Interface" Url="html/f3f1dc24-853f-5128-8743-92815e3bd6ad.htm" />
+    <HelpKINode Title="methods" Url="html/1560a8fc-70de-e737-b173-f64226557b7c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICollisionHandler.HandleCollision method" Url="html/01dad4ed-d9cd-e903-2c2b-a924a754be80.htm" />
+  <HelpKINode Title="InnerRadius field">
+    <HelpKINode Title="LightningBoltShapeConeScript.InnerRadius Field" Url="html/2ddbc402-6359-eb7e-5987-c3a267fd8ad6.htm" />
+    <HelpKINode Title="LightningBoltShapeSphereScript.InnerRadius Field" Url="html/67c36d7b-4e85-78fb-b2ab-6e65a31d1b32.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Intensity field">
+    <HelpKINode Title="LightningBoltParameters.Intensity Field" Url="html/77ee632c-f707-2369-d88b-779926e20000.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.Intensity Field" Url="html/f1a53e15-d38b-d9a4-3993-fecfac6e97a9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IntensityFlicker field" Url="html/013e2f69-4fa9-e767-e0e9-979a925d995c.htm" />
+  <HelpKINode Title="IntensityFlickerTexture field" Url="html/9ad9d5e8-c89c-d530-b10f-d26b00ae2b3d.htm" />
+  <HelpKINode Title="IntensitySlider field" Url="html/f327464d-65e6-7161-e3b9-c45574027bee.htm" />
+  <HelpKINode Title="IntensitySliderValueChanged method" Url="html/92b049fb-24d2-1c25-ed50-f765cc4c22ed.htm" />
+  <HelpKINode Title="IntensityValueLabel field" Url="html/488f52bc-9b0c-db70-67d4-2f0853613d65.htm" />
+  <HelpKINode Title="IntervalRange field" Url="html/e0aab7ba-39a4-1271-469c-127f03d7e94f.htm" />
+  <HelpKINode Title="Is2D field" Url="html/cbb598c6-d2bf-ab40-aba5-47195e36ba53.htm" />
+  <HelpKINode Title="IsActive property" Url="html/05b88939-262b-e013-62d7-756944341957.htm" />
+  <HelpKINode Title="JitterMultiplier field" Url="html/a9baf372-d77e-0b8e-bddf-deb6e36380ff.htm" />
+  <HelpKINode Title="keepWaiting property" Url="html/37509c8b-1f1c-f96a-6b1a-08f2bd2e8976.htm" />
+  <HelpKINode Title="Label property" Url="html/e21284c6-8467-147b-c872-d2ffb206155f.htm" />
+  <HelpKINode Title="LateUpdate method">
+    <HelpKINode Title="LightningBeamSpellScript.LateUpdate Method " Url="html/5cd6f0af-7b98-7b0d-106a-1c0444fdb339.htm" />
+    <HelpKINode Title="LightningBoltScript.LateUpdate Method " Url="html/1cd40db3-b78a-df8a-fcc7-f6c37cadfc4f.htm" />
+    <HelpKINode Title="LightningSpellScript.LateUpdate Method " Url="html/ec6e23c7-dba1-0abe-91e4-dc151bb84b61.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Length field" Url="html/16099fbe-0955-12e7-6641-e3bfd203f396.htm" />
+  <HelpKINode Title="LengthSliderValueChanged method" Url="html/46f4ce34-deb2-fb03-83b9-8d76f8589adc.htm" />
+  <HelpKINode Title="LevelOfDetailDistance field">
+    <HelpKINode Title="LightningBoltDependencies.LevelOfDetailDistance Field" Url="html/fefde53d-25f5-ea82-0a1e-8bec8cce5502.htm" />
+    <HelpKINode Title="LightningBoltScript.LevelOfDetailDistance Field" Url="html/4fc36cec-615e-bd62-f1b8-a12d8a93ea16.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LifeTime field">
+    <HelpKINode Title="LightningBoltParameters.LifeTime Field" Url="html/06c4d958-0577-17f3-8db3-eb2fcdcbc1ff.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.LifeTime Field" Url="html/9513d634-8e99-cbf9-982d-a4792d5b0304.htm" />
+    <HelpKINode Title="LightningBoltSegmentGroup.LifeTime Field" Url="html/462efaea-8008-4ea5-c3d5-42a657a48912.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Light field" Url="html/a06ab7dd-631e-699c-4299-d7e522973338.htm" />
+  <HelpKINode Title="LightAdded field" Url="html/0287e049-d6bd-131e-3693-07d88d182f79.htm" />
+  <HelpKINode Title="LightAddedCallback property" Url="html/1d01738e-d045-00c0-6966-ccd31d12e424.htm" />
+  <HelpKINode Title="LightColor field" Url="html/24932c4c-9231-eb16-70be-9dd65556d3a4.htm" />
+  <HelpKINode Title="LightIntensity field" Url="html/c1f341b0-528c-8c87-1007-304c0b519a0a.htm" />
+  <HelpKINode Title="LightningAlwaysVisible field" Url="html/6dfa66cd-2eeb-5b55-bcb8-638111e29bbe.htm" />
+  <HelpKINode Title="LightningBeamSpellScript class">
+    <HelpKINode Title="LightningBeamSpellScript Class" Url="html/851268f0-33dd-10f5-a4a0-28c456ddd9ab.htm" />
+    <HelpKINode Title="constructor" Url="html/464a1ff5-4cd8-b498-40db-52118aaff9f6.htm" />
+    <HelpKINode Title="fields" Url="html/8db52255-9072-2e2d-b92d-6674631c6834.htm" />
+    <HelpKINode Title="methods" Url="html/33db13e3-35ee-d0a0-06d7-d44274114124.htm" />
+    <HelpKINode Title="properties" Url="html/24681d7e-c900-c145-7a2d-6c01d8a9b5ce.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBeamSpellScript.CollisionCallback field" Url="html/774c3372-7036-0ce2-897e-9e97e7e07c25.htm" />
+  <HelpKINode Title="LightningBeamSpellScript.EndPointRandomization field" Url="html/5c0498a1-c7b0-055d-94bd-8c89029b1de8.htm" />
+  <HelpKINode Title="LightningBeamSpellScript.LateUpdate method" Url="html/5cd6f0af-7b98-7b0d-106a-1c0444fdb339.htm" />
+  <HelpKINode Title="LightningBeamSpellScript.LightningBeamSpellScript constructor" Url="html/464a1ff5-4cd8-b498-40db-52118aaff9f6.htm" />
+  <HelpKINode Title="LightningBeamSpellScript.LightningPathScript field" Url="html/4787cd54-25f4-842c-9395-f70f3adbb6ea.htm" />
+  <HelpKINode Title="LightningBeamSpellScript.OnCastSpell method" Url="html/7bdf92e7-3e08-e160-e472-41a3e760fb22.htm" />
+  <HelpKINode Title="LightningBeamSpellScript.OnStopSpell method" Url="html/97b7297b-294c-49a9-ecc3-10c025d16245.htm" />
+  <HelpKINode Title="LightningBeamSpellScript.Start method" Url="html/645ea6b6-b6e0-7a02-c0f1-145165825deb.htm" />
+  <HelpKINode Title="LightningBolt class">
+    <HelpKINode Title="LightningBolt Class" Url="html/51101bfb-d47c-a27e-f001-96832ab713fc.htm" />
+    <HelpKINode Title="constructor" Url="html/34f0e8c6-ca6c-66bc-3d66-0adfee79fd9a.htm" />
+    <HelpKINode Title="fields" Url="html/d3ae8780-184b-e21e-4be2-0b55dd17dc4f.htm" />
+    <HelpKINode Title="methods" Url="html/7efa4b5e-35d0-411e-cac3-1c6d35882946.htm" />
+    <HelpKINode Title="properties" Url="html/db78ced1-6f0e-9d10-4dc6-ff0f334717a6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBolt.AddGroup method" Url="html/e0df2160-7674-8b28-a4b6-774462a0a4cf.htm" />
+  <HelpKINode Title="LightningBolt.CameraMode property" Url="html/71f3a701-cab4-4f43-cac4-6061ade5c4d1.htm" />
+  <HelpKINode Title="LightningBolt.Cleanup method" Url="html/68f5d0a1-a626-53c5-d717-988cab00835d.htm" />
+  <HelpKINode Title="LightningBolt.ClearCache method" Url="html/f3e9984f-6835-42b5-9216-5e05f0218029.htm" />
+  <HelpKINode Title="LightningBolt.HasGlow property" Url="html/ec42ce72-19eb-2f6d-74bd-300482acac11.htm" />
+  <HelpKINode Title="LightningBolt.IsActive property" Url="html/05b88939-262b-e013-62d7-756944341957.htm" />
+  <HelpKINode Title="LightningBolt.LightningBolt constructor" Url="html/34f0e8c6-ca6c-66bc-3d66-0adfee79fd9a.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh class">
+    <HelpKINode Title="LightningBolt.LineRendererMesh Class" Url="html/1960541b-01a4-5459-82a4-1ec3037dc6c7.htm" />
+    <HelpKINode Title="constructor" Url="html/227a5006-05df-c7d0-0911-195d52c0c6f0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBolt.LineRendererMesh.AppendLine method" Url="html/501f939d-06a9-807b-4dc5-9e4c14c421ed.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.BeginLine method" Url="html/c51a3b5f-5811-1b1a-32d1-d5e5378a3c93.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.CustomTransform property" Url="html/e126096b-c73a-9fc2-94e2-954a20be67c3.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.Empty property" Url="html/f768c1be-9217-df6d-65b0-c9e394b666e0.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.GameObject property" Url="html/69609852-65ce-8fcc-b014-56d59fdffeb3.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.LineRendererMesh constructor" Url="html/227a5006-05df-c7d0-0911-195d52c0c6f0.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.MaterialBolt property" Url="html/93d874d8-0e97-a733-ae81-9e124cfd3a2f.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.MaterialGlow property" Url="html/763a8f68-d7d2-f8b9-1761-d119a8137c25.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.MeshRendererBolt property" Url="html/9522767e-60fc-605f-bffe-2b8fb6d8dc80.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.MeshRendererGlow property" Url="html/42c26e45-fd07-05a4-60f2-3b6e51560a50.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.PopulateMesh method" Url="html/d9e5afe6-7cc3-d260-e0fa-beb89b5f72f5.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.PrepareForLines method" Url="html/abadb8a4-e057-2fd7-5604-4a6c87bc213e.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.Reset method" Url="html/515181ee-3411-a034-9513-4e1abe927f6e.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.Tag property" Url="html/67982116-c818-a779-848a-2377ba3335d9.htm" />
+  <HelpKINode Title="LightningBolt.LineRendererMesh.Transform property" Url="html/d164e591-22ee-516a-cb95-567869e61304.htm" />
+  <HelpKINode Title="LightningBolt.MaximumLightCount field" Url="html/01913b8e-6a2a-aed1-bfff-e0be86a55053.htm" />
+  <HelpKINode Title="LightningBolt.MaximumLightsPerBatch field" Url="html/29d2c403-d82b-a00b-c0f5-35fad68c66eb.htm" />
+  <HelpKINode Title="LightningBolt.MinimumDelay property" Url="html/4cd8af89-9948-1e13-6623-b536983ed024.htm" />
+  <HelpKINode Title="LightningBolt.SetupLightningBolt method" Url="html/32d74cc1-063e-e6e1-1c92-15477941d44e.htm" />
+  <HelpKINode Title="LightningBolt.Update method" Url="html/5dbe069d-867b-c613-d4a5-6285fd5480fc.htm" />
+  <HelpKINode Title="LightningBoltDependencies class">
+    <HelpKINode Title="LightningBoltDependencies Class" Url="html/9b22ab33-2c2c-4ade-af32-f6fab8b22655.htm" />
+    <HelpKINode Title="constructor" Url="html/1aabd50a-1fb9-8be9-e585-82a884027491.htm" />
+    <HelpKINode Title="fields" Url="html/5b4d4d4c-f993-f777-9d39-c5b41b5c620e.htm" />
+    <HelpKINode Title="methods" Url="html/882e0a83-c060-533a-fa13-bb413f802bad.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltDependencies.AddActiveBolt field" Url="html/6096b49d-7e45-52a1-0332-2f6a4543f835.htm" />
+  <HelpKINode Title="LightningBoltDependencies.CameraIsOrthographic field" Url="html/ca88a839-ca83-7a20-a391-868a1d99d8ca.htm" />
+  <HelpKINode Title="LightningBoltDependencies.CameraMode field" Url="html/5e0db106-cfb0-fb5c-7b00-39bf33ef0c0d.htm" />
+  <HelpKINode Title="LightningBoltDependencies.CameraPos field" Url="html/e84cc713-8c00-bcc5-342c-053153ae3934.htm" />
+  <HelpKINode Title="LightningBoltDependencies.DestParticleSystem field" Url="html/204e5263-79b4-cf9d-fa6f-3cb305435c64.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LevelOfDetailDistance field" Url="html/fefde53d-25f5-ea82-0a1e-8bec8cce5502.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LightAdded field" Url="html/0287e049-d6bd-131e-3693-07d88d182f79.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LightningBoltDependencies constructor" Url="html/1aabd50a-1fb9-8be9-e585-82a884027491.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LightningBoltEnded field" Url="html/1c2e82b7-b259-bb65-a504-22aab5e49c0f.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LightningBoltStarted field" Url="html/18423732-f389-9f5d-0faf-cc7cdcba3fc7.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LightningMaterialMesh field" Url="html/6f5dd7fe-f809-edcd-8f48-d532e80f0edc.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LightningMaterialMeshNoGlow field" Url="html/1bc3ebad-9b3c-5db8-c799-19db514e4f76.htm" />
+  <HelpKINode Title="LightningBoltDependencies.LightRemoved field" Url="html/98f5df7c-0d4d-f8ab-3876-ffb81d6b72f2.htm" />
+  <HelpKINode Title="LightningBoltDependencies.OriginParticleSystem field" Url="html/8546ad4d-8ff4-e44b-f5f2-29bc72f9bd4b.htm" />
+  <HelpKINode Title="LightningBoltDependencies.Parameters field" Url="html/b207fc6b-d478-2183-6892-b6617e71632a.htm" />
+  <HelpKINode Title="LightningBoltDependencies.Parent field" Url="html/f9e8b38f-ed1f-200c-64e1-3a7d7dc7dcf0.htm" />
+  <HelpKINode Title="LightningBoltDependencies.ReturnToCache field" Url="html/5e3baefb-9220-7372-3226-9fc409059f69.htm" />
+  <HelpKINode Title="LightningBoltDependencies.SortLayerName field" Url="html/40b0eb06-672d-e1ab-1805-a75d3614608a.htm" />
+  <HelpKINode Title="LightningBoltDependencies.SortOrderInLayer field" Url="html/8e6973e5-16fc-a382-21e0-643c9c5fcbe1.htm" />
+  <HelpKINode Title="LightningBoltDependencies.StartCoroutine field" Url="html/c5fe82ed-b2b9-4e9a-9203-bc0ac41cf1a2.htm" />
+  <HelpKINode Title="LightningBoltDependencies.ThreadState field" Url="html/d0fda5d1-0541-c127-9e76-24ac2e13ab43.htm" />
+  <HelpKINode Title="LightningBoltDependencies.UseWorldSpace field" Url="html/b785f0d1-ccf2-4093-b535-735d76af8a3d.htm" />
+  <HelpKINode Title="LightningBoltEnded field" Url="html/1c2e82b7-b259-bb65-a504-22aab5e49c0f.htm" />
+  <HelpKINode Title="LightningBoltParameters class">
+    <HelpKINode Title="LightningBoltParameters Class" Url="html/cdd11365-f3bb-1e35-b8a0-bba4855cf645.htm" />
+    <HelpKINode Title="constructor" Url="html/374ae5f4-07bb-1aab-cbdf-e268f1a31138.htm" />
+    <HelpKINode Title="fields" Url="html/1e7cf69d-ff41-ad19-91f5-a1052abb85d0.htm" />
+    <HelpKINode Title="methods" Url="html/bf9d8e16-1853-5e17-9d43-5a2bea357c68.htm" />
+    <HelpKINode Title="properties" Url="html/4831a5af-1902-b0c9-5ef1-000e32f1b56b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltParameters.ApplyVariance method" Url="html/5e69f09b-bb90-43cd-23f8-55dba24eb00f.htm" />
+  <HelpKINode Title="LightningBoltParameters.ChaosFactor field" Url="html/7317732e-915d-838a-79d3-9d0a13ccb1db.htm" />
+  <HelpKINode Title="LightningBoltParameters.ChaosFactorForks field" Url="html/de8d64e4-6e61-acf2-5f4b-c52f78c0458f.htm" />
+  <HelpKINode Title="LightningBoltParameters.Color field" Url="html/97f1c465-e71d-11a6-f7e1-a2ef1279871e.htm" />
+  <HelpKINode Title="LightningBoltParameters.CustomTransform field" Url="html/cc4bf4e7-acfd-6455-2be8-db47dba1451a.htm" />
+  <HelpKINode Title="LightningBoltParameters.Delay field" Url="html/630666d8-9125-c001-6848-65356f9eec6d.htm" />
+  <HelpKINode Title="LightningBoltParameters.DelayRange field" Url="html/c2994cd4-20d7-c708-50c6-7c03567919aa.htm" />
+  <HelpKINode Title="LightningBoltParameters.End field" Url="html/79c50cd4-8511-ce45-b4e4-eb6ad536fbb8.htm" />
+  <HelpKINode Title="LightningBoltParameters.EndVariance field" Url="html/2b4df8ec-2f17-e36a-d950-e900441ae3e6.htm" />
+  <HelpKINode Title="LightningBoltParameters.EndWidthMultiplier field" Url="html/a6d2b98a-6b02-a675-d596-ce0b8291d394.htm" />
+  <HelpKINode Title="LightningBoltParameters.FadeFullyLitMultiplier field" Url="html/994868ca-cc1f-ab67-b446-feb30fce4c71.htm" />
+  <HelpKINode Title="LightningBoltParameters.FadeInMultiplier field" Url="html/aac078ca-811c-3516-f7ff-5f6dabe7dbf5.htm" />
+  <HelpKINode Title="LightningBoltParameters.FadeOutMultiplier field" Url="html/ac04363f-d12c-c0e1-f626-39c0ec2be193.htm" />
+  <HelpKINode Title="LightningBoltParameters.FadePercent field" Url="html/ba3a7c72-4fac-72af-1d0a-e609db6c85df.htm" />
+  <HelpKINode Title="LightningBoltParameters.Forkedness field" Url="html/1ad1bd97-14d0-be35-9308-6829acb83095.htm" />
+  <HelpKINode Title="LightningBoltParameters.ForkEndWidthMultiplier field" Url="html/3f866a15-c14c-8827-9058-f69f3c59412e.htm" />
+  <HelpKINode Title="LightningBoltParameters.ForkLengthMultiplier field" Url="html/a01d93fe-c0da-9333-de72-87b07c74334e.htm" />
+  <HelpKINode Title="LightningBoltParameters.ForkLengthVariance field" Url="html/b6ffeb13-68f3-6bac-9820-99b8cb5c910d.htm" />
+  <HelpKINode Title="LightningBoltParameters.ForkMultiplier method" Url="html/30cbb1ca-e45f-946a-aaaf-c85a7d7e5946.htm" />
+  <HelpKINode Title="LightningBoltParameters.Generations property" Url="html/ce94c7db-95aa-e5bb-b3f6-183bdb955f87.htm" />
+  <HelpKINode Title="LightningBoltParameters.GenerationWhereForksStopSubtractor field" Url="html/862c32fc-f271-d24a-dbf8-8f11d0c09d1a.htm" />
+  <HelpKINode Title="LightningBoltParameters.Generator field" Url="html/4208d3cd-8c5f-733f-7bb7-da0ceaf8c3b2.htm" />
+  <HelpKINode Title="LightningBoltParameters.GetOrCreateParameters method" Url="html/e3c7d4cf-be24-b711-2b3e-c46cb659cd26.htm" />
+  <HelpKINode Title="LightningBoltParameters.GlowIntensity field" Url="html/8844bd32-da6b-204c-c511-20de926ea733.htm" />
+  <HelpKINode Title="LightningBoltParameters.GlowWidthMultiplier field" Url="html/776c630c-5fc5-f57b-6317-4dac2768949f.htm" />
+  <HelpKINode Title="LightningBoltParameters.GrowthMultiplier property" Url="html/18fa969c-4487-08da-617d-10c35f00a36c.htm" />
+  <HelpKINode Title="LightningBoltParameters.Intensity field" Url="html/77ee632c-f707-2369-d88b-779926e20000.htm" />
+  <HelpKINode Title="LightningBoltParameters.LifeTime field" Url="html/06c4d958-0577-17f3-8db3-eb2fcdcbc1ff.htm" />
+  <HelpKINode Title="LightningBoltParameters.LightningBoltParameters constructor" Url="html/374ae5f4-07bb-1aab-cbdf-e268f1a31138.htm" />
+  <HelpKINode Title="LightningBoltParameters.LightParameters field" Url="html/dbb2d5e6-2db8-33eb-c1fb-4b1655c9a5f7.htm" />
+  <HelpKINode Title="LightningBoltParameters.Points property" Url="html/24d1c6be-39bb-40e9-3866-34709400ffd3.htm" />
+  <HelpKINode Title="LightningBoltParameters.QualityMaximums field" Url="html/86757b7d-21e5-d4e1-8840-b14000d33c68.htm" />
+  <HelpKINode Title="LightningBoltParameters.Random property" Url="html/956604cd-a501-817c-4693-1861607dbf0d.htm" />
+  <HelpKINode Title="LightningBoltParameters.RandomOverride property" Url="html/b91c8752-ed50-222d-29b3-7a1844d1e7be.htm" />
+  <HelpKINode Title="LightningBoltParameters.Reset method" Url="html/0ce3863b-85af-3b13-e5c1-0c473f0ed3f5.htm" />
+  <HelpKINode Title="LightningBoltParameters.ReturnParametersToCache method" Url="html/ee42e17d-a0cb-fd00-b0a5-9060cc42bb85.htm" />
+  <HelpKINode Title="LightningBoltParameters.Scale field" Url="html/bac803d6-4375-31ed-8449-46b94bf37bab.htm" />
+  <HelpKINode Title="LightningBoltParameters.SmoothingFactor field" Url="html/8a92a137-4c5c-8f88-d383-b7fb0a6e779c.htm" />
+  <HelpKINode Title="LightningBoltParameters.Start field" Url="html/b35b8b76-4757-441d-2f99-be8956ce9f13.htm" />
+  <HelpKINode Title="LightningBoltParameters.StartVariance field" Url="html/a97a8b65-f8c4-e734-84f3-32c57c451ef6.htm" />
+  <HelpKINode Title="LightningBoltParameters.TrunkWidth field" Url="html/dee2c6c5-0e03-ccda-f903-cf228ba312a9.htm" />
+  <HelpKINode Title="LightningBoltPathScript class">
+    <HelpKINode Title="LightningBoltPathScript Class" Url="html/b6c7db85-7357-c319-43a5-4a46e5064bb6.htm" />
+    <HelpKINode Title="constructor" Url="html/f0467d84-b37d-8b0d-2807-a87b20b66d88.htm" />
+    <HelpKINode Title="fields" Url="html/57564b56-85f9-82a0-c7e0-2f22f1b945b0.htm" />
+    <HelpKINode Title="methods" Url="html/6295eeca-883b-bedd-19ce-dd825fd6fbd4.htm" />
+    <HelpKINode Title="properties" Url="html/4598b67b-8d99-d4cb-e8be-fcf5ba5b50c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltPathScript.CreateLightningBolt method" Url="html/4ffaf43b-411f-5115-47a4-d48b69b2f5a4.htm" />
+  <HelpKINode Title="LightningBoltPathScript.LightningBoltPathScript constructor" Url="html/f0467d84-b37d-8b0d-2807-a87b20b66d88.htm" />
+  <HelpKINode Title="LightningBoltPathScript.Repeat field" Url="html/471deb34-34c9-9fd1-8559-8d76c9b17ca4.htm" />
+  <HelpKINode Title="LightningBoltPathScript.Reset method" Url="html/967c4473-6825-7a66-3819-14a626a8e7b0.htm" />
+  <HelpKINode Title="LightningBoltPathScript.Speed field" Url="html/cd17a3ff-001c-0bd8-4618-c8f746545554.htm" />
+  <HelpKINode Title="LightningBoltPathScript.SpeedIntervalRange field" Url="html/4f9e4c85-bfee-7992-ac8f-828e65e2132e.htm" />
+  <HelpKINode Title="LightningBoltPathScriptBase class">
+    <HelpKINode Title="LightningBoltPathScriptBase Class" Url="html/7cfc717a-0dd5-340c-06e9-fb8cbec93373.htm" />
+    <HelpKINode Title="constructor" Url="html/a3d00fa1-6729-fbeb-f9d2-5a8411145a99.htm" />
+    <HelpKINode Title="fields" Url="html/bbfdb308-9ab8-94fc-a680-3b84067db33f.htm" />
+    <HelpKINode Title="methods" Url="html/a642aac5-ce11-487d-2a13-12627e55a649.htm" />
+    <HelpKINode Title="properties" Url="html/5180a7c5-eefb-1411-5d39-f5a3923b2504.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltPathScriptBase.GetCurrentPathObjects method" Url="html/d80b94e7-baf3-9c3d-2cc2-80d7c98c2062.htm" />
+  <HelpKINode Title="LightningBoltPathScriptBase.LightningBoltPathScriptBase constructor" Url="html/a3d00fa1-6729-fbeb-f9d2-5a8411145a99.htm" />
+  <HelpKINode Title="LightningBoltPathScriptBase.LightningPath field" Url="html/4642b825-38bc-b5be-913f-3043e3acae77.htm" />
+  <HelpKINode Title="LightningBoltPathScriptBase.OnCreateParameters method" Url="html/0d12c7c5-4670-3145-b98e-f823366c8a15.htm" />
+  <HelpKINode Title="LightningBoltPathScriptBase.OnDrawGizmos method" Url="html/e29fc0b9-adfe-dea2-c9ff-c0caf3f8edc9.htm" />
+  <HelpKINode Title="LightningBoltPrefabScript class">
+    <HelpKINode Title="LightningBoltPrefabScript Class" Url="html/a4793e62-007b-8b3c-2011-8548a9df9d6c.htm" />
+    <HelpKINode Title="constructor" Url="html/30011772-8f4e-f710-e421-025aaf6fefd7.htm" />
+    <HelpKINode Title="fields" Url="html/24e5d5f9-afc4-d5f1-d0e7-182cbdc83877.htm" />
+    <HelpKINode Title="methods" Url="html/1560f49a-47a7-6f5a-a209-172f2d81f3a6.htm" />
+    <HelpKINode Title="properties" Url="html/e2ffc1ed-6a19-7029-abe3-444415cca686.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltPrefabScript.CreateLightningBolt method" Url="html/ba309f41-a016-c66a-9698-2b5de6b95b68.htm" />
+  <HelpKINode Title="LightningBoltPrefabScript.Destination field" Url="html/656a1e9d-4eea-d18b-cea3-085990ebca74.htm" />
+  <HelpKINode Title="LightningBoltPrefabScript.EndVariance field" Url="html/dafdc195-ce1e-d48d-9ad7-f200431e3d46.htm" />
+  <HelpKINode Title="LightningBoltPrefabScript.LightningBoltPrefabScript constructor" Url="html/30011772-8f4e-f710-e421-025aaf6fefd7.htm" />
+  <HelpKINode Title="LightningBoltPrefabScript.OnDrawGizmos method" Url="html/04af5d6d-5543-ce6d-9945-04caa05541d2.htm" />
+  <HelpKINode Title="LightningBoltPrefabScript.Source field" Url="html/eb472560-61d4-a11f-d7bb-b9537c7d1928.htm" />
+  <HelpKINode Title="LightningBoltPrefabScript.StartVariance field" Url="html/5524e05a-4421-668a-64aa-89e0a330dc5e.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase class">
+    <HelpKINode Title="LightningBoltPrefabScriptBase Class" Url="html/dab7e95f-c53d-3be1-b722-70c876ef7680.htm" />
+    <HelpKINode Title="constructor" Url="html/aa855678-79ea-0fab-a890-cc9aeb9cb615.htm" />
+    <HelpKINode Title="fields" Url="html/ac0e3478-7c5e-4a1e-0bcf-8c8c58f5851d.htm" />
+    <HelpKINode Title="methods" Url="html/7d287294-cc91-fdd0-2a1c-435d9cb24969.htm" />
+    <HelpKINode Title="properties" Url="html/bed9a514-da73-5353-a35b-a3b16cea9784.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltPrefabScriptBase.AutomaticModeSeconds field" Url="html/6e09df20-f123-eb29-e1e2-14650263d387.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.ChaosFactor field" Url="html/601e4b5b-7311-d6ff-31f3-93e9792f18f4.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.ChaosFactorForks field" Url="html/dae07c72-ae52-3faf-c716-59f778084694.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.CountProbabilityModifier field" Url="html/d2673b0e-7abf-2508-4714-cd6474f758b0.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.CountRange field" Url="html/e4f9ae80-8e11-58a9-926a-4ca2d9dae00d.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.CreateLightningBolt method" Url="html/03f8bcba-3794-f978-daba-c8a2e6f72eba.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.CreateLightningBoltsNow method" Url="html/0e1715bc-768c-fee0-f9b6-78308f60505d.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.CustomTransformHandler field" Url="html/e2bfb767-7035-1e74-7e87-4038c485405a.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.DelayRange field" Url="html/6c0504d2-2bec-9e4e-7f1a-bee243041792.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.DurationRange field" Url="html/34e872f0-8465-8f43-4506-f1255ad4a442.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.EndWidthMultiplier field" Url="html/b608a9b7-7987-5548-9322-e629c3ec50f5.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.FadeFullyLitMultiplier field" Url="html/9924e8b8-1248-8c6b-454b-690235f16f48.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.FadeInMultiplier field" Url="html/aae8c64c-50ca-df84-2d58-e87d08a1153a.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.FadeOutMultiplier field" Url="html/09b80146-4d39-0e6f-1564-f3dc30dfc13f.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.FadePercent field" Url="html/bb8efb21-7c99-039e-4b5e-0b52a2b8b994.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.Forkedness field" Url="html/dc129b5f-8804-1ff3-149d-e60fd2c4049a.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.ForkEndWidthMultiplier field" Url="html/91291902-a74d-c3ef-0c37-c64f33277565.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.ForkLengthMultiplier field" Url="html/14182fe7-05ba-1b52-6789-960fdb7114a1.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.ForkLengthVariance field" Url="html/2a28c138-bd02-ff8a-21d8-ce7249b9ed1e.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.Generations field" Url="html/022e7098-67c9-bbbe-b56e-75faf58f44ed.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.GlowIntensity field" Url="html/49ef4d4d-1571-d355-5c86-3782fed1d53f.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.GlowWidthMultiplier field" Url="html/72416c2e-77d0-0e96-c769-6b8c723b54cc.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.GrowthMultiplier field" Url="html/a2d80540-656f-7186-4e4e-334d374dd3ca.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.Intensity field" Url="html/f1a53e15-d38b-d9a4-3993-fecfac6e97a9.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.IntervalRange field" Url="html/e0aab7ba-39a4-1271-469c-127f03d7e94f.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.LifeTime field" Url="html/9513d634-8e99-cbf9-982d-a4792d5b0304.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.LightningBoltPrefabScriptBase constructor" Url="html/aa855678-79ea-0fab-a890-cc9aeb9cb615.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.LightParameters field" Url="html/e229376a-f9bd-1262-0d3c-205c1d5fcfde.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.ManualMode field" Url="html/6f71ae64-47b2-d6d4-15a2-96ee67dfea69.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.MaximumLightsPerBatch field" Url="html/56797a46-0e8d-a2e9-67c5-875af694a6b5.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.OnDrawGizmos method" Url="html/ee4667d7-0ff3-83ce-e839-63c1ce610d81.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.PopulateParameters method" Url="html/f2d69a69-49ff-54e8-acb3-100de747f14a.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.RandomOverride property" Url="html/d42baa04-da85-837e-1cb6-917a68f16ee2.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.Start method" Url="html/2b130a72-125c-8cb3-6e7e-48e6191f2716.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.Trigger method" Url="html/769d91da-3ec6-876e-379e-7f28d752538d.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.TrunkWidthRange field" Url="html/b320fa43-5e56-d6ec-0846-4764fdf13f87.htm" />
+  <HelpKINode Title="LightningBoltPrefabScriptBase.Update method" Url="html/88b3730a-9a27-c0db-dfb4-d6ac1a63cab8.htm" />
+  <HelpKINode Title="LightningBoltQualitySetting enumeration" Url="html/c39ffb70-3d8f-4c4a-1643-9e3392f4565a.htm" />
+  <HelpKINode Title="LightningBoltScript class">
+    <HelpKINode Title="LightningBoltScript Class" Url="html/55e600ea-92e9-1b29-2fb4-8d55c4b7ef4a.htm" />
+    <HelpKINode Title="constructor" Url="html/0b4e7dbe-5bb1-769f-ef20-3951d0b04da4.htm" />
+    <HelpKINode Title="fields" Url="html/2b3febe0-5e76-8777-912c-0bd649140a4f.htm" />
+    <HelpKINode Title="methods" Url="html/40f9926b-0eb4-a5d3-681b-7ed8d752e52d.htm" />
+    <HelpKINode Title="properties" Url="html/9675aa1f-e7d0-8e9b-ea5b-a15fa1063b7f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltScript field">
+    <HelpKINode Title="DemoConfigureScript.LightningBoltScript Field" Url="html/9bbe2120-dc9c-2ae2-0f8a-af22eb84db62.htm" />
+    <HelpKINode Title="DemoScript.LightningBoltScript Field" Url="html/8951a44d-f550-1ed6-15ad-87225da34678.htm" />
+    <HelpKINode Title="ThunderAndLightningScript.LightningBoltScript Field" Url="html/cbc96886-5d20-b164-8138-99b65922d61f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltScript property" Url="html/a517fcdd-98ce-17e0-f559-eb3288b32b91.htm" />
+  <HelpKINode Title="LightningBoltScript.Awake method" Url="html/faad81e5-57d5-013a-86bf-5ed738686736.htm" />
+  <HelpKINode Title="LightningBoltScript.Camera field" Url="html/9bc4bccf-32e1-8651-3390-32fdfbb37c51.htm" />
+  <HelpKINode Title="LightningBoltScript.CameraMode field" Url="html/80c38427-6341-6583-158f-fd7d96d87bfa.htm" />
+  <HelpKINode Title="LightningBoltScript.CompensateForParentTransform field" Url="html/790bb5cb-c976-6ac0-1c4f-2583fbe60596.htm" />
+  <HelpKINode Title="LightningBoltScript.CreateLightningBolt method" Url="html/25409f7b-a98f-2553-e1c1-4486098e8fe5.htm" />
+  <HelpKINode Title="LightningBoltScript.CreateLightningBolts method" Url="html/fb9f7202-67c9-9b9c-1303-24cbf59c6894.htm" />
+  <HelpKINode Title="LightningBoltScript.CreateParameters method" Url="html/bf94eec4-00ba-6a30-6c23-06f325972ff4.htm" />
+  <HelpKINode Title="LightningBoltScript.DeltaTime property" Url="html/77e82e4c-c4e3-703f-8dce-da49c2bd1cb0.htm" />
+  <HelpKINode Title="LightningBoltScript.DestinationBlendMode field" Url="html/dd4cd799-f7ab-2a66-d0ef-39fa30ca9c1c.htm" />
+  <HelpKINode Title="LightningBoltScript.GlowTintColor field" Url="html/9a88c10b-ab7b-fcb5-5e1b-5e3a4d160dd8.htm" />
+  <HelpKINode Title="LightningBoltScript.HasActiveBolts property" Url="html/ca9ae034-8e18-8c95-5afb-30cdb1915aa1.htm" />
+  <HelpKINode Title="LightningBoltScript.HideGizmos field" Url="html/47ab2c73-f73b-68b2-e15e-484a16ac369b.htm" />
+  <HelpKINode Title="LightningBoltScript.IntensityFlicker field" Url="html/013e2f69-4fa9-e767-e0e9-979a925d995c.htm" />
+  <HelpKINode Title="LightningBoltScript.IntensityFlickerTexture field" Url="html/9ad9d5e8-c89c-d530-b10f-d26b00ae2b3d.htm" />
+  <HelpKINode Title="LightningBoltScript.JitterMultiplier field" Url="html/a9baf372-d77e-0b8e-bddf-deb6e36380ff.htm" />
+  <HelpKINode Title="LightningBoltScript.LateUpdate method" Url="html/1cd40db3-b78a-df8a-fcc7-f6c37cadfc4f.htm" />
+  <HelpKINode Title="LightningBoltScript.LevelOfDetailDistance field" Url="html/4fc36cec-615e-bd62-f1b8-a12d8a93ea16.htm" />
+  <HelpKINode Title="LightningBoltScript.LightAddedCallback property" Url="html/1d01738e-d045-00c0-6966-ccd31d12e424.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningBoltScript constructor" Url="html/0b4e7dbe-5bb1-769f-ef20-3951d0b04da4.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningDestinationParticleSystem field" Url="html/9deb8e23-112a-3094-2b68-a93895db367a.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningEndedCallback property" Url="html/5001ae37-359d-4d81-6eb6-3f5ffd76edf6.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningGlowTexture field" Url="html/788696f3-1577-66e6-d392-76fe800bc815.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningMaterialMesh field" Url="html/8732e0b1-134d-4f59-beec-affd700ef10c.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningMaterialMeshNoGlow field" Url="html/c881715e-4542-7e14-d3e8-70ef673ca662.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningOriginParticleSystem field" Url="html/b03a74b4-2489-efd1-d0a9-609d2fe02d7c.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningStartedCallback property" Url="html/296f6a73-b52f-4598-132c-8a57fc208654.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningTexture field" Url="html/4ab74857-1bfd-f688-8edd-b10e5f215757.htm" />
+  <HelpKINode Title="LightningBoltScript.LightningTintColor field" Url="html/2bd83f1d-db0a-ef53-2612-981e9481d296.htm" />
+  <HelpKINode Title="LightningBoltScript.LightRemovedCallback property" Url="html/579d7cae-41f6-83e1-a6e9-3333ce03a049.htm" />
+  <HelpKINode Title="LightningBoltScript.MultiThreaded field" Url="html/b377b19d-9f5b-7a0d-56d4-93e367797df0.htm" />
+  <HelpKINode Title="LightningBoltScript.OnCreateParameters method" Url="html/2b44248a-cc54-ea4c-4a1e-4dae69d9051f.htm" />
+  <HelpKINode Title="LightningBoltScript.PopulateParameters method" Url="html/0fb02673-31b5-c253-11b5-27749a9ba2b0.htm" />
+  <HelpKINode Title="LightningBoltScript.QualitySetting field" Url="html/19c12a1b-1c73-56c4-7c21-9e2e274cd02f.htm" />
+  <HelpKINode Title="LightningBoltScript.RenderQueue field" Url="html/fe4a6043-9825-45d2-c884-ac9d352cf9da.htm" />
+  <HelpKINode Title="LightningBoltScript.SoftParticlesFactor field" Url="html/3c536000-efd4-3b2c-9de9-2661bb6fc6e6.htm" />
+  <HelpKINode Title="LightningBoltScript.SortLayerName field" Url="html/2716d63b-bdd4-0fcd-e3b9-dff980bbae67.htm" />
+  <HelpKINode Title="LightningBoltScript.SortOrderInLayer field" Url="html/8b5ee2c5-97f0-7d67-de2d-22a18b968b26.htm" />
+  <HelpKINode Title="LightningBoltScript.SourceBlendMode field" Url="html/75b35990-60cd-5567-be6f-fee3025eb80d.htm" />
+  <HelpKINode Title="LightningBoltScript.Start method" Url="html/10fbf2d9-704d-89d5-ead0-a41fb6159969.htm" />
+  <HelpKINode Title="LightningBoltScript.TimeScale field" Url="html/19c66397-8339-e635-197b-9f3ca3571c09.htm" />
+  <HelpKINode Title="LightningBoltScript.TimeSinceStart property" Url="html/6f28f7fb-9ad0-32ea-76ef-c2e728be8745.htm" />
+  <HelpKINode Title="LightningBoltScript.TimeVectorSinceStart property" Url="html/0b12d82f-8668-3f48-00cd-e9fd702094a5.htm" />
+  <HelpKINode Title="LightningBoltScript.Turbulence field" Url="html/7b7f647a-4691-eeb0-339d-88ad6bd7f3eb.htm" />
+  <HelpKINode Title="LightningBoltScript.TurbulenceVelocity field" Url="html/20bc4126-8d34-2d6e-0f70-4cbb1964e82d.htm" />
+  <HelpKINode Title="LightningBoltScript.Update method" Url="html/ecbc5f92-2ea0-cd21-f3db-4d75c4e1ce93.htm" />
+  <HelpKINode Title="LightningBoltScript.UseGameTime field" Url="html/0ad1748e-a881-338c-c43d-0d46dc99301b.htm" />
+  <HelpKINode Title="LightningBoltScript.UseWorldSpace field" Url="html/c2612b18-8993-6c4e-3c2c-5f89d46b61ca.htm" />
+  <HelpKINode Title="LightningBoltSegment structure">
+    <HelpKINode Title="LightningBoltSegment Structure" Url="html/d0d6f391-dac6-8edf-f9c5-ce24118adc90.htm" />
+    <HelpKINode Title="fields" Url="html/929c1fb6-2299-ff4c-dbec-c1ed2e3ba661.htm" />
+    <HelpKINode Title="methods" Url="html/3df519bf-d283-0a6c-72df-7f683428078f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltSegment.End field" Url="html/34856a9e-8251-c02c-6db8-247673aaa8e1.htm" />
+  <HelpKINode Title="LightningBoltSegment.Start field" Url="html/8b368c64-9a86-e826-253d-af5a6361ead0.htm" />
+  <HelpKINode Title="LightningBoltSegment.ToString method" Url="html/bde9d043-08c0-5ccf-9d15-00fb7f3efbbc.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup class">
+    <HelpKINode Title="LightningBoltSegmentGroup Class" Url="html/11f3a934-e27b-2474-f689-2659c55ff739.htm" />
+    <HelpKINode Title="constructor" Url="html/f9ea99c5-3b3d-4d96-ef5a-0b66e2e0f75a.htm" />
+    <HelpKINode Title="fields" Url="html/06a9cac3-ad82-8ac9-d231-9371c2abcae2.htm" />
+    <HelpKINode Title="methods" Url="html/239c6357-c55c-99b7-ebdc-233fd054eb2d.htm" />
+    <HelpKINode Title="properties" Url="html/756f115a-5b9f-6f77-3481-6e5f2b9b7e48.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltSegmentGroup.Color field" Url="html/2accd977-24d5-41b9-4e24-8f1291e8920d.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.Delay field" Url="html/9d88df7c-271c-a1c7-b828-ba0e58c08b52.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.EndWidthMultiplier field" Url="html/e3e8e7d3-d947-8788-f850-62f7658c9887.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.Generation field" Url="html/f81ebfa8-5394-1646-1fca-c0d40b57a660.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.LifeTime field" Url="html/462efaea-8008-4ea5-c3d5-42a657a48912.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.LightningBoltSegmentGroup constructor" Url="html/f9ea99c5-3b3d-4d96-ef5a-0b66e2e0f75a.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.LightParameters field" Url="html/b9b0f324-9799-fc03-8cba-5c8ea87695ad.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.Lights field" Url="html/eaf70c18-f0da-717f-2ef9-b307c2961fa0.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.LineWidth field" Url="html/945d3d36-5c41-fda6-ccec-b43bac255998.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.PeakEnd field" Url="html/bef9e063-b2c6-51c8-ce4b-d4a356494600.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.PeakStart field" Url="html/569989d4-252a-cef1-08ad-1c47f3c5ad02.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.Reset method" Url="html/b69eea18-0f23-f454-b2fe-571303dbb02e.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.SegmentCount property" Url="html/f8fb4960-566f-45dc-274a-12d852467696.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.Segments field" Url="html/bb2ed181-c52c-ef93-d475-a91ea87ccafa.htm" />
+  <HelpKINode Title="LightningBoltSegmentGroup.StartIndex field" Url="html/46d809ae-b8ac-a719-2eba-a04608bf7ae5.htm" />
+  <HelpKINode Title="LightningBoltShapeConeScript class">
+    <HelpKINode Title="LightningBoltShapeConeScript Class" Url="html/36dffa58-1c26-c613-e629-d7fe6deb12db.htm" />
+    <HelpKINode Title="constructor" Url="html/5711df50-5a4d-3629-e580-2ec82f5327e3.htm" />
+    <HelpKINode Title="fields" Url="html/2bfb7f0f-8587-1206-936b-1c058adc0d3a.htm" />
+    <HelpKINode Title="methods" Url="html/263b8600-8c2f-c1c3-c831-f01b2dc32d96.htm" />
+    <HelpKINode Title="properties" Url="html/c490520f-040b-175f-0bfa-88e6ab0cb971.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltShapeConeScript.CreateLightningBolt method" Url="html/83ff0c16-63c5-0c5e-a5c8-4a8ef02d670e.htm" />
+  <HelpKINode Title="LightningBoltShapeConeScript.InnerRadius field" Url="html/2ddbc402-6359-eb7e-5987-c3a267fd8ad6.htm" />
+  <HelpKINode Title="LightningBoltShapeConeScript.Length field" Url="html/16099fbe-0955-12e7-6641-e3bfd203f396.htm" />
+  <HelpKINode Title="LightningBoltShapeConeScript.LightningBoltShapeConeScript constructor" Url="html/5711df50-5a4d-3629-e580-2ec82f5327e3.htm" />
+  <HelpKINode Title="LightningBoltShapeConeScript.OnDrawGizmos method" Url="html/e017aef7-2e04-3f5b-d8d1-4c562feeb577.htm" />
+  <HelpKINode Title="LightningBoltShapeConeScript.OuterRadius field" Url="html/bd115afa-0e17-7fc1-82a5-10205cd07e5e.htm" />
+  <HelpKINode Title="LightningBoltShapeSphereScript class">
+    <HelpKINode Title="LightningBoltShapeSphereScript Class" Url="html/7569f26e-918f-ce3e-6dd2-aadb2f63b8b2.htm" />
+    <HelpKINode Title="constructor" Url="html/a1a597e6-1cd0-ca15-8fbd-8c91f9420807.htm" />
+    <HelpKINode Title="fields" Url="html/0dbc26cd-24ad-d806-852e-f4d20d7dab47.htm" />
+    <HelpKINode Title="methods" Url="html/1087ef29-3164-3e7d-0287-d16b0cae419b.htm" />
+    <HelpKINode Title="properties" Url="html/154bbf44-3d4e-3daa-bf8d-8e006d176c88.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltShapeSphereScript.CreateLightningBolt method" Url="html/d27f65c0-c13b-722b-4de6-67e9417374c2.htm" />
+  <HelpKINode Title="LightningBoltShapeSphereScript.InnerRadius field" Url="html/67c36d7b-4e85-78fb-b2ab-6e65a31d1b32.htm" />
+  <HelpKINode Title="LightningBoltShapeSphereScript.LightningBoltShapeSphereScript constructor" Url="html/a1a597e6-1cd0-ca15-8fbd-8c91f9420807.htm" />
+  <HelpKINode Title="LightningBoltShapeSphereScript.OnDrawGizmos method" Url="html/e7ea7165-d9db-aeba-17be-b371450f38dd.htm" />
+  <HelpKINode Title="LightningBoltShapeSphereScript.Radius field" Url="html/cc38a2e3-0369-a5e7-d415-ad1a83b0826c.htm" />
+  <HelpKINode Title="LightningBoltStarted field" Url="html/18423732-f389-9f5d-0faf-cc7cdcba3fc7.htm" />
+  <HelpKINode Title="LightningBoltTransformTrackerScript class">
+    <HelpKINode Title="LightningBoltTransformTrackerScript Class" Url="html/4bcf4a02-9246-c1cb-d83a-76947f01f27d.htm" />
+    <HelpKINode Title="constructor" Url="html/ab86b2c9-bbc8-333c-990a-40cc9fa8db42.htm" />
+    <HelpKINode Title="fields" Url="html/a9397142-8f10-7180-ac19-cf986a0bcf48.htm" />
+    <HelpKINode Title="methods" Url="html/3e08f21c-c37d-527d-8d43-2e114c90ecc3.htm" />
+    <HelpKINode Title="properties" Url="html/f3f84253-3f36-4a6d-bf0b-11e7f7d9a21a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningBoltTransformTrackerScript.CustomTransformHandler method" Url="html/61fa6147-3b16-519b-306f-b6915cd131c2.htm" />
+  <HelpKINode Title="LightningBoltTransformTrackerScript.EndTarget field" Url="html/f7c3b0db-a63b-d616-e137-5952b34a5470.htm" />
+  <HelpKINode Title="LightningBoltTransformTrackerScript.LightningBoltTransformTrackerScript constructor" Url="html/ab86b2c9-bbc8-333c-990a-40cc9fa8db42.htm" />
+  <HelpKINode Title="LightningBoltTransformTrackerScript.LightningScript field" Url="html/640fd150-b2e2-375e-bc28-266bff9366f4.htm" />
+  <HelpKINode Title="LightningBoltTransformTrackerScript.ScaleLimit field" Url="html/bf279254-61f6-bf76-6ad2-21c3960cdb2f.htm" />
+  <HelpKINode Title="LightningBoltTransformTrackerScript.StartTarget field" Url="html/5db449a4-c9f5-c326-40e9-e9c6f9046050.htm" />
+  <HelpKINode Title="LightningCustomTransformDelegate class">
+    <HelpKINode Title="LightningCustomTransformDelegate Class" Url="html/96a90aa8-d7ff-5efa-20e2-901522487abe.htm" />
+    <HelpKINode Title="constructor" Url="html/eae0ba70-9975-b2f2-9ac8-1cc743405cf8.htm" />
+    <HelpKINode Title="methods" Url="html/206cb927-4dbc-f537-84f0-f7c0e07b1b44.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningCustomTransformDelegate.LightningCustomTransformDelegate constructor" Url="html/eae0ba70-9975-b2f2-9ac8-1cc743405cf8.htm" />
+  <HelpKINode Title="LightningCustomTransformState enumeration" Url="html/76e184d9-712c-5448-ea83-c9a2be45de3b.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo class">
+    <HelpKINode Title="LightningCustomTransformStateInfo Class" Url="html/8d21cd71-737f-416f-9ca7-92bbe2e408a6.htm" />
+    <HelpKINode Title="constructor" Url="html/b030ed4a-7174-fe36-5399-c868ac0ac2bc.htm" />
+    <HelpKINode Title="fields" Url="html/cd8634bb-910c-bf4e-b1fe-40871723ce3f.htm" />
+    <HelpKINode Title="methods" Url="html/1516860f-9e12-3b8e-00b3-6688f275b860.htm" />
+    <HelpKINode Title="properties" Url="html/d1424f18-15c8-cf28-6d1b-fa498a9beaca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningCustomTransformStateInfo.BoltEndPosition field" Url="html/b58d25f2-8db9-7f07-576d-39aa70a8d183.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.BoltStartPosition field" Url="html/f61952e7-5180-49f2-8992-de58c3dfc4b1.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.EndTransform field" Url="html/4995eb00-4aa0-98fd-fa5a-11dec5d36bda.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.GetOrCreateStateInfo method" Url="html/bb011487-6a5c-4e98-ed7b-a415f9958658.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.LightningCustomTransformStateInfo constructor" Url="html/b030ed4a-7174-fe36-5399-c868ac0ac2bc.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.Parameters property" Url="html/ac459fc3-34ff-05e7-6c2d-6397ff6522e3.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.ReturnStateInfoToCache method" Url="html/93c9de1b-ec2a-a2b0-6af9-3fc8c1e4fbe2.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.StartTransform field" Url="html/d4c75b43-f245-f1c5-03c5-0dc73a952812.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.State property" Url="html/958c3307-b084-b519-4552-7393f6612530.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.Transform field" Url="html/d2b29a5b-edb8-45a4-5173-352b6ff5a83f.htm" />
+  <HelpKINode Title="LightningCustomTransformStateInfo.UserInfo field" Url="html/990b7ebb-e802-d0e4-7062-8ad1727e3722.htm" />
+  <HelpKINode Title="LightningDestinationParticleSystem field" Url="html/9deb8e23-112a-3094-2b68-a93895db367a.htm" />
+  <HelpKINode Title="LightningEndedCallback property" Url="html/5001ae37-359d-4d81-6eb6-3f5ffd76edf6.htm" />
+  <HelpKINode Title="LightningFieldScript class">
+    <HelpKINode Title="LightningFieldScript Class" Url="html/05028084-0d0f-7f98-7a66-7d4a89e01eba.htm" />
+    <HelpKINode Title="constructor" Url="html/c1edc858-6888-74d5-f13d-4dea56abe1f3.htm" />
+    <HelpKINode Title="fields" Url="html/05665483-4ed7-b3b8-11be-e04fbeab1c23.htm" />
+    <HelpKINode Title="methods" Url="html/185184e9-dc62-dcfb-e34f-814613a24686.htm" />
+    <HelpKINode Title="properties" Url="html/67d8331c-921e-977c-de19-75bf4860f9a9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningFieldScript.CreateLightningBolt method" Url="html/9c9bdd07-7d7c-5cf0-15fb-558333059b69.htm" />
+  <HelpKINode Title="LightningFieldScript.FieldBounds field" Url="html/bc0b94cf-49ce-c3d4-7164-820ed8defe67.htm" />
+  <HelpKINode Title="LightningFieldScript.Light field" Url="html/a06ab7dd-631e-699c-4299-d7e522973338.htm" />
+  <HelpKINode Title="LightningFieldScript.LightningFieldScript constructor" Url="html/c1edc858-6888-74d5-f13d-4dea56abe1f3.htm" />
+  <HelpKINode Title="LightningFieldScript.MinimumLength field" Url="html/b93eaca8-036e-4bbd-3611-3333faf7350a.htm" />
+  <HelpKINode Title="LightningFieldScript.Start method" Url="html/3d324602-7619-a2c8-544e-c89efba68fdd.htm" />
+  <HelpKINode Title="LightningFieldScript.Update method" Url="html/06f64f61-acea-3f75-a525-20ca755914a5.htm" />
+  <HelpKINode Title="LightningGenerator class">
+    <HelpKINode Title="LightningGenerator Class" Url="html/ee4e16a1-d023-a8a1-1b8d-832ed96884df.htm" />
+    <HelpKINode Title="constructor" Url="html/c0236ea6-37bb-607c-e07f-938cebe897b2.htm" />
+    <HelpKINode Title="fields" Url="html/0a177d28-ce7f-53de-b5ef-c8c46e02ad10.htm" />
+    <HelpKINode Title="methods" Url="html/38c5191d-23af-9560-fed4-5a61e90242d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningGenerator.CreateFork method" Url="html/6bb21c98-b987-6c9b-88c9-c821337f5f50.htm" />
+  <HelpKINode Title="LightningGenerator.GenerateLightningBolt method" Url="html/1678ea53-b2c9-a33f-42ba-2cc24f662627.htm" />
+  <HelpKINode Title="LightningGenerator.GenerateLightningBoltStandard method" Url="html/c4081613-ff3e-f5e3-5dd1-c331f257d8b3.htm" />
+  <HelpKINode Title="LightningGenerator.GeneratorInstance field" Url="html/399717a5-8d57-3b26-323e-0fc3dcbf819d.htm" />
+  <HelpKINode Title="LightningGenerator.LightningGenerator constructor" Url="html/c0236ea6-37bb-607c-e07f-938cebe897b2.htm" />
+  <HelpKINode Title="LightningGenerator.OnGenerateLightningBolt method" Url="html/b0b89dfc-be02-2d31-c7f9-fffcd67ad802.htm" />
+  <HelpKINode Title="LightningGenerator.RandomDirection2D method" Url="html/ea89799e-8ec5-2c9d-7e40-6d7601f1ce63.htm" />
+  <HelpKINode Title="LightningGenerator.RandomDirection2DXZ method" Url="html/5d2a8e03-0120-8bfa-5451-514dad62ac99.htm" />
+  <HelpKINode Title="LightningGenerator.RandomDirection3D method" Url="html/2049be24-0a39-628b-36c8-de55d63932c9.htm" />
+  <HelpKINode Title="LightningGenerator.RandomVector method" Url="html/54c7c655-ed16-900a-7db0-bfe70b5ca031.htm" />
+  <HelpKINode Title="LightningGenerator.ShouldCreateFork method" Url="html/3cb99bdf-fd60-629c-e350-4d4055b80382.htm" />
+  <HelpKINode Title="LightningGeneratorPath class">
+    <HelpKINode Title="LightningGeneratorPath Class" Url="html/dc0c5d35-f42a-7ad6-e135-4481bc371cce.htm" />
+    <HelpKINode Title="constructor" Url="html/ac358461-d429-79f2-eb6a-c3bdf02162b8.htm" />
+    <HelpKINode Title="fields" Url="html/0d0ed2af-a157-3590-0542-99d08ae12200.htm" />
+    <HelpKINode Title="methods" Url="html/6326d435-52c3-a0a5-b6e0-c37df0837aec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningGeneratorPath.GenerateLightningBoltPath method" Url="html/9c267eb6-cccd-a22c-887b-8740b72255bf.htm" />
+  <HelpKINode Title="LightningGeneratorPath.LightningGeneratorPath constructor" Url="html/ac358461-d429-79f2-eb6a-c3bdf02162b8.htm" />
+  <HelpKINode Title="LightningGeneratorPath.OnGenerateLightningBolt method" Url="html/a20e1507-35ce-e4a8-a069-c3eaeb27d019.htm" />
+  <HelpKINode Title="LightningGeneratorPath.PathGeneratorInstance field" Url="html/304d4f32-302f-2040-5ae2-bd529b9d7de3.htm" />
+  <HelpKINode Title="LightningGizmoScript class">
+    <HelpKINode Title="LightningGizmoScript Class" Url="html/1838b9e4-22fe-e02c-30eb-3e02f7e1e07b.htm" />
+    <HelpKINode Title="constructor" Url="html/34066f50-f673-8a23-c418-073bf6edd58b.htm" />
+    <HelpKINode Title="methods" Url="html/a78a3f25-9cbd-7786-69b0-9e78e8d840f6.htm" />
+    <HelpKINode Title="properties" Url="html/4a320ecd-c0b8-1188-3940-7f5e270f4891.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningGizmoScript.Label property" Url="html/e21284c6-8467-147b-c872-d2ffb206155f.htm" />
+  <HelpKINode Title="LightningGizmoScript.LightningBoltScript property" Url="html/a517fcdd-98ce-17e0-f559-eb3288b32b91.htm" />
+  <HelpKINode Title="LightningGizmoScript.LightningGizmoScript constructor" Url="html/34066f50-f673-8a23-c418-073bf6edd58b.htm" />
+  <HelpKINode Title="LightningGlowTexture field" Url="html/788696f3-1577-66e6-d392-76fe800bc815.htm" />
+  <HelpKINode Title="LightningIntenseProbability field" Url="html/d4ab445f-bb9b-b74a-38c9-a58aea0613ad.htm" />
+  <HelpKINode Title="LightningIntervalTimeRange field" Url="html/1740096b-f1d6-ea1e-1658-104b085fc9e7.htm" />
+  <HelpKINode Title="LightningLightParameters class">
+    <HelpKINode Title="LightningLightParameters Class" Url="html/8ff21d7e-9341-31ab-b921-94dd8d92cc7b.htm" />
+    <HelpKINode Title="constructor" Url="html/3eb15e3c-c485-4c75-8448-c3cfa8647abc.htm" />
+    <HelpKINode Title="fields" Url="html/f4129572-68f9-7997-4b24-d85677461728.htm" />
+    <HelpKINode Title="methods" Url="html/bd230689-e655-f559-8092-95ae9f947a90.htm" />
+    <HelpKINode Title="properties" Url="html/940177c9-aa50-1771-39a4-e82b195ec551.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningLightParameters.BounceIntensity field" Url="html/b67e3a0b-f55a-18da-3a20-c16be703619e.htm" />
+  <HelpKINode Title="LightningLightParameters.CullingMask field" Url="html/79c46ae3-ca0a-e90e-301d-a2fb47e40f29.htm" />
+  <HelpKINode Title="LightningLightParameters.FadeFullyLitMultiplier field" Url="html/7127aef6-7642-cd10-7d1e-bca07e649f42.htm" />
+  <HelpKINode Title="LightningLightParameters.FadeInMultiplier field" Url="html/6247e89f-bba4-478a-5c54-e4d7418b1e87.htm" />
+  <HelpKINode Title="LightningLightParameters.FadeOutMultiplier field" Url="html/27b603e7-3046-09fd-dcfc-eebc7bdb6701.htm" />
+  <HelpKINode Title="LightningLightParameters.HasLight property" Url="html/939060a1-5627-dc6c-f475-4e153e65d6f3.htm" />
+  <HelpKINode Title="LightningLightParameters.LightColor field" Url="html/24932c4c-9231-eb16-70be-9dd65556d3a4.htm" />
+  <HelpKINode Title="LightningLightParameters.LightIntensity field" Url="html/c1f341b0-528c-8c87-1007-304c0b519a0a.htm" />
+  <HelpKINode Title="LightningLightParameters.LightningLightParameters constructor" Url="html/3eb15e3c-c485-4c75-8448-c3cfa8647abc.htm" />
+  <HelpKINode Title="LightningLightParameters.LightPercent field" Url="html/b7514fd5-c77e-1e76-2d17-7d0b0e00f749.htm" />
+  <HelpKINode Title="LightningLightParameters.LightRange field" Url="html/8a2eeac6-73b8-4476-1f54-e84790e6197e.htm" />
+  <HelpKINode Title="LightningLightParameters.LightShadowPercent field" Url="html/f79d95aa-d62e-2712-2d14-f6b00921c3aa.htm" />
+  <HelpKINode Title="LightningLightParameters.OrthographicOffset field" Url="html/96fdc59a-28cf-5f8a-0ca6-4587b358fc3d.htm" />
+  <HelpKINode Title="LightningLightParameters.RenderMode field" Url="html/3b45764c-1ade-5607-4d11-e295b0f22cec.htm" />
+  <HelpKINode Title="LightningLightParameters.ShadowBias field" Url="html/b2cd5d94-37c3-5435-ee24-76e603853abd.htm" />
+  <HelpKINode Title="LightningLightParameters.ShadowNormalBias field" Url="html/ffd89a44-2ce7-459e-2e50-8c81b7187e2f.htm" />
+  <HelpKINode Title="LightningLightParameters.ShadowStrength field" Url="html/660128e1-383d-75be-3b52-1925ee43c368.htm" />
+  <HelpKINode Title="LightningLightsabreScript class">
+    <HelpKINode Title="LightningLightsabreScript Class" Url="html/ac6ea85a-8f80-0a73-18d4-d002c50a3cef.htm" />
+    <HelpKINode Title="constructor" Url="html/0ea7086e-ca0e-be87-3e31-88ff702709ca.htm" />
+    <HelpKINode Title="fields" Url="html/b909bb6e-20a0-6dad-44cc-d6ba793450bf.htm" />
+    <HelpKINode Title="methods" Url="html/189f8f44-da67-f9ed-eb12-be8b27e596c2.htm" />
+    <HelpKINode Title="properties" Url="html/2724528c-ddd2-03ff-d6ed-be1eb0a2ec85.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningLightsabreScript.ActivationTime field" Url="html/91b4cd75-22a8-feb1-d8d9-ddb8bcd112b1.htm" />
+  <HelpKINode Title="LightningLightsabreScript.BladeHeight field" Url="html/95892b89-d7d5-71db-4025-7b6eabfc1885.htm" />
+  <HelpKINode Title="LightningLightsabreScript.ConstantSound field" Url="html/7922be71-a851-3685-1921-f257711ca57c.htm" />
+  <HelpKINode Title="LightningLightsabreScript.LightningLightsabreScript constructor" Url="html/0ea7086e-ca0e-be87-3e31-88ff702709ca.htm" />
+  <HelpKINode Title="LightningLightsabreScript.Start method" Url="html/249e0c12-3878-08a0-9981-d50daccd13c3.htm" />
+  <HelpKINode Title="LightningLightsabreScript.StartSound field" Url="html/816a440f-0810-759e-d7fb-acfa957e143c.htm" />
+  <HelpKINode Title="LightningLightsabreScript.StopSound field" Url="html/2d06bd5e-6aa3-4f58-109e-b5bb5738d623.htm" />
+  <HelpKINode Title="LightningLightsabreScript.TurnOn method" Url="html/2de2ea6e-7e3f-238f-a1b3-54c9308a7aac.htm" />
+  <HelpKINode Title="LightningLightsabreScript.TurnOnGUI method" Url="html/d5d40533-011d-c052-48be-c2ca430af158.htm" />
+  <HelpKINode Title="LightningLightsabreScript.Update method" Url="html/97fffd97-2a0b-898f-c821-931d3b555871.htm" />
+  <HelpKINode Title="LightningMaterialMesh field">
+    <HelpKINode Title="LightningBoltDependencies.LightningMaterialMesh Field" Url="html/6f5dd7fe-f809-edcd-8f48-d532e80f0edc.htm" />
+    <HelpKINode Title="LightningBoltScript.LightningMaterialMesh Field" Url="html/8732e0b1-134d-4f59-beec-affd700ef10c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningMaterialMeshNoGlow field">
+    <HelpKINode Title="LightningBoltDependencies.LightningMaterialMeshNoGlow Field" Url="html/1bc3ebad-9b3c-5db8-c799-19db514e4f76.htm" />
+    <HelpKINode Title="LightningBoltScript.LightningMaterialMeshNoGlow Field" Url="html/c881715e-4542-7e14-d3e8-70ef673ca662.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningMeshSurfaceScript class">
+    <HelpKINode Title="LightningMeshSurfaceScript Class" Url="html/65a4ce18-9c30-a55e-c4f8-8798201d8979.htm" />
+    <HelpKINode Title="constructor" Url="html/d17fb27e-e4c8-5419-8858-fb05565ca4c5.htm" />
+    <HelpKINode Title="fields" Url="html/5fd14227-1bc7-b23a-7150-8b14a40d73db.htm" />
+    <HelpKINode Title="methods" Url="html/794a7ddc-09e6-d5cf-9e35-3b7181dc1eeb.htm" />
+    <HelpKINode Title="properties" Url="html/9ac642da-d4c7-ec38-1c1b-805610ba42d9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningMeshSurfaceScript.CreateLightningBolt method" Url="html/e2360e1e-95a3-f968-bd2e-e3ac630d0e92.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.CreateRandomLightningPath method" Url="html/5df3dcf2-13e5-3189-bdf6-54964f0cff00.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.DistancePerSegmentHint field" Url="html/362fa8ae-f779-c0e4-61aa-cc2bfe323521.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.LightningMeshSurfaceScript constructor" Url="html/d17fb27e-e4c8-5419-8858-fb05565ca4c5.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.MaximumPathDistance field" Url="html/4ab246e4-1313-1e5e-3257-7ab684090b4a.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.MeshCollider field" Url="html/dd480d1e-a66f-853f-f6b4-6ea15786c5f1.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.MeshFilter field" Url="html/3656a6dd-a9c3-d090-48ae-22aceec5af39.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.MeshOffsetRange field" Url="html/6dfcaae6-9d7a-52a6-2046-e30381d6601c.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.MinimumPathDistanceRange field" Url="html/f36e85f4-cf12-2b9f-5213-ba60bc96625f.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.OnCreateParameters method" Url="html/722a1bf1-0f43-69d6-c336-2a529f923fe0.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.PathLengthCount field" Url="html/4adea309-a6ab-e387-9e31-8d8de98f53e1.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.PopulateSourcePoints method" Url="html/87fbb21d-57a0-c15f-5dfd-1057cdb0b313.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.Spline field" Url="html/c3f448f2-6f06-3d9f-8b6a-4464343269a9.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.Start method" Url="html/561539f6-9903-2027-fee1-1e018d4ee3ae.htm" />
+  <HelpKINode Title="LightningMeshSurfaceScript.Update method" Url="html/a03a18c9-41bc-84da-8fd3-968a02526d4c.htm" />
+  <HelpKINode Title="LightningOriginParticleSystem field" Url="html/b03a74b4-2489-efd1-d0a9-609d2fe02d7c.htm" />
+  <HelpKINode Title="LightningParticleCollisionForwarder class">
+    <HelpKINode Title="LightningParticleCollisionForwarder Class" Url="html/ed2ba65a-5d3a-ca1f-c8f7-f6e301613b3a.htm" />
+    <HelpKINode Title="constructor" Url="html/59bfb774-b490-1d23-164a-2f2cf614f610.htm" />
+    <HelpKINode Title="fields" Url="html/09e06dce-3c10-3ebd-73f1-491f1034fe85.htm" />
+    <HelpKINode Title="methods" Url="html/02e25407-3a3f-8a93-153e-ff5a6f66662f.htm" />
+    <HelpKINode Title="properties" Url="html/3f6d75ab-61a7-1ebd-cfc8-0686d885e3f8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningParticleCollisionForwarder.CollisionHandler field" Url="html/4c8359fb-8ec1-c43e-ae21-d19d8e05ae7e.htm" />
+  <HelpKINode Title="LightningParticleCollisionForwarder.LightningParticleCollisionForwarder constructor" Url="html/59bfb774-b490-1d23-164a-2f2cf614f610.htm" />
+  <HelpKINode Title="LightningParticleSpellScript class">
+    <HelpKINode Title="LightningParticleSpellScript Class" Url="html/52445196-7da1-034f-fe22-ba00090211e9.htm" />
+    <HelpKINode Title="constructor" Url="html/e8c4bc80-f8b7-c5d5-4180-8189e1b9c199.htm" />
+    <HelpKINode Title="fields" Url="html/f2fb57ec-647a-b1e9-37a1-89ec8b703275.htm" />
+    <HelpKINode Title="methods" Url="html/c8311e14-200a-2ba5-7727-112251c8e36d.htm" />
+    <HelpKINode Title="properties" Url="html/ab3f2c8f-4cb7-b64e-f0bb-9b0e661e4838.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningParticleSpellScript.CollisionCallback field" Url="html/671047de-35b4-dc0e-c966-6f7f756bfb92.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.CollisionInterval field" Url="html/c76e03be-b035-7802-0dec-c740a08fc2b5.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.collisionTimer field" Url="html/e6161db5-3258-a24f-a7de-95c6ef15b5dd.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.EnableParticleLights field" Url="html/7e050c18-08cf-983c-cc0e-8e2ac179de87.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.LightningParticleSpellScript constructor" Url="html/e8c4bc80-f8b7-c5d5-4180-8189e1b9c199.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.OnCastSpell method" Url="html/266f21ab-c724-9cd5-1cc7-77b0604210cb.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.OnDestroy method" Url="html/bbeb4c9e-4040-d3e6-bf15-d19b61086fa8.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.OnStopSpell method" Url="html/9536f8bc-9e3e-2798-ce4e-b59b2661b8db.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.ParticleLightColor1 field" Url="html/d1807587-4d79-c003-0552-9903f1317f5a.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.ParticleLightColor2 field" Url="html/4862c062-ddaf-7e70-97b1-815d67b232c1.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.ParticleLightCullingMask field" Url="html/f9a22636-217f-2087-f81c-1dde358c62a5.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.ParticleLightIntensity field" Url="html/c145f43c-6269-0315-a1cd-2970cce35ec6.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.ParticleLightRange field" Url="html/ae8b7526-a64c-8cc9-8779-8b36f9d201a3.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.ParticleSystem field" Url="html/4f271f0e-6fea-7d9f-5752-be58deabeee9.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.Start method" Url="html/03db0955-da11-4730-b579-3a99a9145327.htm" />
+  <HelpKINode Title="LightningParticleSpellScript.Update method" Url="html/02e130d5-2685-644d-7616-cd56fe022437.htm" />
+  <HelpKINode Title="LightningPath field" Url="html/4642b825-38bc-b5be-913f-3043e3acae77.htm" />
+  <HelpKINode Title="LightningPathScript field" Url="html/4787cd54-25f4-842c-9395-f70f3adbb6ea.htm" />
+  <HelpKINode Title="LightningPrefab field" Url="html/4279c966-636c-d29b-5e43-f77ca5f61259.htm" />
+  <HelpKINode Title="LightningQualityMaximum class">
+    <HelpKINode Title="LightningQualityMaximum Class" Url="html/fd513e2b-8a50-e219-e8a3-6d3b10c75055.htm" />
+    <HelpKINode Title="constructor" Url="html/d744a31f-a989-0dfe-db29-5c1f73802f4f.htm" />
+    <HelpKINode Title="methods" Url="html/c327dc0f-a23e-f420-e9ac-2e7a78875031.htm" />
+    <HelpKINode Title="properties" Url="html/38c0e478-52d7-d7b5-06a9-371463cccfd9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningQualityMaximum.LightningQualityMaximum constructor" Url="html/d744a31f-a989-0dfe-db29-5c1f73802f4f.htm" />
+  <HelpKINode Title="LightningQualityMaximum.MaximumGenerations property" Url="html/0b95b62f-c4fe-73eb-ee03-f7a2877d78d9.htm" />
+  <HelpKINode Title="LightningQualityMaximum.MaximumLightPercent property" Url="html/04ce461f-9018-1bfc-dac4-a6608f3e9d8d.htm" />
+  <HelpKINode Title="LightningQualityMaximum.MaximumShadowPercent property" Url="html/ec16b8bb-5842-1f24-2b38-1d8e9f39c7b3.htm" />
+  <HelpKINode Title="LightningScript field">
+    <HelpKINode Title="DemoScript2D.LightningScript Field" Url="html/d4173f79-dab8-51f2-00ae-b0ab29954fc9.htm" />
+    <HelpKINode Title="DemoScriptPrefabTutorial.LightningScript Field" Url="html/be53e6e9-3153-40a1-626e-95bdc7e731b8.htm" />
+    <HelpKINode Title="LightningBoltTransformTrackerScript.LightningScript Field" Url="html/640fd150-b2e2-375e-bc28-266bff9366f4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningSpellScript class">
+    <HelpKINode Title="LightningSpellScript Class" Url="html/579ff95d-703c-1bbe-3c13-6d877b965459.htm" />
+    <HelpKINode Title="constructor" Url="html/e6fb6c95-48c9-5af1-2f0f-c249132d9afa.htm" />
+    <HelpKINode Title="fields" Url="html/4e3871e8-04ce-3b25-38a5-7cd56968a56f.htm" />
+    <HelpKINode Title="methods" Url="html/7a7351aa-41e0-e5d8-9503-fa6f029b32f7.htm" />
+    <HelpKINode Title="properties" Url="html/b30692f4-d977-2431-f43d-2d7b716ba37d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningSpellScript.ActivateSpell method" Url="html/cfcd6a27-cd86-93a5-c126-3c195cf4e33c.htm" />
+  <HelpKINode Title="LightningSpellScript.ApplyCollisionForce method" Url="html/d14eeca6-6f12-f980-2695-671bc50452f6.htm" />
+  <HelpKINode Title="LightningSpellScript.CanCastSpell property" Url="html/83e24fb9-a3ec-5e16-c728-d17e29f2dcd2.htm" />
+  <HelpKINode Title="LightningSpellScript.Casting property" Url="html/c7bdf630-d8dd-9659-e117-a9f1e6663919.htm" />
+  <HelpKINode Title="LightningSpellScript.CastSpell method" Url="html/d7ec93c9-274e-472a-8ef2-00d795401ab6.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionAudioClips field" Url="html/cc4f31e3-a0cd-696a-ba0e-b6c1a96ed793.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionAudioSource field" Url="html/356379d2-89b4-445e-764b-14122e764736.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionForce field" Url="html/310c1220-5b51-859d-5a6f-f31cfc10cff2.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionForceMode field" Url="html/3c447e2d-dfe1-2e2b-9b84-12622c124b4e.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionIsExplosion field" Url="html/68e394f0-2580-3190-3847-a5f4f0a21f8d.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionMask field" Url="html/f0bc7c1b-b135-75d5-24c8-8b76312479c7.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionParticleSystem field" Url="html/2a87a72b-c937-9968-878b-ac7f7405ced5.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionRadius field" Url="html/541c9ce9-9cff-8cc9-21c3-81bbaa351a5b.htm" />
+  <HelpKINode Title="LightningSpellScript.CollisionVolumeRange field" Url="html/63a115d0-49cd-8803-baea-b24924e743bd.htm" />
+  <HelpKINode Title="LightningSpellScript.Cooldown field" Url="html/e99ec58e-71bf-8a64-5131-0cf95fc8a2ea.htm" />
+  <HelpKINode Title="LightningSpellScript.CooldownTimer property" Url="html/a8e2bb03-f512-1e04-67ae-f1f83d25645d.htm" />
+  <HelpKINode Title="LightningSpellScript.DeactivateSpell method" Url="html/8285690f-310f-b83e-4f17-c124c477133b.htm" />
+  <HelpKINode Title="LightningSpellScript.Direction field" Url="html/3f3f12b2-25db-1854-fe70-a3bbfcf3bc91.htm" />
+  <HelpKINode Title="LightningSpellScript.Duration field" Url="html/a3139f16-296b-58a8-5ca4-c2bc6ec02067.htm" />
+  <HelpKINode Title="LightningSpellScript.DurationTimer property" Url="html/fd5d915a-9191-f527-b7da-bc1f61ff6b8d.htm" />
+  <HelpKINode Title="LightningSpellScript.EmissionLight field" Url="html/d124efdd-34c6-4e93-7104-bb3036089041.htm" />
+  <HelpKINode Title="LightningSpellScript.EmissionParticleSystem field" Url="html/b088a2e0-8ecc-6591-5aa8-db68210d3d58.htm" />
+  <HelpKINode Title="LightningSpellScript.EmissionSound field" Url="html/0b54b827-0849-d443-f26a-afe5efdd0bc9.htm" />
+  <HelpKINode Title="LightningSpellScript.FindChildRecursively method" Url="html/5d7b3478-933c-6926-395f-615c19b46ada.htm" />
+  <HelpKINode Title="LightningSpellScript.LateUpdate method" Url="html/ec6e23c7-dba1-0abe-91e4-dc151bb84b61.htm" />
+  <HelpKINode Title="LightningSpellScript.LightningSpellScript constructor" Url="html/e6fb6c95-48c9-5af1-2f0f-c249132d9afa.htm" />
+  <HelpKINode Title="LightningSpellScript.MaxDistance field" Url="html/92ad517e-5cca-b20c-6edc-4c9eca2fa9a1.htm" />
+  <HelpKINode Title="LightningSpellScript.OnActivated method" Url="html/2cb153bf-1b0a-e7be-d3e5-6d317bd4b5b7.htm" />
+  <HelpKINode Title="LightningSpellScript.OnCastSpell method" Url="html/b72b7624-313d-9f87-e06f-80092dc0c30a.htm" />
+  <HelpKINode Title="LightningSpellScript.OnDeactivated method" Url="html/4ef20d72-0003-be10-9afc-fcb2a3e46112.htm" />
+  <HelpKINode Title="LightningSpellScript.OnDestroy method" Url="html/5d743ffe-5622-8dd4-5c2f-b84a170f4158.htm" />
+  <HelpKINode Title="LightningSpellScript.OnStopSpell method" Url="html/3a3bd319-e55e-5113-8a6c-8cca310b6e26.htm" />
+  <HelpKINode Title="LightningSpellScript.PlayCollisionSound method" Url="html/00323cf3-00c1-79eb-36ed-c0a8946cb807.htm" />
+  <HelpKINode Title="LightningSpellScript.SpellEnd field" Url="html/0f808aef-25eb-f8a5-088f-75382294aa43.htm" />
+  <HelpKINode Title="LightningSpellScript.SpellStart field" Url="html/1652addb-be48-f6ae-b0a4-33b6145b76cd.htm" />
+  <HelpKINode Title="LightningSpellScript.Start method" Url="html/613ef275-5c77-c2fb-f7a6-0a28281b35f8.htm" />
+  <HelpKINode Title="LightningSpellScript.StopAfterSeconds method" Url="html/912e89e8-3fb2-a65b-7ff9-3cfb6cece583.htm" />
+  <HelpKINode Title="LightningSpellScript.StopSpell method" Url="html/e7c2e876-d40f-3fd8-cd8b-c511002b93cc.htm" />
+  <HelpKINode Title="LightningSpellScript.Update method" Url="html/6da9b3a1-d0d0-984b-7354-24204b89a661.htm" />
+  <HelpKINode Title="LightningSplineScript class">
+    <HelpKINode Title="LightningSplineScript Class" Url="html/6885dc24-8aeb-b76b-7499-2df90daeb3e8.htm" />
+    <HelpKINode Title="constructor" Url="html/e9bcd770-7fe8-0ab8-57cc-7022c4cf5178.htm" />
+    <HelpKINode Title="fields" Url="html/dbfc3dd2-10a2-b8ec-2992-95afa6c7e4e7.htm" />
+    <HelpKINode Title="methods" Url="html/d8ad06ff-876a-6e52-6a8c-f8bad12b195e.htm" />
+    <HelpKINode Title="properties" Url="html/de753f5e-6d34-ad0e-31fa-bc19702b3123.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningSplineScript.CreateLightningBolt method" Url="html/f88d765e-5652-d91d-1e95-35c96a83f828.htm" />
+  <HelpKINode Title="LightningSplineScript.DistancePerSegmentHint field" Url="html/7fd6d2a3-bd76-efab-bf7e-b02c110bcaf0.htm" />
+  <HelpKINode Title="LightningSplineScript.LightningSplineScript constructor" Url="html/e9bcd770-7fe8-0ab8-57cc-7022c4cf5178.htm" />
+  <HelpKINode Title="LightningSplineScript.MaxSplineGenerations field" Url="html/434d8ddd-adf1-6b95-5c00-f72ff8c274cd.htm" />
+  <HelpKINode Title="LightningSplineScript.OnCreateParameters method" Url="html/5319efa4-e290-8302-5095-784d96c5bbdc.htm" />
+  <HelpKINode Title="LightningSplineScript.PopulateSpline method" Url="html/6e3bcb1c-4baf-b738-e43b-4a848fef828d.htm" />
+  <HelpKINode Title="LightningSplineScript.Start method" Url="html/fee13a99-4a10-0e2e-4494-895524e76900.htm" />
+  <HelpKINode Title="LightningSplineScript.Trigger method" Url="html/ea8263ac-1c69-893e-2433-1be78be756e7.htm" />
+  <HelpKINode Title="LightningSplineScript.Update method" Url="html/4922295c-d1d3-e010-db32-9cfeb536cb4b.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator class">
+    <HelpKINode Title="LightningSpriteSheetCreator Class" Url="html/60d0c424-9f32-7e62-d0ac-98d0c9894685.htm" />
+    <HelpKINode Title="constructor" Url="html/f56e6c41-7657-e883-6875-18d158c0d2e2.htm" />
+    <HelpKINode Title="fields" Url="html/3f4f4305-ccc6-bd68-a92f-b0d1bf9ab2be.htm" />
+    <HelpKINode Title="methods" Url="html/e0f30567-d175-77ee-9d49-daccda8ac3d9.htm" />
+    <HelpKINode Title="properties" Url="html/039c0f9c-3b28-42cd-9106-6fb959f50eeb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningSpriteSheetCreator.BackgroundColor field" Url="html/4fa7a92b-2d36-2135-9d7a-3bf11b838e35.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.Columns field" Url="html/871dcda9-1046-1aac-6449-ee6e745cdb06.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.ExportCompleteLabel field" Url="html/972309b0-65cf-8ff5-abc4-a9aa9cdc9f13.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.ExportTapped method" Url="html/d1efdbb1-16b5-e37d-3883-42cb2ccdd164.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.FrameDelay field" Url="html/7f5d2af5-8a53-ad96-90b3-655201ec61c0.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.Height field" Url="html/6000f84e-ef18-6845-92dd-603fe58b03a0.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.LightningSpriteSheetCreator constructor" Url="html/f56e6c41-7657-e883-6875-18d158c0d2e2.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.Rows field" Url="html/97566842-97b5-adab-5dba-dbf7fec21203.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.SaveFileName field" Url="html/4c18b18f-b272-5951-22ce-1eccc3dd234c.htm" />
+  <HelpKINode Title="LightningSpriteSheetCreator.Width field" Url="html/623c5182-51e5-7c91-e9ac-61ded7fc9083.htm" />
+  <HelpKINode Title="LightningStartedCallback property" Url="html/296f6a73-b52f-4598-132c-8a57fc208654.htm" />
+  <HelpKINode Title="LightningTexture field" Url="html/4ab74857-1bfd-f688-8edd-b10e5f215757.htm" />
+  <HelpKINode Title="LightningThreadState class">
+    <HelpKINode Title="LightningThreadState Class" Url="html/1ca66bb1-2cb8-fc78-287f-2ebd8ecf601e.htm" />
+    <HelpKINode Title="constructor" Url="html/34683f39-b068-3329-11da-622890f208aa.htm" />
+    <HelpKINode Title="fields" Url="html/04ab9bca-37ab-f54d-c5c8-64bdc74e30ca.htm" />
+    <HelpKINode Title="methods" Url="html/69aa57a9-05f9-d3a3-c722-b2f442079fc9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningThreadState.AddActionForBackgroundThread method" Url="html/dc9aa62b-8c60-f71c-51a8-8c68eb50505a.htm" />
+  <HelpKINode Title="LightningThreadState.AddActionForMainThread method" Url="html/97d7384b-d496-4496-0328-5b2ceb0b4fdb.htm" />
+  <HelpKINode Title="LightningThreadState.LightningThreadState constructor" Url="html/34683f39-b068-3329-11da-622890f208aa.htm" />
+  <HelpKINode Title="LightningThreadState.Running field" Url="html/f7fe8719-42f3-1c5f-d75a-41c6d9db6163.htm" />
+  <HelpKINode Title="LightningThreadState.TerminateAndWaitForEnd method" Url="html/646705d0-a172-906e-cb50-7b41f36baf95.htm" />
+  <HelpKINode Title="LightningThreadState.UpdateMainThreadActions method" Url="html/05c8027a-97b7-ae70-5dbf-bf540febd4df.htm" />
+  <HelpKINode Title="LightningTintColor field" Url="html/2bd83f1d-db0a-ef53-2612-981e9481d296.htm" />
+  <HelpKINode Title="LightningWhipScript class">
+    <HelpKINode Title="LightningWhipScript Class" Url="html/5e608715-23ac-a168-23d9-13a3524de303.htm" />
+    <HelpKINode Title="constructor" Url="html/ff3c2c32-88de-37c7-efa4-de1823a073a7.htm" />
+    <HelpKINode Title="fields" Url="html/8776c93b-cbcc-07d2-5d80-8fc5484d66bd.htm" />
+    <HelpKINode Title="methods" Url="html/9aab7f98-3c1c-1b76-0e5b-5538e9fe9c0a.htm" />
+    <HelpKINode Title="properties" Url="html/f8a70b19-2b17-53d4-c7cb-62c8346550aa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningWhipScript.LightningWhipScript constructor" Url="html/ff3c2c32-88de-37c7-efa4-de1823a073a7.htm" />
+  <HelpKINode Title="LightningWhipScript.WhipCrack field" Url="html/018452a5-924b-3800-4bed-32c1eb97fb73.htm" />
+  <HelpKINode Title="LightningWhipScript.WhipCrackThunder field" Url="html/bf2e72b2-7ca9-6abb-9693-415507180e4f.htm" />
+  <HelpKINode Title="LightningWhipSpell class">
+    <HelpKINode Title="LightningWhipSpell Class" Url="html/68143ea5-0158-446e-4f85-de7dd9b44b10.htm" />
+    <HelpKINode Title="constructor" Url="html/1daafa60-74d6-5d02-e643-96fe65fd4114.htm" />
+    <HelpKINode Title="fields" Url="html/66a7f035-c70a-7a94-3f9e-e0a54f841578.htm" />
+    <HelpKINode Title="methods" Url="html/395d3c31-6f68-0f47-a39e-4d595cfd6714.htm" />
+    <HelpKINode Title="properties" Url="html/b630b865-7f2a-e72c-e2f6-78c2a7f7b51d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightningWhipSpell.AttachTo field" Url="html/31707d43-5b10-bc68-d902-1a331266fc2b.htm" />
+  <HelpKINode Title="LightningWhipSpell.CollisionCallback field" Url="html/3628ac11-7049-f096-0ac5-7f65d67d60e3.htm" />
+  <HelpKINode Title="LightningWhipSpell.LightningWhipSpell constructor" Url="html/1daafa60-74d6-5d02-e643-96fe65fd4114.htm" />
+  <HelpKINode Title="LightningWhipSpell.OnActivated method" Url="html/5407a0a0-ebaf-7046-ba51-ef3185cbde54.htm" />
+  <HelpKINode Title="LightningWhipSpell.OnCastSpell method" Url="html/16496f54-121f-4656-6267-406c0eab54be.htm" />
+  <HelpKINode Title="LightningWhipSpell.OnDeactivated method" Url="html/f3fce215-5613-c7e5-dc84-6002d39d61b5.htm" />
+  <HelpKINode Title="LightningWhipSpell.OnStopSpell method" Url="html/de9ec6d9-58b2-e314-85cd-29b3646227db.htm" />
+  <HelpKINode Title="LightningWhipSpell.RotateWith field" Url="html/55adf009-cf8f-403b-7a64-c4248903bf52.htm" />
+  <HelpKINode Title="LightningWhipSpell.Start method" Url="html/7e004b95-f04a-9bd3-7f30-e6bec2c9e76c.htm" />
+  <HelpKINode Title="LightningWhipSpell.Update method" Url="html/44d587b2-b871-2863-fd9f-0ae2ec8baaa0.htm" />
+  <HelpKINode Title="LightningWhipSpell.WhipCrackAudioSource field" Url="html/64ac53c7-3b20-08d4-dc1c-37c4ff420623.htm" />
+  <HelpKINode Title="LightningWhipSpell.WhipHandle field" Url="html/eb09b5d7-4ad3-d687-9b56-775ee35dca80.htm" />
+  <HelpKINode Title="LightningWhipSpell.WhipSpring field" Url="html/6622b39e-2ab9-a300-5261-95ac7d96434a.htm" />
+  <HelpKINode Title="LightningWhipSpell.WhipStart field" Url="html/6d0aa899-6d24-4c20-94f4-cda0c0170cce.htm" />
+  <HelpKINode Title="LightningYStart field" Url="html/5f2bb604-fc7d-4467-b6be-6a9211b14cdb.htm" />
+  <HelpKINode Title="LightParameters field">
+    <HelpKINode Title="LightningBoltParameters.LightParameters Field" Url="html/dbb2d5e6-2db8-33eb-c1fb-4b1655c9a5f7.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.LightParameters Field" Url="html/e229376a-f9bd-1262-0d3c-205c1d5fcfde.htm" />
+    <HelpKINode Title="LightningBoltSegmentGroup.LightParameters Field" Url="html/b9b0f324-9799-fc03-8cba-5c8ea87695ad.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LightPercent field" Url="html/b7514fd5-c77e-1e76-2d17-7d0b0e00f749.htm" />
+  <HelpKINode Title="LightRange field" Url="html/8a2eeac6-73b8-4476-1f54-e84790e6197e.htm" />
+  <HelpKINode Title="LightRemoved field" Url="html/98f5df7c-0d4d-f8ab-3876-ffb81d6b72f2.htm" />
+  <HelpKINode Title="LightRemovedCallback property" Url="html/579d7cae-41f6-83e1-a6e9-3333ce03a049.htm" />
+  <HelpKINode Title="Lights field" Url="html/eaf70c18-f0da-717f-2ef9-b307c2961fa0.htm" />
+  <HelpKINode Title="LightShadowPercent field" Url="html/f79d95aa-d62e-2712-2d14-f6b00921c3aa.htm" />
+  <HelpKINode Title="LimitToQualitySetting enumeration member" Url="html/c39ffb70-3d8f-4c4a-1643-9e3392f4565a.htm" />
+  <HelpKINode Title="LineRendererMesh class">
+    <HelpKINode Title="methods" Url="html/215b3cfc-dfe5-be38-1da5-b6454c9b4ba7.htm" />
+    <HelpKINode Title="properties" Url="html/0bc3655d-1a36-8fe2-975c-ab8640f1ce06.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LineWidth field" Url="html/945d3d36-5c41-fda6-ccec-b43bac255998.htm" />
+  <HelpKINode Title="ManualMode field" Url="html/6f71ae64-47b2-d6d4-15a2-96ee67dfea69.htm" />
+  <HelpKINode Title="ManualTriggerClicked method" Url="html/932dbf88-079d-2210-699f-2a53ea8ffa20.htm" />
+  <HelpKINode Title="MaterialBolt property" Url="html/93d874d8-0e97-a733-ae81-9e124cfd3a2f.htm" />
+  <HelpKINode Title="MaterialGlow property" Url="html/763a8f68-d7d2-f8b9-1761-d119a8137c25.htm" />
+  <HelpKINode Title="MaxDistance field" Url="html/92ad517e-5cca-b20c-6edc-4c9eca2fa9a1.htm" />
+  <HelpKINode Title="Maximum field">
+    <HelpKINode Title="RangeOfFloats.Maximum Field" Url="html/430e21ed-219d-b239-f57a-9d9100456871.htm" />
+    <HelpKINode Title="RangeOfIntegers.Maximum Field" Url="html/f16f1ae7-a953-6e7c-89a1-35f4f86fed6d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MaximumGenerations property" Url="html/0b95b62f-c4fe-73eb-ee03-f7a2877d78d9.htm" />
+  <HelpKINode Title="MaximumLightCount field" Url="html/01913b8e-6a2a-aed1-bfff-e0be86a55053.htm" />
+  <HelpKINode Title="MaximumLightPercent property" Url="html/04ce461f-9018-1bfc-dac4-a6608f3e9d8d.htm" />
+  <HelpKINode Title="MaximumLightsPerBatch field">
+    <HelpKINode Title="LightningBolt.MaximumLightsPerBatch Field" Url="html/29d2c403-d82b-a00b-c0f5-35fad68c66eb.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.MaximumLightsPerBatch Field" Url="html/56797a46-0e8d-a2e9-67c5-875af694a6b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MaximumPathDistance field" Url="html/4ab246e4-1313-1e5e-3257-7ab684090b4a.htm" />
+  <HelpKINode Title="MaximumShadowPercent property" Url="html/ec16b8bb-5842-1f24-2b38-1d8e9f39c7b3.htm" />
+  <HelpKINode Title="MaxSplineGenerations field" Url="html/434d8ddd-adf1-6b95-5c00-f72ff8c274cd.htm" />
+  <HelpKINode Title="MaxValue property" Url="html/2ed28f57-d2ff-126d-3400-3f448abb2635.htm" />
+  <HelpKINode Title="Mesh property" Url="html/3a32f84b-763b-653a-6630-61afa340ccca.htm" />
+  <HelpKINode Title="MeshCollider field" Url="html/dd480d1e-a66f-853f-f6b4-6ea15786c5f1.htm" />
+  <HelpKINode Title="MeshFilter field" Url="html/3656a6dd-a9c3-d090-48ae-22aceec5af39.htm" />
+  <HelpKINode Title="MeshHelper class">
+    <HelpKINode Title="MeshHelper Class" Url="html/7b299080-9256-8df5-7086-26a8705b3e7a.htm" />
+    <HelpKINode Title="constructor" Url="html/166349bf-985f-74aa-a87a-fc1f30619145.htm" />
+    <HelpKINode Title="methods" Url="html/da8fbbe8-7c41-5a26-602b-348294af1df7.htm" />
+    <HelpKINode Title="properties" Url="html/d091c2cd-6626-186c-52f4-351cd05dfb47.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MeshHelper.GenerateRandomPoint method" Url="html/5a558b46-5b59-1148-792b-19fffaee7c29.htm" />
+  <HelpKINode Title="MeshHelper.GetRaycastFromTriangleIndex method" Url="html/590a614b-64c1-38c1-d73b-3717aad6e83d.htm" />
+  <HelpKINode Title="MeshHelper.Mesh property" Url="html/3a32f84b-763b-653a-6630-61afa340ccca.htm" />
+  <HelpKINode Title="MeshHelper.MeshHelper constructor" Url="html/166349bf-985f-74aa-a87a-fc1f30619145.htm" />
+  <HelpKINode Title="MeshHelper.Normals property" Url="html/da9e336b-cbb1-7f17-871d-793e94eb311a.htm" />
+  <HelpKINode Title="MeshHelper.Triangles property" Url="html/f9bea707-8d61-eb88-b073-0ed585dc3e9f.htm" />
+  <HelpKINode Title="MeshHelper.Vertices property" Url="html/dcf8e2e5-b06f-bc9c-ff03-3580662f8edb.htm" />
+  <HelpKINode Title="MeshOffsetRange field" Url="html/6dfcaae6-9d7a-52a6-2046-e30381d6601c.htm" />
+  <HelpKINode Title="MeshRendererBolt property" Url="html/9522767e-60fc-605f-bffe-2b8fb6d8dc80.htm" />
+  <HelpKINode Title="MeshRendererGlow property" Url="html/42c26e45-fd07-05a4-60f2-3b6e51560a50.htm" />
+  <HelpKINode Title="Minimum field">
+    <HelpKINode Title="RangeOfFloats.Minimum Field" Url="html/d2071ca3-6582-c833-0d72-da840de559bf.htm" />
+    <HelpKINode Title="RangeOfIntegers.Minimum Field" Url="html/04e66e50-b631-35cf-f477-bc6b1901380d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MinimumDelay property" Url="html/4cd8af89-9948-1e13-6623-b536983ed024.htm" />
+  <HelpKINode Title="MinimumLength field" Url="html/b93eaca8-036e-4bbd-3611-3333faf7350a.htm" />
+  <HelpKINode Title="MinimumPathDistanceRange field" Url="html/f36e85f4-cf12-2b9f-5213-ba60bc96625f.htm" />
+  <HelpKINode Title="MinPointsForSpline field" Url="html/a7283c5b-0725-3c9d-826b-5c3a620c5c5b.htm" />
+  <HelpKINode Title="MinValue property" Url="html/4c5e6b9e-ee10-e122-37c2-91f7eb21021e.htm" />
+  <HelpKINode Title="ModifySkyboxExposure field" Url="html/bde88e3b-bc89-311d-f91c-800ec397bacc.htm" />
+  <HelpKINode Title="MoveSpeed field" Url="html/ca94e427-83ab-5e89-b682-cced4f86674b.htm" />
+  <HelpKINode Title="MoveTimeSeconds field" Url="html/c38fe419-4a29-a707-9d8a-c11ab5ac3280.htm" />
+  <HelpKINode Title="MultiThreaded field" Url="html/b377b19d-9f5b-7a0d-56d4-93e367797df0.htm" />
+  <HelpKINode Title="NextSpell method" Url="html/a7f70e5d-95ca-1fc9-87e9-b605de7fd125.htm" />
+  <HelpKINode Title="Normals property" Url="html/da9e336b-cbb1-7f17-871d-793e94eb311a.htm" />
+  <HelpKINode Title="OnActivated method">
+    <HelpKINode Title="LightningSpellScript.OnActivated Method " Url="html/2cb153bf-1b0a-e7be-d3e5-6d317bd4b5b7.htm" />
+    <HelpKINode Title="LightningWhipSpell.OnActivated Method " Url="html/5407a0a0-ebaf-7046-ba51-ef3185cbde54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnCastSpell method">
+    <HelpKINode Title="LightningBeamSpellScript.OnCastSpell Method " Url="html/7bdf92e7-3e08-e160-e472-41a3e760fb22.htm" />
+    <HelpKINode Title="LightningParticleSpellScript.OnCastSpell Method " Url="html/266f21ab-c724-9cd5-1cc7-77b0604210cb.htm" />
+    <HelpKINode Title="LightningSpellScript.OnCastSpell Method " Url="html/b72b7624-313d-9f87-e06f-80092dc0c30a.htm" />
+    <HelpKINode Title="LightningWhipSpell.OnCastSpell Method " Url="html/16496f54-121f-4656-6267-406c0eab54be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnCreateParameters method">
+    <HelpKINode Title="LightningBoltPathScriptBase.OnCreateParameters Method " Url="html/0d12c7c5-4670-3145-b98e-f823366c8a15.htm" />
+    <HelpKINode Title="LightningBoltScript.OnCreateParameters Method " Url="html/2b44248a-cc54-ea4c-4a1e-4dae69d9051f.htm" />
+    <HelpKINode Title="LightningMeshSurfaceScript.OnCreateParameters Method " Url="html/722a1bf1-0f43-69d6-c336-2a529f923fe0.htm" />
+    <HelpKINode Title="LightningSplineScript.OnCreateParameters Method " Url="html/5319efa4-e290-8302-5095-784d96c5bbdc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnDeactivated method">
+    <HelpKINode Title="LightningSpellScript.OnDeactivated Method " Url="html/4ef20d72-0003-be10-9afc-fcb2a3e46112.htm" />
+    <HelpKINode Title="LightningWhipSpell.OnDeactivated Method " Url="html/f3fce215-5613-c7e5-dc84-6002d39d61b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnDestroy method">
+    <HelpKINode Title="LightningParticleSpellScript.OnDestroy Method " Url="html/bbeb4c9e-4040-d3e6-bf15-d19b61086fa8.htm" />
+    <HelpKINode Title="LightningSpellScript.OnDestroy Method " Url="html/5d743ffe-5622-8dd4-5c2f-b84a170f4158.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnDrawGizmos method">
+    <HelpKINode Title="LightningBoltPathScriptBase.OnDrawGizmos Method " Url="html/e29fc0b9-adfe-dea2-c9ff-c0caf3f8edc9.htm" />
+    <HelpKINode Title="LightningBoltPrefabScript.OnDrawGizmos Method " Url="html/04af5d6d-5543-ce6d-9945-04caa05541d2.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.OnDrawGizmos Method " Url="html/ee4667d7-0ff3-83ce-e839-63c1ce610d81.htm" />
+    <HelpKINode Title="LightningBoltShapeConeScript.OnDrawGizmos Method " Url="html/e017aef7-2e04-3f5b-d8d1-4c562feeb577.htm" />
+    <HelpKINode Title="LightningBoltShapeSphereScript.OnDrawGizmos Method " Url="html/e7ea7165-d9db-aeba-17be-b371450f38dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnGenerateLightningBolt method">
+    <HelpKINode Title="LightningGenerator.OnGenerateLightningBolt Method " Url="html/b0b89dfc-be02-2d31-c7f9-fffcd67ad802.htm" />
+    <HelpKINode Title="LightningGeneratorPath.OnGenerateLightningBolt Method " Url="html/a20e1507-35ce-e4a8-a069-c3eaeb27d019.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnGUI method" Url="html/3cfbf029-b3af-d217-585e-d9925ada517c.htm" />
+  <HelpKINode Title="OnStopSpell method">
+    <HelpKINode Title="LightningBeamSpellScript.OnStopSpell Method " Url="html/97b7297b-294c-49a9-ecc3-10c025d16245.htm" />
+    <HelpKINode Title="LightningParticleSpellScript.OnStopSpell Method " Url="html/9536f8bc-9e3e-2798-ce4e-b59b2661b8db.htm" />
+    <HelpKINode Title="LightningSpellScript.OnStopSpell Method " Url="html/3a3bd319-e55e-5113-8a6c-8cca310b6e26.htm" />
+    <HelpKINode Title="LightningWhipSpell.OnStopSpell Method " Url="html/de9ec6d9-58b2-e314-85cd-29b3646227db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OriginParticleSystem field" Url="html/8546ad4d-8ff4-e44b-f5f2-29bc72f9bd4b.htm" />
+  <HelpKINode Title="OrthographicOffset field" Url="html/96fdc59a-28cf-5f8a-0ca6-4587b358fc3d.htm" />
+  <HelpKINode Title="OrthographicToggle field" Url="html/878af230-a931-eab0-94bf-a81cbd6a7b9f.htm" />
+  <HelpKINode Title="OrthographicToggleClicked method" Url="html/245075a0-3df4-c689-35fa-fa9d9d45a7e3.htm" />
+  <HelpKINode Title="OrthographicXY enumeration member" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+  <HelpKINode Title="OrthographicXZ enumeration member" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+  <HelpKINode Title="OuterRadius field" Url="html/bd115afa-0e17-7fc1-82a5-10205cd07e5e.htm" />
+  <HelpKINode Title="Parameters field" Url="html/b207fc6b-d478-2183-6892-b6617e71632a.htm" />
+  <HelpKINode Title="Parameters property" Url="html/ac459fc3-34ff-05e7-6c2d-6397ff6522e3.htm" />
+  <HelpKINode Title="Parent field" Url="html/f9e8b38f-ed1f-200c-64e1-3a7d7dc7dcf0.htm" />
+  <HelpKINode Title="ParticleLightColor1 field" Url="html/d1807587-4d79-c003-0552-9903f1317f5a.htm" />
+  <HelpKINode Title="ParticleLightColor2 field" Url="html/4862c062-ddaf-7e70-97b1-815d67b232c1.htm" />
+  <HelpKINode Title="ParticleLightCullingMask field" Url="html/f9a22636-217f-2087-f81c-1dde358c62a5.htm" />
+  <HelpKINode Title="ParticleLightIntensity field" Url="html/c145f43c-6269-0315-a1cd-2970cce35ec6.htm" />
+  <HelpKINode Title="ParticleLightRange field" Url="html/ae8b7526-a64c-8cc9-8779-8b36f9d201a3.htm" />
+  <HelpKINode Title="ParticleSystem field" Url="html/4f271f0e-6fea-7d9f-5752-be58deabeee9.htm" />
+  <HelpKINode Title="PathGenerator class">
+    <HelpKINode Title="PathGenerator Class" Url="html/91a3c7d6-74ef-e72e-dae1-745263819e43.htm" />
+    <HelpKINode Title="fields" Url="html/642a0b53-5903-5dcb-b772-bba62a3eece5.htm" />
+    <HelpKINode Title="methods" Url="html/ea0d54da-de99-e16b-9d96-e28cfb77ddcb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PathGenerator.CreateCurve method" Url="html/4935494c-8117-c665-690b-e96cad0e3b63.htm" />
+  <HelpKINode Title="PathGenerator.CreateSpline method" Url="html/b3a4f2f1-4145-d4b4-09fb-ce4f76411dfa.htm" />
+  <HelpKINode Title="PathGenerator.CreateSplineWithSegmentDistance method" Url="html/db4da0f3-53dc-0410-6d59-108f703c8cc4.htm" />
+  <HelpKINode Title="PathGenerator.Is2D field" Url="html/cbb598c6-d2bf-ab40-aba5-47195e36ba53.htm" />
+  <HelpKINode Title="PathGenerator.MinPointsForSpline field" Url="html/a7283c5b-0725-3c9d-826b-5c3a620c5c5b.htm" />
+  <HelpKINode Title="PathGenerator.SquareRoot method" Url="html/d402cca6-60e0-d6d2-689b-2ab9e915ec4e.htm" />
+  <HelpKINode Title="PathGeneratorInstance field" Url="html/304d4f32-302f-2040-5ae2-bd529b9d7de3.htm" />
+  <HelpKINode Title="PathLengthCount field" Url="html/4adea309-a6ab-e387-9e31-8d8de98f53e1.htm" />
+  <HelpKINode Title="PeakEnd field" Url="html/bef9e063-b2c6-51c8-ce4b-d4a356494600.htm" />
+  <HelpKINode Title="PeakStart field" Url="html/569989d4-252a-cef1-08ad-1c47f3c5ad02.htm" />
+  <HelpKINode Title="Perspective enumeration member" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+  <HelpKINode Title="PlayCollisionSound method" Url="html/00323cf3-00c1-79eb-36ed-c0a8946cb807.htm" />
+  <HelpKINode Title="Points property" Url="html/24d1c6be-39bb-40e9-3866-34709400ffd3.htm" />
+  <HelpKINode Title="PopulateMesh method" Url="html/d9e5afe6-7cc3-d260-e0fa-beb89b5f72f5.htm" />
+  <HelpKINode Title="PopulateParameters method">
+    <HelpKINode Title="LightningBoltPrefabScriptBase.PopulateParameters Method " Url="html/f2d69a69-49ff-54e8-acb3-100de747f14a.htm" />
+    <HelpKINode Title="LightningBoltScript.PopulateParameters Method " Url="html/0fb02673-31b5-c253-11b5-27749a9ba2b0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PopulateSourcePoints method" Url="html/87fbb21d-57a0-c15f-5dfd-1057cdb0b313.htm" />
+  <HelpKINode Title="PopulateSpline method" Url="html/6e3bcb1c-4baf-b738-e43b-4a848fef828d.htm" />
+  <HelpKINode Title="PrepareForLines method" Url="html/abadb8a4-e057-2fd7-5604-4a6c87bc213e.htm" />
+  <HelpKINode Title="PreviousSpell method" Url="html/c02e70fe-5b08-7945-6579-5b724deebfbe.htm" />
+  <HelpKINode Title="QualityMaximums field" Url="html/86757b7d-21e5-d4e1-8840-b14000d33c68.htm" />
+  <HelpKINode Title="QualitySetting field" Url="html/19c12a1b-1c73-56c4-7c21-9e2e274cd02f.htm" />
+  <HelpKINode Title="Radius field" Url="html/cc38a2e3-0369-a5e7-d415-ad1a83b0826c.htm" />
+  <HelpKINode Title="Random method">
+    <HelpKINode Title="RangeOfFloats.Random Method " Url="html/14b5ef73-7019-16d7-b4cc-c942b30d80ab.htm" />
+    <HelpKINode Title="RangeOfIntegers.Random Method " Url="html/c52d1138-8eff-53c6-6074-38a479ad709d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Random property" Url="html/956604cd-a501-817c-4693-1861607dbf0d.htm" />
+  <HelpKINode Title="RandomDirection2D method" Url="html/ea89799e-8ec5-2c9d-7e40-6d7601f1ce63.htm" />
+  <HelpKINode Title="RandomDirection2DXZ method" Url="html/5d2a8e03-0120-8bfa-5451-514dad62ac99.htm" />
+  <HelpKINode Title="RandomDirection3D method" Url="html/2049be24-0a39-628b-36c8-de55d63932c9.htm" />
+  <HelpKINode Title="RandomOverride property">
+    <HelpKINode Title="LightningBoltParameters.RandomOverride Property " Url="html/b91c8752-ed50-222d-29b3-7a1844d1e7be.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.RandomOverride Property " Url="html/d42baa04-da85-837e-1cb6-917a68f16ee2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RandomVector method" Url="html/54c7c655-ed16-900a-7db0-bfe70b5ca031.htm" />
+  <HelpKINode Title="RangeOfFloats structure">
+    <HelpKINode Title="RangeOfFloats Structure" Url="html/d74e81a9-068a-da70-2532-8c91b1e09e58.htm" />
+    <HelpKINode Title="fields" Url="html/19be4f2a-8138-bae6-71b2-f73432d22931.htm" />
+    <HelpKINode Title="methods" Url="html/164e6dda-6cee-17f5-a7b0-42f43bae0051.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RangeOfFloats.Maximum field" Url="html/430e21ed-219d-b239-f57a-9d9100456871.htm" />
+  <HelpKINode Title="RangeOfFloats.Minimum field" Url="html/d2071ca3-6582-c833-0d72-da840de559bf.htm" />
+  <HelpKINode Title="RangeOfFloats.Random method" Url="html/14b5ef73-7019-16d7-b4cc-c942b30d80ab.htm" />
+  <HelpKINode Title="RangeOfIntegers structure">
+    <HelpKINode Title="RangeOfIntegers Structure" Url="html/7bead3c2-2482-dd8f-c51f-21338ac6b77b.htm" />
+    <HelpKINode Title="fields" Url="html/b975b2cc-e365-eb62-5640-d5d4d2d61608.htm" />
+    <HelpKINode Title="methods" Url="html/f70604fc-4ce0-d9f7-ae6e-6d891e7fb2db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RangeOfIntegers.Maximum field" Url="html/f16f1ae7-a953-6e7c-89a1-35f4f86fed6d.htm" />
+  <HelpKINode Title="RangeOfIntegers.Minimum field" Url="html/04e66e50-b631-35cf-f477-bc6b1901380d.htm" />
+  <HelpKINode Title="RangeOfIntegers.Random method" Url="html/c52d1138-8eff-53c6-6074-38a479ad709d.htm" />
+  <HelpKINode Title="ReloadCurrentScene method" Url="html/5869d703-37fb-864a-a3e8-7310015b31da.htm" />
+  <HelpKINode Title="RenderMode field" Url="html/3b45764c-1ade-5607-4d11-e295b0f22cec.htm" />
+  <HelpKINode Title="RenderQueue field" Url="html/fe4a6043-9825-45d2-c884-ac9d352cf9da.htm" />
+  <HelpKINode Title="Repeat field" Url="html/471deb34-34c9-9fd1-8559-8d76c9b17ca4.htm" />
+  <HelpKINode Title="Reset method">
+    <HelpKINode Title="LightningBolt.LineRendererMesh.Reset Method " Url="html/515181ee-3411-a034-9513-4e1abe927f6e.htm" />
+    <HelpKINode Title="LightningBoltParameters.Reset Method " Url="html/0ce3863b-85af-3b13-e5c1-0c473f0ed3f5.htm" />
+    <HelpKINode Title="LightningBoltPathScript.Reset Method " Url="html/967c4473-6825-7a66-3819-14a626a8e7b0.htm" />
+    <HelpKINode Title="LightningBoltSegmentGroup.Reset Method " Url="html/b69eea18-0f23-f454-b2fe-571303dbb02e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReturnParametersToCache method" Url="html/ee42e17d-a0cb-fd00-b0a5-9060cc42bb85.htm" />
+  <HelpKINode Title="ReturnStateInfoToCache method" Url="html/93c9de1b-ec2a-a2b0-6af9-3fc8c1e4fbe2.htm" />
+  <HelpKINode Title="ReturnToCache field" Url="html/5e3baefb-9220-7372-3226-9fc409059f69.htm" />
+  <HelpKINode Title="RotateSpeed field" Url="html/6df22965-1b2e-670b-f914-329f4494adf6.htm" />
+  <HelpKINode Title="RotateWith field" Url="html/55adf009-cf8f-403b-7a64-c4248903bf52.htm" />
+  <HelpKINode Title="Rotation field" Url="html/56d380dc-9bbb-0423-abf7-6a56b99a2bf4.htm" />
+  <HelpKINode Title="Rows field" Url="html/97566842-97b5-adab-5dba-dbf7fec21203.htm" />
+  <HelpKINode Title="Running field" Url="html/f7fe8719-42f3-1c5f-d75a-41c6d9db6163.htm" />
+  <HelpKINode Title="SaveFileName field" Url="html/4c18b18f-b272-5951-22ce-1eccc3dd234c.htm" />
+  <HelpKINode Title="Scale field" Url="html/bac803d6-4375-31ed-8449-46b94bf37bab.htm" />
+  <HelpKINode Title="ScaleLimit field" Url="html/bf279254-61f6-bf76-6ad2-21c3960cdb2f.htm" />
+  <HelpKINode Title="Script field" Url="html/a4e765dc-b177-b2da-d3f9-116047a2dae7.htm" />
+  <HelpKINode Title="SeedInputField field" Url="html/18e2bdc6-39ba-4e8a-572d-d13820dc8943.htm" />
+  <HelpKINode Title="SeedLabel field" Url="html/ac72a6b1-dfc8-6f2a-6491-dae7222d1751.htm" />
+  <HelpKINode Title="SegmentCount property" Url="html/f8fb4960-566f-45dc-274a-12d852467696.htm" />
+  <HelpKINode Title="Segments field" Url="html/bb2ed181-c52c-ef93-d475-a91ea87ccafa.htm" />
+  <HelpKINode Title="SetupLightningBolt method" Url="html/32d74cc1-063e-e6e1-1c92-15477941d44e.htm" />
+  <HelpKINode Title="ShadowBias field" Url="html/b2cd5d94-37c3-5435-ee24-76e603853abd.htm" />
+  <HelpKINode Title="ShadowNormalBias field" Url="html/ffd89a44-2ce7-459e-2e50-8c81b7187e2f.htm" />
+  <HelpKINode Title="ShadowStrength field" Url="html/660128e1-383d-75be-3b52-1925ee43c368.htm" />
+  <HelpKINode Title="ShouldCreateFork method" Url="html/3cb99bdf-fd60-629c-e350-4d4055b80382.htm" />
+  <HelpKINode Title="SingleLineAttribute class">
+    <HelpKINode Title="SingleLineAttribute Class" Url="html/caf8d0a9-54a5-82e8-5746-c82139609660.htm" />
+    <HelpKINode Title="constructor" Url="html/4376484d-2e61-2b00-2665-055b94f51d4f.htm" />
+    <HelpKINode Title="methods" Url="html/dcfae6bd-0998-cadc-57a0-eca8956967be.htm" />
+    <HelpKINode Title="properties" Url="html/d32e25df-5cf8-42db-8dcb-c9da7046c305.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SingleLineAttribute.SingleLineAttribute constructor" Url="html/4376484d-2e61-2b00-2665-055b94f51d4f.htm" />
+  <HelpKINode Title="SingleLineAttribute.Tooltip property" Url="html/db7de27c-3ba9-c2e0-171e-c356e5afd27b.htm" />
+  <HelpKINode Title="SingleLineClampAttribute class">
+    <HelpKINode Title="SingleLineClampAttribute Class" Url="html/bd1118ea-c4a1-fd04-320e-4f2968992d8e.htm" />
+    <HelpKINode Title="constructor" Url="html/759ecb7f-5283-fb4e-8504-6d75f8e9df63.htm" />
+    <HelpKINode Title="methods" Url="html/c3447ae7-199c-2145-4acd-094a563e3e2d.htm" />
+    <HelpKINode Title="properties" Url="html/b77b9694-3bf8-1db1-4144-0b3dda724012.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SingleLineClampAttribute.MaxValue property" Url="html/2ed28f57-d2ff-126d-3400-3f448abb2635.htm" />
+  <HelpKINode Title="SingleLineClampAttribute.MinValue property" Url="html/4c5e6b9e-ee10-e122-37c2-91f7eb21021e.htm" />
+  <HelpKINode Title="SingleLineClampAttribute.SingleLineClampAttribute constructor" Url="html/759ecb7f-5283-fb4e-8504-6d75f8e9df63.htm" />
+  <HelpKINode Title="SingleLineDrawer class">
+    <HelpKINode Title="SingleLineDrawer Class" Url="html/bb4f6958-5bed-8f89-10ab-6d698ad680ba.htm" />
+    <HelpKINode Title="constructor" Url="html/013c3e6f-c06b-6ef8-479e-91303eed194a.htm" />
+    <HelpKINode Title="methods" Url="html/3fe6fdcd-8539-9035-09e6-1843638cd257.htm" />
+    <HelpKINode Title="properties" Url="html/1a41202c-dce1-32e0-0ab5-a84f9bdcc818.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SingleLineDrawer.OnGUI method" Url="html/3cfbf029-b3af-d217-585e-d9925ada517c.htm" />
+  <HelpKINode Title="SingleLineDrawer.SingleLineDrawer constructor" Url="html/013c3e6f-c06b-6ef8-479e-91303eed194a.htm" />
+  <HelpKINode Title="SkyboxExposureOriginal property" Url="html/1094d443-cf7d-468c-2bff-f2841428f7ff.htm" />
+  <HelpKINode Title="SmoothingFactor field" Url="html/8a92a137-4c5c-8f88-d383-b7fb0a6e779c.htm" />
+  <HelpKINode Title="SoftParticlesFactor field" Url="html/3c536000-efd4-3b2c-9de9-2661bb6fc6e6.htm" />
+  <HelpKINode Title="SortLayerName field">
+    <HelpKINode Title="LightningBoltDependencies.SortLayerName Field" Url="html/40b0eb06-672d-e1ab-1805-a75d3614608a.htm" />
+    <HelpKINode Title="LightningBoltScript.SortLayerName Field" Url="html/2716d63b-bdd4-0fcd-e3b9-dff980bbae67.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SortOrderInLayer field">
+    <HelpKINode Title="LightningBoltDependencies.SortOrderInLayer Field" Url="html/8e6973e5-16fc-a382-21e0-643c9c5fcbe1.htm" />
+    <HelpKINode Title="LightningBoltScript.SortOrderInLayer Field" Url="html/8b5ee2c5-97f0-7d67-de2d-22a18b968b26.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Source field" Url="html/eb472560-61d4-a11f-d7bb-b9537c7d1928.htm" />
+  <HelpKINode Title="SourceBlendMode field" Url="html/75b35990-60cd-5567-be6f-fee3025eb80d.htm" />
+  <HelpKINode Title="SpaceBarLabel field" Url="html/ce0e5f1a-4e1b-391a-b083-ca12057e4f60.htm" />
+  <HelpKINode Title="Speed field">
+    <HelpKINode Title="DemoPlayerControllerScript.Speed Field" Url="html/c629e2a6-1dc4-9fd7-93bc-150e1be329ac.htm" />
+    <HelpKINode Title="LightningBoltPathScript.Speed Field" Url="html/cd17a3ff-001c-0bd8-4618-c8f746545554.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SpeedIntervalRange field" Url="html/4f9e4c85-bfee-7992-ac8f-828e65e2132e.htm" />
+  <HelpKINode Title="SpellEnd field" Url="html/0f808aef-25eb-f8a5-088f-75382294aa43.htm" />
+  <HelpKINode Title="SpellLabel field" Url="html/cfbd0a2e-2628-87c2-a118-2bcaff9e24bb.htm" />
+  <HelpKINode Title="Spells field" Url="html/6a0a2a55-6cdf-1856-e9ee-af96fe896325.htm" />
+  <HelpKINode Title="SpellStart field" Url="html/1652addb-be48-f6ae-b0a4-33b6145b76cd.htm" />
+  <HelpKINode Title="Spline field" Url="html/c3f448f2-6f06-3d9f-8b6a-4464343269a9.htm" />
+  <HelpKINode Title="SplineToggle field" Url="html/1c828da6-1123-f244-ab26-773a973f7233.htm" />
+  <HelpKINode Title="SpriteToRotate field" Url="html/46f7adf9-4e48-bd24-c351-e3fd3889e252.htm" />
+  <HelpKINode Title="SquareRoot method" Url="html/d402cca6-60e0-d6d2-689b-2ab9e915ec4e.htm" />
+  <HelpKINode Title="Start field">
+    <HelpKINode Title="LightningBoltParameters.Start Field" Url="html/b35b8b76-4757-441d-2f99-be8956ce9f13.htm" />
+    <HelpKINode Title="LightningBoltSegment.Start Field" Url="html/8b368c64-9a86-e826-253d-af5a6361ead0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Start method">
+    <HelpKINode Title="LightningBeamSpellScript.Start Method " Url="html/645ea6b6-b6e0-7a02-c0f1-145165825deb.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.Start Method " Url="html/2b130a72-125c-8cb3-6e7e-48e6191f2716.htm" />
+    <HelpKINode Title="LightningBoltScript.Start Method " Url="html/10fbf2d9-704d-89d5-ead0-a41fb6159969.htm" />
+    <HelpKINode Title="LightningFieldScript.Start Method " Url="html/3d324602-7619-a2c8-544e-c89efba68fdd.htm" />
+    <HelpKINode Title="LightningLightsabreScript.Start Method " Url="html/249e0c12-3878-08a0-9981-d50daccd13c3.htm" />
+    <HelpKINode Title="LightningMeshSurfaceScript.Start Method " Url="html/561539f6-9903-2027-fee1-1e018d4ee3ae.htm" />
+    <HelpKINode Title="LightningParticleSpellScript.Start Method " Url="html/03db0955-da11-4730-b579-3a99a9145327.htm" />
+    <HelpKINode Title="LightningSpellScript.Start Method " Url="html/613ef275-5c77-c2fb-f7a6-0a28281b35f8.htm" />
+    <HelpKINode Title="LightningSplineScript.Start Method " Url="html/fee13a99-4a10-0e2e-4494-895524e76900.htm" />
+    <HelpKINode Title="LightningWhipSpell.Start Method " Url="html/7e004b95-f04a-9bd3-7f30-e6bec2c9e76c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StartCoroutine field" Url="html/c5fe82ed-b2b9-4e9a-9203-bc0ac41cf1a2.htm" />
+  <HelpKINode Title="Started enumeration member" Url="html/76e184d9-712c-5448-ea83-c9a2be45de3b.htm" />
+  <HelpKINode Title="StartImage field" Url="html/e84b8a66-540c-2cbe-7d2c-435659426bcf.htm" />
+  <HelpKINode Title="StartIndex field" Url="html/46d809ae-b8ac-a719-2eba-a04608bf7ae5.htm" />
+  <HelpKINode Title="StartLightningDrag method" Url="html/5b74b60c-9a7c-3cbb-e2cd-5995060eb0f4.htm" />
+  <HelpKINode Title="StartSound field" Url="html/816a440f-0810-759e-d7fb-acfa957e143c.htm" />
+  <HelpKINode Title="StartTarget field" Url="html/5db449a4-c9f5-c326-40e9-e9c6f9046050.htm" />
+  <HelpKINode Title="StartTransform field" Url="html/d4c75b43-f245-f1c5-03c5-0dc73a952812.htm" />
+  <HelpKINode Title="StartVariance field">
+    <HelpKINode Title="LightningBoltParameters.StartVariance Field" Url="html/a97a8b65-f8c4-e734-84f3-32c57c451ef6.htm" />
+    <HelpKINode Title="LightningBoltPrefabScript.StartVariance Field" Url="html/5524e05a-4421-668a-64aa-89e0a330dc5e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="State property" Url="html/958c3307-b084-b519-4552-7393f6612530.htm" />
+  <HelpKINode Title="StopAfterSeconds method" Url="html/912e89e8-3fb2-a65b-7ff9-3cfb6cece583.htm" />
+  <HelpKINode Title="StopSound field" Url="html/2d06bd5e-6aa3-4f58-109e-b5bb5738d623.htm" />
+  <HelpKINode Title="StopSpell method" Url="html/e7c2e876-d40f-3fd8-cd8b-c511002b93cc.htm" />
+  <HelpKINode Title="Tag property" Url="html/67982116-c818-a779-848a-2377ba3335d9.htm" />
+  <HelpKINode Title="TerminateAndWaitForEnd method" Url="html/646705d0-a172-906e-cb50-7b41f36baf95.htm" />
+  <HelpKINode Title="ThreadState field" Url="html/d0fda5d1-0541-c127-9e76-24ac2e13ab43.htm" />
+  <HelpKINode Title="ThunderAndLightningScript class">
+    <HelpKINode Title="ThunderAndLightningScript Class" Url="html/c6a5d82b-8bb2-1591-65a2-cdfd3eca6a4b.htm" />
+    <HelpKINode Title="constructor" Url="html/a8c4c4b6-f0ba-2781-3e3d-d635c00717ab.htm" />
+    <HelpKINode Title="fields" Url="html/2aba0451-f3b5-b2b0-c63c-2201eb4800b5.htm" />
+    <HelpKINode Title="methods" Url="html/2957f839-462f-ba5e-4636-dd41db734b77.htm" />
+    <HelpKINode Title="properties" Url="html/4131913d-81f3-85df-25f7-182f40137e5c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThunderAndLightningScript field" Url="html/65c9257d-f921-c705-ddaf-eabe38ab1a23.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.BaseLightRange field" Url="html/58ff9b40-cd24-c96a-4362-6779be0e6e9d.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.CallIntenseLightning method" Url="html/0aff5932-298c-0567-ab71-458d723844de.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.CallNormalLightning method" Url="html/5cc26cd9-e3ec-0e17-d067-7d12a029c02c.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.Camera field" Url="html/18db8c6e-c3fa-18b4-785f-485888125644.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.CloudLightningChance field" Url="html/15c95a47-4539-7d3c-6cde-ee78a2b33b36.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.EnableLightning property" Url="html/f00b9d4e-5290-d6e9-a43b-702bc72aaae8.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.LightningAlwaysVisible field" Url="html/6dfa66cd-2eeb-5b55-bcb8-638111e29bbe.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.LightningBoltScript field" Url="html/cbc96886-5d20-b164-8138-99b65922d61f.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.LightningIntenseProbability field" Url="html/d4ab445f-bb9b-b74a-38c9-a58aea0613ad.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.LightningIntervalTimeRange field" Url="html/1740096b-f1d6-ea1e-1658-104b085fc9e7.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.LightningYStart field" Url="html/5f2bb604-fc7d-4467-b6be-6a9211b14cdb.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.ModifySkyboxExposure field" Url="html/bde88e3b-bc89-311d-f91c-800ec397bacc.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.SkyboxExposureOriginal property" Url="html/1094d443-cf7d-468c-2bff-f2841428f7ff.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.ThunderAndLightningScript constructor" Url="html/a8c4c4b6-f0ba-2781-3e3d-d635c00717ab.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.ThunderSoundsIntense field" Url="html/e8f202fa-ed5a-6321-3bd9-b90de898d78f.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.ThunderSoundsNormal field" Url="html/b0142f7b-4c38-7074-7207-1744021e9332.htm" />
+  <HelpKINode Title="ThunderAndLightningScript.VolumeMultiplier field" Url="html/03d28d17-8168-7a4c-3023-87281bd24850.htm" />
+  <HelpKINode Title="ThunderSoundsIntense field" Url="html/e8f202fa-ed5a-6321-3bd9-b90de898d78f.htm" />
+  <HelpKINode Title="ThunderSoundsNormal field" Url="html/b0142f7b-4c38-7074-7207-1744021e9332.htm" />
+  <HelpKINode Title="TimeScale field" Url="html/19c66397-8339-e635-197b-9f3ca3571c09.htm" />
+  <HelpKINode Title="TimeSinceStart property" Url="html/6f28f7fb-9ad0-32ea-76ef-c2e728be8745.htm" />
+  <HelpKINode Title="TimeVectorSinceStart property" Url="html/0b12d82f-8668-3f48-00cd-e9fd702094a5.htm" />
+  <HelpKINode Title="Tooltip property" Url="html/db7de27c-3ba9-c2e0-171e-c356e5afd27b.htm" />
+  <HelpKINode Title="ToString method" Url="html/bde9d043-08c0-5ccf-9d15-00fb7f3efbbc.htm" />
+  <HelpKINode Title="Transform field" Url="html/d2b29a5b-edb8-45a4-5173-352b6ff5a83f.htm" />
+  <HelpKINode Title="Transform property" Url="html/d164e591-22ee-516a-cb95-567869e61304.htm" />
+  <HelpKINode Title="Transform1 field" Url="html/2bfb38ed-0193-fb82-89b4-e9c2a3d0bf04.htm" />
+  <HelpKINode Title="Transform2 field" Url="html/aa23118d-7a75-6ebe-1be7-fd941bb93c24.htm" />
+  <HelpKINode Title="Triangles property" Url="html/f9bea707-8d61-eb88-b073-0ed585dc3e9f.htm" />
+  <HelpKINode Title="Trigger method">
+    <HelpKINode Title="LightningBoltPrefabScriptBase.Trigger Method " Url="html/769d91da-3ec6-876e-379e-7f28d752538d.htm" />
+    <HelpKINode Title="LightningSplineScript.Trigger Method " Url="html/ea8263ac-1c69-893e-2433-1be78be756e7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TrunkSliderValueChanged method" Url="html/b246e60b-555a-9f63-784d-435b335aa8f9.htm" />
+  <HelpKINode Title="TrunkWidth field" Url="html/dee2c6c5-0e03-ccda-f903-cf228ba312a9.htm" />
+  <HelpKINode Title="TrunkWidthRange field" Url="html/b320fa43-5e56-d6ec-0846-4764fdf13f87.htm" />
+  <HelpKINode Title="TrunkWidthSlider field" Url="html/1829bb08-c872-9d8a-9317-cb4779f00c13.htm" />
+  <HelpKINode Title="TrunkWidthValueLabel field" Url="html/1e402796-218d-9b0f-9fd6-43ff7c0ea38a.htm" />
+  <HelpKINode Title="Turbulence field" Url="html/7b7f647a-4691-eeb0-339d-88ad6bd7f3eb.htm" />
+  <HelpKINode Title="TurbulenceVelocity field" Url="html/20bc4126-8d34-2d6e-0f70-4cbb1964e82d.htm" />
+  <HelpKINode Title="TurnOn method" Url="html/2de2ea6e-7e3f-238f-a1b3-54c9308a7aac.htm" />
+  <HelpKINode Title="TurnOnGUI method" Url="html/d5d40533-011d-c052-48be-c2ca430af158.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/101b70c5-4857-10d2-a692-0c0ccc077a3e.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="LightningBolt.Update Method " Url="html/5dbe069d-867b-c613-d4a5-6285fd5480fc.htm" />
+    <HelpKINode Title="LightningBoltPrefabScriptBase.Update Method " Url="html/88b3730a-9a27-c0db-dfb4-d6ac1a63cab8.htm" />
+    <HelpKINode Title="LightningBoltScript.Update Method " Url="html/ecbc5f92-2ea0-cd21-f3db-4d75c4e1ce93.htm" />
+    <HelpKINode Title="LightningFieldScript.Update Method " Url="html/06f64f61-acea-3f75-a525-20ca755914a5.htm" />
+    <HelpKINode Title="LightningLightsabreScript.Update Method " Url="html/97fffd97-2a0b-898f-c821-931d3b555871.htm" />
+    <HelpKINode Title="LightningMeshSurfaceScript.Update Method " Url="html/a03a18c9-41bc-84da-8fd3-968a02526d4c.htm" />
+    <HelpKINode Title="LightningParticleSpellScript.Update Method " Url="html/02e130d5-2685-644d-7616-cd56fe022437.htm" />
+    <HelpKINode Title="LightningSpellScript.Update Method " Url="html/6da9b3a1-d0d0-984b-7354-24204b89a661.htm" />
+    <HelpKINode Title="LightningSplineScript.Update Method " Url="html/4922295c-d1d3-e010-db32-9cfeb536cb4b.htm" />
+    <HelpKINode Title="LightningWhipSpell.Update Method " Url="html/44d587b2-b871-2863-fd9f-0ae2ec8baaa0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UpdateMainThreadActions method" Url="html/05c8027a-97b7-ae70-5dbf-bf540febd4df.htm" />
+  <HelpKINode Title="UseGameTime field" Url="html/0ad1748e-a881-338c-c43d-0d46dc99301b.htm" />
+  <HelpKINode Title="UserInfo field" Url="html/990b7ebb-e802-d0e4-7062-8ad1727e3722.htm" />
+  <HelpKINode Title="UseScript enumeration member" Url="html/c39ffb70-3d8f-4c4a-1643-9e3392f4565a.htm" />
+  <HelpKINode Title="UseWorldSpace field">
+    <HelpKINode Title="LightningBoltDependencies.UseWorldSpace Field" Url="html/b785f0d1-ccf2-4093-b535-735d76af8a3d.htm" />
+    <HelpKINode Title="LightningBoltScript.UseWorldSpace Field" Url="html/c2612b18-8993-6c4e-3c2c-5f89d46b61ca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vertices property" Url="html/dcf8e2e5-b06f-bc9c-ff03-3580662f8edb.htm" />
+  <HelpKINode Title="VolumeMultiplier field" Url="html/03d28d17-8168-7a4c-3023-87281bd24850.htm" />
+  <HelpKINode Title="WaitForSecondsLightning class">
+    <HelpKINode Title="WaitForSecondsLightning Class" Url="html/1ae100f3-a924-123c-1d94-177f5c66140a.htm" />
+    <HelpKINode Title="constructor" Url="html/5b2c2f4b-10ec-3c1a-d405-306a997cac7b.htm" />
+    <HelpKINode Title="methods" Url="html/af4be151-f322-f8eb-391d-d03dc9006593.htm" />
+    <HelpKINode Title="properties" Url="html/f874f856-35bf-8b95-8f95-b30b5e69fcc5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WaitForSecondsLightning.keepWaiting property" Url="html/37509c8b-1f1c-f96a-6b1a-08f2bd2e8976.htm" />
+  <HelpKINode Title="WaitForSecondsLightning.WaitForSecondsLightning constructor" Url="html/5b2c2f4b-10ec-3c1a-d405-306a997cac7b.htm" />
+  <HelpKINode Title="WhipCrack field" Url="html/018452a5-924b-3800-4bed-32c1eb97fb73.htm" />
+  <HelpKINode Title="WhipCrackAudioSource field" Url="html/64ac53c7-3b20-08d4-dc1c-37c4ff420623.htm" />
+  <HelpKINode Title="WhipCrackThunder field" Url="html/bf2e72b2-7ca9-6abb-9693-415507180e4f.htm" />
+  <HelpKINode Title="WhipHandle field" Url="html/eb09b5d7-4ad3-d687-9b56-775ee35dca80.htm" />
+  <HelpKINode Title="WhipSpring field" Url="html/6622b39e-2ab9-a300-5261-95ac7d96434a.htm" />
+  <HelpKINode Title="WhipStart field" Url="html/6d0aa899-6d24-4c20-94f4-cda0c0170cce.htm" />
+  <HelpKINode Title="Width field" Url="html/623c5182-51e5-7c91-e9ac-61ded7fc9083.htm" />
+</HelpKI>

@@ -7,5 +7,6 @@
 <ul>
   <li><a href='WeatherMaker/index.html'>Weather Maker</a></li>
   <li><a href='FingersGestures/index.html'>Fingers - Gestures for Unity</a></li>
+  <li><a href='ProceduralLightning/index.html'>Procedural Lightning</a></li>
   <li><a href='FastLineRenderer/index.html'>Fast Line Renderer</a></li>
 </ul>
