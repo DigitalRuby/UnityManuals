@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style_custom.css" />
 <a href='https://www.digitalruby.com/unity-plugins'><img src="/assets/LogoTransBig.png" id="logo" /></a>
-<style>li { padding-bottom: 10px; }</style>
 
 # Manuals for Digital Ruby, LLC Unity Engine Products.
 
